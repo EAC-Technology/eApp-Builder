@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "c09b5edd-d24b-45e5-8543-96c1c9fbbf36", 
+        "Name": "text_confirmed", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "1", 
+        "textdecoration": "none", 
+        "top": "616", 
+        "value": "True", 
+        "visible": "0", 
+        "width": "400", 
+        "zindex": "0"
+    }
+}

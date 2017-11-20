@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        "ID": "5e4a154e-f6bb-438b-9d9d-ae2c407fc01d", 
+        "Name": "s_date", 
+        "Type": "9173329e-7000-1d18-f4c8-93a35421c8cf"
+    }, 
+    "attributes": {
+        "autocomplete": "0", 
+        "classname": "", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "inputmode": "1", 
+        "left": "19", 
+        "mode": "0", 
+        "regional": "ru", 
+        "showbuttonpanel": "0", 
+        "tabindex": "0", 
+        "top": "105", 
+        "value": "2012-08-22", 
+        "visible": "1", 
+        "width": "130", 
+        "zindex": "0"
+    }
+}

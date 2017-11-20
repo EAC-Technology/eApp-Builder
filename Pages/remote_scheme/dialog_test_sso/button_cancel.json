@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "2b986775-171e-4bb3-93af-81fec034f276", 
+        "Name": "button_cancel", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "24", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "151", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "1", 
+        "style": "#%(id)s {height: 33px !important}\n#%(id)s a {\n text-align:center !important;\n background:#fff url(\"/c016ef5e-c636-586d-9841-f3ff499831aa.png\") !important;\n background-repeat:repeat-x;\n background-position:bottom center;\n text-decoration:none;\n line-height:25px;\n border:1px solid #c5c5c5;\n border-radius: 6px;\n -moz-border-radius:6px;\n -webkit-border-radius: 6px;\n -o-border-radius:6px;\n -ms-border-radius: 6px;\n cursor:pointer;\n outline:none !important;\n height:26px !important;\n box-shadow:inset 0px 0px 3px #fff;\n    -moz-box-shadow:inset 0px 0px 3px #fff;\n    -webkit-box-shadow:inset 0px 0px 3px #fff;\n -o-box-shadow:inset 0px 0px 3px #fff;\n -ms-box-shadow:inset 0px 0px 3px #fff;\n -webkit-transition: all 0.7s ease;\n    -moz-transition: all 0.7s ease;\n -o-transition: all 0.7s ease;\n}\n#%(id)s a:hover {\n box-shadow:inset 0px 0px 6px #fff;\n    -moz-box-shadow:inset 0px 0px 6px #fff;\n    -webkit-box-shadow:inset 0px 0px 6px #fff;\n -o-box-shadow:inset 0px 0px 6px #fff;\n -ms-box-shadow:inset 0px 0px 6px #fff;\n border:1px solid #a8a8a8;\n}\n#%(id)s a span {\n line-height:22px !important;\n font-size:14px;\n}\n#%(id)s a span {\n line-height:22px !important;\n font-size:14px;\ncolor:#000;\nfont-family:Arial,sans-serif;\n}\n#%(id)s a.disabled span {\ncolor: #999 !important;\n}", 
+        "tabindex": "0", 
+        "text": "Cancel", 
+        "textdecoration": "none", 
+        "top": "82", 
+        "visible": "1", 
+        "width": "76", 
+        "zindex": "0"
+    }
+}

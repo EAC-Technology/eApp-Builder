@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        "ID": "c9b2a813-7c02-4833-875c-9d260bf9b3b6", 
+        "Name": "vdomclass_macros", 
+        "Type": "0bb24c16-14fe-08ef-858f-ba24aafc8049"
+    }, 
+    "attributes": {
+        "classauto": "", 
+        "classname": "top-macros-buttons", 
+        "data": "", 
+        "dataid": "", 
+        "height": "56", 
+        "hierarchy": "0", 
+        "left": "14", 
+        "title": "", 
+        "top": "0", 
+        "visible": "0", 
+        "width": "90", 
+        "zindex": "0"
+    }
+}

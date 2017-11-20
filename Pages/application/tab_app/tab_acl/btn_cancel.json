@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "e34c5b9a-78f9-44aa-bd4f-caacea99aa37", 
+        "Name": "btn_cancel", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "btn btn-danger", 
+        "color": "FFFFFF", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "36", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "694", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Restore", 
+        "textdecoration": "none", 
+        "top": "28", 
+        "visible": "0", 
+        "width": "98", 
+        "zindex": "0"
+    }
+}

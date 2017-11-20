@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "5ae0b4a3-3755-409e-93c0-4029cf439ec3", 
+        "Name": "page_title", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "page-caption", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "18", 
+        "textdecoration": "none", 
+        "top": "15", 
+        "value": "ProAdmin Management", 
+        "visible": "1", 
+        "width": "595", 
+        "zindex": "0"
+    }
+}

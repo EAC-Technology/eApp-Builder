@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        "ID": "7e493748-dab4-480b-938b-92b77c58718e", 
+        "Name": "plugin", 
+        "Type": "92269b6e-4b6b-4882-852f-f7ef0e89c079"
+    }, 
+    "attributes": {
+        "data": "", 
+        "height": "258", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "structure": "", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "244", 
+        "zindex": "0"
+    }
+}

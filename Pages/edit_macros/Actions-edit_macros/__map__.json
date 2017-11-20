@@ -1,0 +1,30 @@
+{
+    "delete_macros.py": {
+        "ID": "69fa6c68-76b2-419e-bcf3-f0c93d6454bc", 
+        "Left": "222", 
+        "Name": "delete_macros", 
+        "State": "false", 
+        "Top": "382"
+    }, 
+    "onload.py": {
+        "ID": "fd5024f6-c0d1-4840-a1d3-e004a45a68f9", 
+        "Left": "0", 
+        "Name": "onload", 
+        "State": "false", 
+        "Top": "0"
+    }, 
+    "select_macros_picture.py": {
+        "ID": "db9d575f-b7b4-43c9-b779-61e2e282f5d7", 
+        "Left": "222", 
+        "Name": "select_macros_picture", 
+        "State": "false", 
+        "Top": "693"
+    }, 
+    "select_macros_type.py": {
+        "ID": "1a57253e-7a48-43bd-bf6b-97539e3aa69d", 
+        "Left": "217", 
+        "Name": "select_macros_type", 
+        "State": "false", 
+        "Top": "539"
+    }
+}

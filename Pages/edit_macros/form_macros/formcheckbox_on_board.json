@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        "ID": "312c3b21-ef60-4564-8ca1-793afa4fdfa1", 
+        "Name": "formcheckbox_on_board", 
+        "Type": "8077aa1c-6762-4719-a6ea-fdfb0bcfa0c2"
+    }, 
+    "attributes": {
+        "disable": "0", 
+        "fontsize": "12", 
+        "fontweight": "normal", 
+        "height": "16", 
+        "hierarchy": "0", 
+        "label": "On board", 
+        "left": "151", 
+        "state": "0", 
+        "tabindex": "0", 
+        "top": "102", 
+        "value": "1", 
+        "visible": "1", 
+        "width": "85", 
+        "zindex": "0"
+    }
+}

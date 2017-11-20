@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "405bf0b4-b94b-4e46-827f-5a5170642595", 
+        "Name": "tabview1", 
+        "Type": "691b8bc3-0eee-830a-f0e0-e907d2b2489e"
+    }, 
+    "attributes": {
+        "currenttab": "0", 
+        "height": "24", 
+        "hierarchy": "0", 
+        "left": "16", 
+        "showtabs": "1", 
+        "skin": "1", 
+        "style": "", 
+        "top": "215", 
+        "visible": "1", 
+        "width": "248", 
+        "zindex": "1"
+    }
+}

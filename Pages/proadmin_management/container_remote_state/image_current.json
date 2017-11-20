@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        "ID": "85fc61ec-b3a8-40c3-9d0a-4fccc8f21c8e", 
+        "Name": "image_current", 
+        "Type": "0d36c35d-9508-440f-bfec-668f3db8cfeb"
+    }, 
+    "attributes": {
+        "externalurl": "", 
+        "height": "16", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "left": "364", 
+        "resource_cache": "", 
+        "tabindex": "0", 
+        "top": "15", 
+        "value": "#Res(79597b3d-3d05-4462-bc50-02fc85c11da3)", 
+        "visible": "1", 
+        "width": "16", 
+        "zindex": "0"
+    }
+}

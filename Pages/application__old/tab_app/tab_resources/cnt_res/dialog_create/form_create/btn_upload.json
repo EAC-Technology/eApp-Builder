@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        "ID": "f952d98e-9f41-445b-9b39-ec411612bbe6", 
+        "Name": "btn_upload", 
+        "Type": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+    }, 
+    "attributes": {
+        "classname": "btn btn-success", 
+        "height": "30", 
+        "hierarchy": "0", 
+        "label": "Upload", 
+        "left": "99", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "3", 
+        "top": "96", 
+        "type": "2", 
+        "visible": "1", 
+        "width": "90", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "a53fa7b3-5f3b-4461-8aa1-566b65ed4417", 
+        "Name": "copy_css_login", 
+        "Type": "5c1b98df-8609-4660-83b2-44ec7b2e7611"
+    }, 
+    "attributes": {
+        "designcolor": "EEEEEE", 
+        "hierarchy": "0", 
+        "left": "", 
+        "source_object": "6563899a-59e1-4004-81a3-c61e48fdebb3", 
+        "source_object_cache": "6563899a-59e1-4004-81a3-c61e48fdebb3", 
+        "top": "", 
+        "visible": "1", 
+        "zindex": "0"
+    }
+}

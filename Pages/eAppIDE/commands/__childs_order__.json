@@ -1,0 +1,12 @@
+[
+    "closeApp", 
+    "deleteAction", 
+    "editResource", 
+    "loginProcessor", 
+    "newAction", 
+    "saveAction", 
+    "selectWorkspace", 
+    "skipWorkspaceSelection", 
+    "startup", 
+    "closeEditor"
+]

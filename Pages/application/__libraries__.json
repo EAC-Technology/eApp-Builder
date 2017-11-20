@@ -1,0 +1,18 @@
+[
+    "app_settings", 
+    "appinmail_sso_client", 
+    "appinmail_sso_utils", 
+    "forms", 
+    "localization", 
+    "models", 
+    "ProAdmin", 
+    "promail_eac", 
+    "promail_eac_helper", 
+    "templates", 
+    "urls", 
+    "vdom_debug", 
+    "vdom_trace", 
+    "VEE_tools", 
+    "VEE_vmacro_dispatcher", 
+    "widget_localization"
+]

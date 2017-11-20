@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "e31ad40f-a8d4-4d6e-aec4-e97bbe8e0b8f", 
+        "Name": "button_edit", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "blue edit", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "21", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "636", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Edit", 
+        "textdecoration": "none", 
+        "top": "190", 
+        "visible": "1", 
+        "width": "48", 
+        "zindex": "9"
+    }
+}

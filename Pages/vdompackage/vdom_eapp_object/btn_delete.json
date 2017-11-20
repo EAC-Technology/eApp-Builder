@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "a9fcde35-4de2-477c-85e1-85f120771338", 
+        "Name": "btn_delete", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "btn btn-danger", 
+        "color": "ffffff", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "\"Courier New\", \"Nimbus Mono L\", monospace", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "34", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "166", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Delete", 
+        "textdecoration": "none", 
+        "top": "62", 
+        "visible": "1", 
+        "width": "93", 
+        "zindex": "0"
+    }
+}

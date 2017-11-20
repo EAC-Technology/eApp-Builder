@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        "ID": "f95d7535-9226-4d2d-a3a2-530350920aba", 
+        "Name": "eapp_subjects_in_roles", 
+        "Type": "92269b6e-4b6b-4882-852f-f7ef0e89c079"
+    }, 
+    "attributes": {
+        "data": "", 
+        "height": "150", 
+        "hierarchy": "0", 
+        "left": "932", 
+        "structure": "", 
+        "top": "642", 
+        "visible": "1", 
+        "width": "346", 
+        "zindex": "0"
+    }
+}

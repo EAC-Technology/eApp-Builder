@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "4460a9d6-cab5-4fb7-b613-20593cd8fe3e", 
+        "Name": "eapp_css", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "", 
+        "designcolor": "C3D6E0", 
+        "footer": "0", 
+        "height": "80", 
+        "heightauto": "0", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "lockposition": "0", 
+        "overflow": "0", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "container title", 
+        "titlewrap": "0", 
+        "top": "402", 
+        "visible": "1", 
+        "width": "965", 
+        "zindex": "0"
+    }
+}

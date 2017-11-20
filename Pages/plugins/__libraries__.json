@@ -1,0 +1,20 @@
+[
+    "class_custom_event", 
+    "class_macro", 
+    "class_plugins", 
+    "class_timer", 
+    "class_xml_custom_event", 
+    "class_xml_macro", 
+    "class_xml_plugin", 
+    "class_xml_plugin_db", 
+    "class_xml_resource", 
+    "class_xml_timer", 
+    "localization", 
+    "VEE_resources", 
+    "VEE_sqlite3", 
+    "VEE_std_lib", 
+    "VEE_vmacro_dispatcher", 
+    "widget_localization", 
+    "widget_plugins", 
+    "widget_user_group_dialog"
+]

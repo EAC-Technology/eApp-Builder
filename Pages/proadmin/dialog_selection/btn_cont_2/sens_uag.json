@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "f5581bc4-68d1-410e-a986-21b726822cef", 
+        "Name": "sens_uag", 
+        "Type": "7b39c919-de7f-4b77-b048-aae8bcf8edf5"
+    }, 
+    "attributes": {
+        "border": "0", 
+        "containerlink": "c071a209-b3b3-48d3-931e-35143e9653b3", 
+        "height": "77", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "link": "", 
+        "target": "_self", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "167", 
+        "zindex": "0"
+    }
+}

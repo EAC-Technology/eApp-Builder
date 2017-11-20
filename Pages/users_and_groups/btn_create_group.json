@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "95f3a057-b020-4913-9b0a-da91f62b38b0", 
+        "Name": "btn_create_group", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "center", 
+        "border": "0", 
+        "classname": "add-button", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontshift": "0", 
+        "fontsize": "10", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "35", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "18", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Create group", 
+        "textdecoration": "none", 
+        "top": "85", 
+        "visible": "0", 
+        "width": "88", 
+        "zindex": "9"
+    }
+}

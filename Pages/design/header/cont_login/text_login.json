@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "2f464f49-c37b-495f-8268-eb6810a42b37", 
+        "Name": "text_login", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "right", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "bold", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "textdecoration": "none", 
+        "top": "3", 
+        "value": "Text", 
+        "visible": "1", 
+        "width": "230", 
+        "zindex": "0"
+    }
+}

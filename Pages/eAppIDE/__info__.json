@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "063bd121-ef87-4035-8bec-d94ba14947fd", 
+        "Name": "eAppIDE", 
+        "Type": "a15989f1-a6fc-4393-952a-b3e19dd4bf46"
+    }, 
+    "attributes": {
+        "active": "1", 
+        "background": "0", 
+        "bigIcon": "", 
+        "description": "", 
+        "entrypoint": "", 
+        "hierarchy": "0", 
+        "mediumIcon": "", 
+        "smallIcon": "", 
+        "title": "", 
+        "visible": "1", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        "ID": "04840f71-912f-4697-9f41-8e18e19eb850", 
+        "Name": "uploader_resource", 
+        "Type": "823833ac-0f63-431c-82e7-0a502af21c65"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "8", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Select file...", 
+        "top": "22", 
+        "visible": "1", 
+        "width": "405", 
+        "zindex": "0"
+    }
+}

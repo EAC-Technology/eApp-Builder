@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        "ID": "ddd706da-6847-400b-8b1e-fde180cb8cc9", 
+        "Name": "input_name", 
+        "Type": "410ce9c6-5ae0-4c66-9c2b-80b7470e2927"
+    }, 
+    "attributes": {
+        "autocomplete": "1", 
+        "border": "1", 
+        "classname": "form-control", 
+        "focused": "0", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "125", 
+        "mode": "0", 
+        "multiline": "0", 
+        "placeholder": "Name", 
+        "tabindex": "0", 
+        "title": "Name", 
+        "top": "3", 
+        "value": "", 
+        "visible": "1", 
+        "width": "282", 
+        "zindex": "0"
+    }
+}

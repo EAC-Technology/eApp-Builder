@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        "ID": "6b728e43-afb6-43ee-a579-7fc57ea0b2cd", 
+        "Name": "richtext_new", 
+        "Type": "82a69b02-9fba-47d0-b206-6fd1769b0ebd"
+    }, 
+    "attributes": {
+        "align": "", 
+        "classname": "", 
+        "color": "", 
+        "css": "", 
+        "font": "", 
+        "height": "44", 
+        "hierarchy": "0", 
+        "left": "15", 
+        "overflow": "0", 
+        "strikethrough": "0", 
+        "top": "136", 
+        "underlined": "0", 
+        "value": "<p><strong>Create new:</strong></p>", 
+        "visible": "1", 
+        "width": "267", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        "ID": "b7a8b60b-5d1c-483d-936e-097832d14df3", 
+        "Name": "bar1", 
+        "Type": "91a12281-c9a8-430a-8a2d-93903b4a264f"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "color": "DCDCDC", 
+        "height": "2", 
+        "hierarchy": "0", 
+        "left": "14", 
+        "top": "50", 
+        "visible": "1", 
+        "width": "370", 
+        "zindex": "0"
+    }
+}

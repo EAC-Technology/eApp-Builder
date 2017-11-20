@@ -1,0 +1,5 @@
+APP_NAME = "eApp IDE"
+APP_VERSION = "0.1"
+APP_ORG = "VDOM Research"
+
+PING_INTERVAL_SEC = 60;

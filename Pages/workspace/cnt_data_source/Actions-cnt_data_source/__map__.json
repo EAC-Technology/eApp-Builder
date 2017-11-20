@@ -1,0 +1,32 @@
+{
+    "data_source_dialog_fill.py": {
+        "ID": "d325b763-1fef-4bdd-95b8-16a32eae6096", 
+        "Left": "244", 
+        "left": "774", 
+        "Name": "data_source_dialog_fill", 
+        "state": "true", 
+        "State": "false", 
+        "Top": "567", 
+        "top": "614"
+    }, 
+    "data_source_update.py": {
+        "ID": "55019261-cb41-4be6-bd18-c4acea2f1a28", 
+        "Left": "0", 
+        "left": "622", 
+        "Name": "data_source_update", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "48", 
+        "top": "8"
+    }, 
+    "onload.py": {
+        "ID": "bf33ebfe-704b-4678-a18d-928fd3fe75de", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }
+}

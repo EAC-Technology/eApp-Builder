@@ -1,0 +1,18 @@
+[
+    "codeeditor_macros_body", 
+    "formbutton_apply", 
+    "formbutton_cancel", 
+    "formbutton_check", 
+    "formbutton_delete", 
+    "formbutton_export", 
+    "formcheckbox_is_button", 
+    "formcheckbox_on_board", 
+    "formlist_event_list", 
+    "formtext_name", 
+    "hypertext_img", 
+    "text_body", 
+    "text_event", 
+    "text_macros_name", 
+    "text_picture", 
+    "uploader"
+]

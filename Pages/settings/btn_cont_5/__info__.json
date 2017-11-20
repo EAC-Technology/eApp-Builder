@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "51c2c8d2-16a4-4bd3-8f5f-36931706f148", 
+        "Name": "btn_cont_5", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "#Res(eb353013-d06b-4514-81ef-4f17744cab2c)", 
+        "backgroundrepeat": "0", 
+        "classname": "proadmin-big-button plugins", 
+        "designcolor": "EEEEEE", 
+        "footer": "0", 
+        "height": "80", 
+        "heightauto": "0", 
+        "hierarchy": "0", 
+        "left": "782", 
+        "lockposition": "0", 
+        "overflow": "0", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "", 
+        "titlewrap": "0", 
+        "top": "140", 
+        "visible": "1", 
+        "width": "170", 
+        "zindex": "9"
+    }
+}

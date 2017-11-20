@@ -1,0 +1,32 @@
+{
+    "onload.py": {
+        "ID": "189242fd-1426-4ee7-9d2a-f518cc659da5", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "widget_dialog_fill.py": {
+        "ID": "b9d96cd0-330f-4ce4-8224-429e2a88017e", 
+        "Left": "244", 
+        "left": "263", 
+        "Name": "widget_dialog_fill", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "661", 
+        "top": "620"
+    }, 
+    "widget_update.py": {
+        "ID": "67c9a195-dae7-496b-926c-1009793cf174", 
+        "Left": "217", 
+        "left": "150", 
+        "Name": "widget_update", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "142", 
+        "top": "113"
+    }
+}

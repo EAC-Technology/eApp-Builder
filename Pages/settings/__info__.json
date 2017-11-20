@@ -1,0 +1,33 @@
+{
+    "attrs": {
+        "ID": "042dcd5f-fd75-4ece-be93-69d8c2233d12", 
+        "Name": "settings", 
+        "Type": "2330fe83-8cd6-4ed5-907d-11874e7ebcf4"
+    }, 
+    "attributes": {
+        "activelinkcolor": "000000", 
+        "bgcolor": "FFFFFF", 
+        "bgrepeat": "repeat", 
+        "css": "", 
+        "cssclass": "no-subhead", 
+        "deniedlink": "", 
+        "description": "No description", 
+        "hierarchy": "0", 
+        "image": "", 
+        "jqui": "1", 
+        "linkcolor": "000000", 
+        "metadescription": "", 
+        "metakeywords": "", 
+        "noscript": "", 
+        "position": "left", 
+        "securitycode": "", 
+        "style": "", 
+        "testClasses": "", 
+        "testFunc": "", 
+        "textcolor": "000000", 
+        "title": "Settings", 
+        "visible": "1", 
+        "visitedlinkcolor": "000000", 
+        "zindex": "0"
+    }
+}

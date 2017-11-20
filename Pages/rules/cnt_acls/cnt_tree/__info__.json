@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "8bfe8ac5-182c-4215-9abc-276eea8fab7c", 
+        "Name": "cnt_tree", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "acl_container", 
+        "designcolor": "EE0000", 
+        "footer": "0", 
+        "height": "596", 
+        "heightauto": "1", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "lockposition": "0", 
+        "overflow": "3", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "<div class=\"acl_container_title\" style=\"padding-left: 52px !important;\">Objects</div>", 
+        "titlewrap": "7", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "267", 
+        "zindex": "1"
+    }
+}

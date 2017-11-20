@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "96ac93a7-3450-46c6-abfe-ec91e3527e44", 
+        "Name": "copy_width_maker", 
+        "Type": "5c1b98df-8609-4660-83b2-44ec7b2e7611"
+    }, 
+    "attributes": {
+        "designcolor": "EEEEEE", 
+        "hierarchy": "0", 
+        "left": "", 
+        "source_object": "e151ef64-48e1-4717-bb74-7c63f5c68e6b", 
+        "source_object_cache": "e151ef64-48e1-4717-bb74-7c63f5c68e6b", 
+        "top": "", 
+        "visible": "1", 
+        "zindex": "0"
+    }
+}

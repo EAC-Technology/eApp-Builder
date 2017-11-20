@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        "ID": "ec8357d9-3854-4868-a12b-84f89b11333c", 
+        "Name": "richtext_import", 
+        "Type": "82a69b02-9fba-47d0-b206-6fd1769b0ebd"
+    }, 
+    "attributes": {
+        "align": "", 
+        "classname": "", 
+        "color": "", 
+        "css": "", 
+        "font": "", 
+        "height": "42", 
+        "hierarchy": "0", 
+        "left": "17", 
+        "overflow": "0", 
+        "strikethrough": "0", 
+        "top": "87", 
+        "underlined": "0", 
+        "value": "<p><span style=\"color: #444444;\">Import from file:</span></p>", 
+        "visible": "1", 
+        "width": "167", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        "ID": "acdff0b3-a3be-4298-a212-98d6f1f25fa8", 
+        "Name": "img_preview", 
+        "Type": "412e7d1e-02cc-44bd-b5da-598610e5c95c"
+    }, 
+    "attributes": {
+        "classname": "disabled", 
+        "height": "82", 
+        "hierarchy": "0", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "319", 
+        "tabindex": "0", 
+        "top": "280", 
+        "value": "", 
+        "visible": "0", 
+        "width": "88", 
+        "zindex": "0"
+    }
+}

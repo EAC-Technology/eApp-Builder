@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        "ID": "77aebef4-e7d9-4f00-90da-a4edeb2c9625", 
+        "Name": "custom_event", 
+        "Type": "92269b6e-4b6b-4882-852f-f7ef0e89c079"
+    }, 
+    "attributes": {
+        "data": "", 
+        "height": "213", 
+        "hierarchy": "0", 
+        "left": "1003", 
+        "structure": "", 
+        "top": "303", 
+        "visible": "1", 
+        "width": "292", 
+        "zindex": "0"
+    }
+}

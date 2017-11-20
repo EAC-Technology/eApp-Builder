@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        "ID": "ebed922e-ddb7-430a-8b0d-69fc2e563121", 
+        "Name": "input_version", 
+        "Type": "410ce9c6-5ae0-4c66-9c2b-80b7470e2927"
+    }, 
+    "attributes": {
+        "autocomplete": "1", 
+        "border": "1", 
+        "classname": "form-control", 
+        "focused": "0", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "125", 
+        "mode": "0", 
+        "multiline": "0", 
+        "placeholder": "Version", 
+        "tabindex": "0", 
+        "title": "Version", 
+        "top": "148", 
+        "value": "", 
+        "visible": "1", 
+        "width": "141", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "a38e47d0-ec7f-4216-9180-d091b1656731", 
+        "Name": "editorsContainer", 
+        "source_file_name": "editorsContainer.json_source.js", 
+        "Type": "dd7a56de-7a14-4f0b-9370-c34d9aa5469b"
+    }, 
+    "attributes": {
+        "height": "30", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "80", 
+        "zindex": "0"
+    }
+}

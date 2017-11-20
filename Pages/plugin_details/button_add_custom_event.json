@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "cbef28c3-8026-41cf-b9b8-6720dd352178", 
+        "Name": "button_add_custom_event", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "plugin-add", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "28", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "514", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Add new custom event", 
+        "textdecoration": "none", 
+        "top": "2044", 
+        "visible": "1", 
+        "width": "164", 
+        "zindex": "9"
+    }
+}

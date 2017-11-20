@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        "ID": "6dc0ab08-58fd-41fc-b36d-30044124c90a", 
+        "Name": "new_group_name", 
+        "Type": "410ce9c6-5ae0-4c66-9c2b-80b7470e2927"
+    }, 
+    "attributes": {
+        "autocomplete": "1", 
+        "border": "1", 
+        "classname": "", 
+        "focused": "0", 
+        "height": "20", 
+        "hierarchy": "0", 
+        "left": "248", 
+        "mode": "0", 
+        "multiline": "0", 
+        "placeholder": "", 
+        "tabindex": "2", 
+        "title": "", 
+        "top": "151", 
+        "value": "", 
+        "visible": "0", 
+        "width": "185", 
+        "zindex": "9"
+    }
+}

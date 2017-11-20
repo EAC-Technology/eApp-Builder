@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        "ID": "42d584a9-9036-4f6a-bfa5-af28325d1dd4", 
+        "Name": "formbutton_new", 
+        "Type": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "25", 
+        "hierarchy": "0", 
+        "label": "Create new Plugin", 
+        "left": "82", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "top": "20", 
+        "type": "2", 
+        "visible": "1", 
+        "width": "202", 
+        "zindex": "0"
+    }
+}

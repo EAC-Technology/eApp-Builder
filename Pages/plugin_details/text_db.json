@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "dec9f5f1-2cd5-4bb0-b1cd-5a594dde0d73", 
+        "Name": "text_db", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "page-caption", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "81", 
+        "textdecoration": "none", 
+        "top": "1141", 
+        "value": "Databases", 
+        "visible": "1", 
+        "width": "259", 
+        "zindex": "9"
+    }
+}

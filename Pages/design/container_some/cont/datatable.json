@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "7bece48b-df39-454b-9dfd-7cf1d986cd72", 
+        "Name": "datatable", 
+        "Type": "a2240af9-66d1-8841-0c58-ff687f3d2b3c"
+    }, 
+    "attributes": {
+        "cssclass": "datatable-find-users", 
+        "data": "", 
+        "draggable": "0", 
+        "header": "", 
+        "height": "239", 
+        "hiddenfields": "", 
+        "hierarchy": "0", 
+        "key": "", 
+        "left": "0", 
+        "rowactive": "", 
+        "selectedrows": "", 
+        "selectionmode": "1", 
+        "showheader": "0", 
+        "skin": "1", 
+        "style": "#%(id)s caption {font: 18px Arial;text-align:left;margin-bottom:15px;}#%(id)s table.table {border-collapse:collapse;border:1px solid #d4d4d4;height:0px;}#%(id)s .th-cell {height:32px !important;background:#f5f5f5;text-align:left;padding-left:10px;border-bottom:2px solid #d4d4d4;}#%(id)s .thead {height:32px !important;background:#f5f5f5;}#%(id)s table.table td.cell {height:32px !important;text-align:left;padding-left:10px;}#%(id)s tr.even {background: #f0f0f0; } #%(id)s .row {cursor:pointer;}#%(id)s .row_selected {background:#effdff !important;}", 
+        "title": "", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "332", 
+        "zindex": "0"
+    }
+}

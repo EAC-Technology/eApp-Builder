@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "4f8c0c35-7d12-48b5-8c5a-e124691cf41b", 
+        "Name": "information_text", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "center", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "A3A3A3", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "16", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "textdecoration": "none", 
+        "top": "326", 
+        "value": "Application works in remote scheme. Use ProAdmin application to configure Users and Groups.", 
+        "visible": "1", 
+        "width": "944", 
+        "zindex": "0"
+    }
+}

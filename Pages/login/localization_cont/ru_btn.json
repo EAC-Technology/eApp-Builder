@@ -1,0 +1,37 @@
+{
+    "attrs": {
+        "ID": "5feb1a34-3b2d-48da-b6e7-2d10487c27e4", 
+        "Name": "ru_btn", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "", 
+        "color": "000000", 
+        "containerlink": "", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "11", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "#Res(20851509-a308-4663-a47b-15021ff1e122)", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "56", 
+        "link": "?ln=ru", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "", 
+        "textdecoration": "none", 
+        "top": "2", 
+        "visible": "1", 
+        "width": "16", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "76c08fe7-7c2e-48c1-966b-b83156da4e3d", 
+        "Name": "text_confirmation", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "10", 
+        "textdecoration": "none", 
+        "top": "94", 
+        "value": "Confirm password:", 
+        "visible": "1", 
+        "width": "102", 
+        "zindex": "0"
+    }
+}

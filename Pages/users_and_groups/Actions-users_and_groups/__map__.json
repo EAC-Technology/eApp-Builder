@@ -1,0 +1,142 @@
+{
+    "add_selected_users_to_group_show.py": {
+        "ID": "f0d050b9-ff0e-4af0-8a67-6798046085b2", 
+        "Left": "844", 
+        "left": "1370", 
+        "Name": "add_selected_users_to_group_show", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "974", 
+        "top": "933"
+    }, 
+    "add_selected_users_to_group_submit.py": {
+        "ID": "3136bbf7-1245-46a0-99af-f443a5db269c", 
+        "Left": "1380", 
+        "left": "1380", 
+        "Name": "add_selected_users_to_group_submit", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "1050", 
+        "top": "1050"
+    }, 
+    "change_objects_from_group.py": {
+        "ID": "7652dbc9-b81b-4d6f-af9d-b18851f02559", 
+        "Left": "214", 
+        "left": "211", 
+        "Name": "change_objects_from_group", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "865", 
+        "top": "869"
+    }, 
+    "change_objects_per_page.py": {
+        "ID": "333b8e9c-4be3-44cb-adb8-ad26872adfa8", 
+        "Left": "209", 
+        "left": "209", 
+        "Name": "change_objects_per_page", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "921", 
+        "top": "914"
+    }, 
+    "change_page.py": {
+        "ID": "65b7d464-53ce-4df6-9e0f-af74852a4a76", 
+        "Left": "211", 
+        "left": "211", 
+        "Name": "change_page", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "1118", 
+        "top": "1118"
+    }, 
+    "create_update_user_or_group_fill_datatable.py": {
+        "ID": "6e5ba064-3fc8-4c2f-8023-92c363e5fbb2", 
+        "Left": "1286", 
+        "left": "327", 
+        "Name": "create_update_user_or_group_fill_datatable", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "0", 
+        "top": "259"
+    }, 
+    "create_update_user_or_group_search.py": {
+        "ID": "d5863609-43bb-4a2f-9777-25444b3c3e83", 
+        "Left": "1346", 
+        "left": "849", 
+        "Name": "create_update_user_or_group_search", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "694", 
+        "top": "918"
+    }, 
+    "create_update_user_or_group_show.py": {
+        "ID": "599b2a32-84b2-4a17-89fa-fe174fd0876c", 
+        "Left": "0", 
+        "left": "1434", 
+        "Name": "create_update_user_or_group_show", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "0", 
+        "top": "775"
+    }, 
+    "create_update_user_or_group_submit.py": {
+        "ID": "6fd8a180-ff96-45b9-acae-5bf12839f605", 
+        "Left": "1344", 
+        "left": "1344", 
+        "Name": "create_update_user_or_group_submit", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "445", 
+        "top": "445"
+    }, 
+    "delete_selected_rows_show.py": {
+        "ID": "672bb6c8-c3f7-46ee-bc03-857df7a2610d", 
+        "Left": "0", 
+        "left": "858", 
+        "Name": "delete_selected_rows_show", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "0", 
+        "top": "1052"
+    }, 
+    "delete_selected_rows_submit.py": {
+        "ID": "7cc35d39-fb87-4042-9741-0ead589425e5", 
+        "Left": "852", 
+        "left": "859", 
+        "Name": "delete_selected_rows_submit", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "1014", 
+        "top": "1091"
+    }, 
+    "onload.py": {
+        "ID": "84df63b2-3f88-46f3-bc2f-a11f39489664", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "sort_data_in_datatable.py": {
+        "ID": "5f947b2a-56f3-484f-a23f-bbbd4299f1ad", 
+        "Left": "1442", 
+        "left": "1442", 
+        "Name": "sort_data_in_datatable", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "826", 
+        "top": "826"
+    }, 
+    "tabview_tab_change.py": {
+        "ID": "988e2629-f334-4e80-9b19-aefdd6698331", 
+        "Left": "212", 
+        "left": "212", 
+        "Name": "tabview_tab_change", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "971", 
+        "top": "971"
+    }
+}

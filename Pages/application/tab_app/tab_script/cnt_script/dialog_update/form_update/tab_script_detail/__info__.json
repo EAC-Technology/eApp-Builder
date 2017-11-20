@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "54eb5bb9-da29-4ea9-9c0a-4c4001c1a5ac", 
+        "Name": "tab_script_detail", 
+        "Type": "691b8bc3-0eee-830a-f0e0-e907d2b2489e"
+    }, 
+    "attributes": {
+        "currenttab": "2", 
+        "height": "353", 
+        "hierarchy": "0", 
+        "left": "7", 
+        "showtabs": "1", 
+        "skin": "0", 
+        "style": "", 
+        "top": "12", 
+        "visible": "1", 
+        "width": "759", 
+        "zindex": "0"
+    }
+}

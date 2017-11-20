@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        "ID": "941d1e59-3e55-4f42-b3d0-b485bf9c0573", 
+        "Name": "btn_fill", 
+        "Type": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "25", 
+        "hierarchy": "0", 
+        "label": "Fill login", 
+        "left": "32", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "top": "454", 
+        "type": "2", 
+        "visible": "1", 
+        "width": "90", 
+        "zindex": "0"
+    }
+}

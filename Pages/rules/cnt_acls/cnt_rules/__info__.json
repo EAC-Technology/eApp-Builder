@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "d3bdfb7e-24ca-4bfc-a044-9aa0a8922c04", 
+        "Name": "cnt_rules", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "container_white", 
+        "designcolor": "58C641", 
+        "footer": "0", 
+        "height": "601", 
+        "heightauto": "1", 
+        "hierarchy": "0", 
+        "left": "588", 
+        "lockposition": "0", 
+        "overflow": "3", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "<div style=\"padding-left: 15px;\" class=\"acl_container_title\">Rights Management</div>", 
+        "titlewrap": "7", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "352", 
+        "zindex": "2"
+    }
+}

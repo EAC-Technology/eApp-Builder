@@ -1,0 +1,10 @@
+[
+    "app_settings", 
+    "forms", 
+    "localization", 
+    "models", 
+    "templates", 
+    "urls", 
+    "vdom_debug", 
+    "widget_localization"
+]

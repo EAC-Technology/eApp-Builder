@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "a0588c22-9acc-41e0-a5ce-f775f3c6ca92", 
+        "Name": "hpt_role_custom_update", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "30", 
+        "hierarchy": "0", 
+        "htmlcode": "", 
+        "left": "214", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "73", 
+        "visible": "1", 
+        "width": "54", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "e344c965-bb94-4f00-94cb-dbd6f0c7a608", 
+        "Name": "groups_btn", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "center", 
+        "border": "0", 
+        "classname": "ug-switch", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "24", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "306", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Groups", 
+        "textdecoration": "none", 
+        "top": "11", 
+        "visible": "1", 
+        "width": "84", 
+        "zindex": "0"
+    }
+}

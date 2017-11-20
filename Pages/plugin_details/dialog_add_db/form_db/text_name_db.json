@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "a2cd0bd6-8976-4a0f-8df3-0050ad8d3c6b", 
+        "Name": "text_name_db", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "bold", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "7", 
+        "textdecoration": "none", 
+        "top": "7", 
+        "value": "DB name:", 
+        "visible": "1", 
+        "width": "92", 
+        "zindex": "0"
+    }
+}

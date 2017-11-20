@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "43ed149d-c5ca-4564-9617-b64d6f6c74f6", 
+        "Name": "ctn_logs", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "cnt-logs", 
+        "designcolor": "EEEEEE", 
+        "footer": "0", 
+        "height": "678", 
+        "heightauto": "0", 
+        "hierarchy": "0", 
+        "left": "20", 
+        "lockposition": "0", 
+        "overflow": "0", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "", 
+        "titlewrap": "0", 
+        "top": "48", 
+        "visible": "1", 
+        "width": "860", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        "ID": "942b6401-344f-46c8-916f-2436840a9f35", 
+        "Name": "eapp_workspace", 
+        "Type": "92269b6e-4b6b-4882-852f-f7ef0e89c079"
+    }, 
+    "attributes": {
+        "data": "", 
+        "height": "171", 
+        "hierarchy": "0", 
+        "left": "1", 
+        "structure": "", 
+        "top": "192", 
+        "visible": "1", 
+        "width": "232", 
+        "zindex": "0"
+    }
+}

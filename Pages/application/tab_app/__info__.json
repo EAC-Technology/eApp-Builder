@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "8831bbf2-72c7-49ca-9c10-3daaf81a9e13", 
+        "Name": "tab_app", 
+        "Type": "691b8bc3-0eee-830a-f0e0-e907d2b2489e"
+    }, 
+    "attributes": {
+        "currenttab": "2", 
+        "height": "595", 
+        "hierarchy": "0", 
+        "left": "172", 
+        "showtabs": "0", 
+        "skin": "0", 
+        "style": "", 
+        "top": "130", 
+        "visible": "1", 
+        "width": "798", 
+        "zindex": "0"
+    }
+}

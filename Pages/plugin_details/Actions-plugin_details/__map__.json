@@ -1,0 +1,242 @@
+{
+    "clear_macros_form.py": {
+        "ID": "4ffe16df-c5ab-4dd8-ac3b-d4271978241b", 
+        "Left": "649", 
+        "left": "229", 
+        "Name": "clear_macros_form", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "1106", 
+        "top": "224"
+    }, 
+    "create_plugin_config.py": {
+        "ID": "df5b288f-d2ce-4dac-81a8-940df74812ef", 
+        "Left": "274", 
+        "left": "274", 
+        "Name": "create_plugin_config", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "2615", 
+        "top": "2615"
+    }, 
+    "custom_event_operation.py": {
+        "ID": "8bbed525-e3bc-4297-aff8-ca38f4963901", 
+        "Left": "1147", 
+        "left": "1147", 
+        "Name": "custom_event_operation", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "3099", 
+        "top": "3099"
+    }, 
+    "db_operation.py": {
+        "ID": "995030e4-e228-4454-9ad0-26181134b0d1", 
+        "Left": "304", 
+        "left": "304", 
+        "Name": "db_operation", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "2880", 
+        "top": "2880"
+    }, 
+    "delete_custom_event.py": {
+        "ID": "416d2e88-8c66-405d-b903-ca8b10c22b91", 
+        "Left": "1136", 
+        "left": "1136", 
+        "Name": "delete_custom_event", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "3218", 
+        "top": "3218"
+    }, 
+    "delete_db.py": {
+        "ID": "dc4f1306-d908-47cc-947e-98df8c79e821", 
+        "Left": "302", 
+        "left": "302", 
+        "Name": "delete_db", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "3047", 
+        "top": "3047"
+    }, 
+    "delete_macro.py": {
+        "ID": "6c83648b-a216-48a9-923d-575d1c574e96", 
+        "Left": "761", 
+        "left": "761", 
+        "Name": "delete_macro", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "1373", 
+        "top": "1373"
+    }, 
+    "delete_resource.py": {
+        "ID": "6eb58859-ee66-4980-8901-8d44b9f3c606", 
+        "Left": "239", 
+        "left": "239", 
+        "Name": "delete_resource", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "3293", 
+        "top": "3293"
+    }, 
+    "delete_timer.py": {
+        "ID": "f7a165b6-0d3e-4aed-b708-980bc2dfa44b", 
+        "Left": "737", 
+        "left": "737", 
+        "Name": "delete_timer", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "1900", 
+        "top": "1900"
+    }, 
+    "execute_macros.py": {
+        "ID": "69c8d49b-52c8-4d62-a5b5-19ac85949f0b", 
+        "Left": "265", 
+        "left": "265", 
+        "Name": "execute_macros", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "2496", 
+        "top": "2496"
+    }, 
+    "export_plugin.py": {
+        "ID": "b1bf341e-d5df-4352-b8f1-8fe6e32d5a70", 
+        "Left": "881", 
+        "left": "891", 
+        "Name": "export_plugin", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "2151", 
+        "top": "2150"
+    }, 
+    "fill_dialog_custom_event.py": {
+        "ID": "76333007-dcfa-4363-85bd-8752cb1b638b", 
+        "Left": "1140", 
+        "left": "1140", 
+        "Name": "fill_dialog_custom_event", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "3340", 
+        "top": "3340"
+    }, 
+    "fill_dialog_macro.py": {
+        "ID": "9bf2bac5-0f63-46df-9f94-391021aacce2", 
+        "Left": "670", 
+        "left": "670", 
+        "Name": "fill_dialog_macro", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "24", 
+        "top": "24"
+    }, 
+    "fill_dialog_plugin.py": {
+        "ID": "6f683fdd-69b1-4c8e-8183-61a9d63ccbe3", 
+        "Left": "229", 
+        "left": "229", 
+        "Name": "fill_dialog_plugin", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "2034", 
+        "top": "2034"
+    }, 
+    "fill_dialog_timer.py": {
+        "ID": "22a9317c-1219-4bea-a766-25333198d598", 
+        "Left": "220", 
+        "left": "220", 
+        "Name": "fill_dialog_timer", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "1682", 
+        "top": "1682"
+    }, 
+    "fill_update_dialog.py": {
+        "ID": "145a5ec3-ae9b-416e-92f0-1926c41af7db", 
+        "Left": "1398", 
+        "left": "1191", 
+        "Name": "fill_update_dialog", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "2161", 
+        "top": "2260"
+    }, 
+    "macros_operation.py": {
+        "ID": "2bbc6dbc-184e-4c2f-b3e3-50cf45076407", 
+        "Left": "253", 
+        "left": "253", 
+        "Name": "macros_operation", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "1115", 
+        "top": "1115"
+    }, 
+    "onload.py": {
+        "ID": "9b8b3332-dfc2-49c2-8237-755bc921624c", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "res_operation.py": {
+        "ID": "e073a74d-2c29-4948-aa31-b126667978df", 
+        "Left": "268", 
+        "left": "268", 
+        "Name": "res_operation", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "3487", 
+        "top": "3487"
+    }, 
+    "save_custom_event.py": {
+        "ID": "c2f0d44a-2d8f-4619-a009-4bd9f2ebd306", 
+        "Left": "1142", 
+        "left": "647", 
+        "Name": "save_custom_event", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "3448", 
+        "top": "3491"
+    }, 
+    "save_macro.py": {
+        "ID": "796aa599-0331-497e-bcca-8dfb121035f7", 
+        "Left": "719", 
+        "left": "719", 
+        "Name": "save_macro", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "888", 
+        "top": "888"
+    }, 
+    "save_timer.py": {
+        "ID": "e5eaee4e-a4ff-4672-9bca-95b29ab4f324", 
+        "Left": "1201", 
+        "left": "1201", 
+        "Name": "save_timer", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "1499", 
+        "top": "1499"
+    }, 
+    "timer_operation.py": {
+        "ID": "005cc083-251c-4174-861d-8ab5875b5c82", 
+        "Left": "218", 
+        "left": "218", 
+        "Name": "timer_operation", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "1773", 
+        "top": "1773"
+    }, 
+    "uninstall_plugin.py": {
+        "ID": "d95a61f8-c4a9-4ab0-ac8d-88604185ff3e", 
+        "Left": "243", 
+        "left": "741", 
+        "Name": "uninstall_plugin", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "2146", 
+        "top": "2285"
+    }
+}

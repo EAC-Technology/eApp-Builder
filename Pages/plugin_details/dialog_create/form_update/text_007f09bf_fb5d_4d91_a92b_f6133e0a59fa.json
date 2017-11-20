@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "41562d60-4950-4b83-a4ed-e4a1c851ed55", 
+        "Name": "text_007f09bf_fb5d_4d91_a92b_f6133e0a59fa", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "bold", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "226", 
+        "textdecoration": "none", 
+        "top": "307", 
+        "value": "Icon:", 
+        "visible": "1", 
+        "width": "186", 
+        "zindex": "9"
+    }
+}

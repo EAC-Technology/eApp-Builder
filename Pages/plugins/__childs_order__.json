@@ -1,0 +1,16 @@
+[
+    "button_add_plugin", 
+    "copy_efa9967d_6d2e_48e2_a874_9210099286b3", 
+    "copy_header", 
+    "datatable_plugin", 
+    "dialog_add_plugin", 
+    "dialog_create", 
+    "dialog_error", 
+    "dialog_md5", 
+    "dialog_uninstall", 
+    "dialog_update_plugin", 
+    "growl", 
+    "page_title", 
+    "throbber_load", 
+    "xmldialog"
+]

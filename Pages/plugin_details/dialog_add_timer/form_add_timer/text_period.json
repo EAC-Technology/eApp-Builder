@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "80163290-353e-4ad0-bbfb-66b72ca4fc6e", 
+        "Name": "text_period", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "bold", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "5", 
+        "textdecoration": "none", 
+        "top": "60", 
+        "value": "Interval:", 
+        "visible": "1", 
+        "width": "204", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        "ID": "80efa4e6-c1c8-4c0d-90a8-b4a9d1481654", 
+        "Name": "checkbtn", 
+        "Type": "8077aa1c-6762-4719-a6ea-fdfb0bcfa0c2"
+    }, 
+    "attributes": {
+        "disable": "0", 
+        "fontsize": "12", 
+        "fontweight": "normal", 
+        "height": "18", 
+        "hierarchy": "0", 
+        "label": "CheckBox", 
+        "left": "28", 
+        "state": "1", 
+        "tabindex": "0", 
+        "top": "6", 
+        "value": "1", 
+        "visible": "1", 
+        "width": "269", 
+        "zindex": "0"
+    }
+}

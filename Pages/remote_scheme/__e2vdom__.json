@@ -1,0 +1,463 @@
+{
+    "actions": [
+        {
+            "ID": "21CC2B78-A9E4-4AA2-A4CA-B5F480F8D53A", 
+            "Left": "817", 
+            "MethodName": "hide", 
+            "ObjTgtID": "68364914-c8ee-4787-9cef-6d244945ad3c", 
+            "ObjTgtName": "dialog_sso_success", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "914"
+        }, 
+        {
+            "ID": "28AD1BB4-3BDA-4959-880C-8F56A44C8416", 
+            "Left": "225", 
+            "MethodName": "show", 
+            "ObjTgtID": "6046ca52-f45e-456e-8a2b-5e082a7926c8", 
+            "ObjTgtName": "formbutton_apply", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "0"
+        }, 
+        {
+            "ID": "4498AD7B-118D-4FCD-BFCD-23A737930193", 
+            "Left": "228", 
+            "MethodName": "show", 
+            "ObjTgtID": "7584d9a4-350e-402e-95fb-c79e8b529909", 
+            "ObjTgtName": "container_disable", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "185"
+        }, 
+        {
+            "ID": "62BCB06F-9F78-4C56-856B-372D537C5262", 
+            "Left": "823", 
+            "MethodName": "setSharedVariable", 
+            "ObjTgtID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "ObjTgtName": "htmlcontainer_acb3894d_8aaf_405d_bd0e_2e62aa4cd68c", 
+            "Params": [
+                [
+                    "key", 
+                    "'host'"
+                ], 
+                [
+                    "value", 
+                    "evt_param(\"itemValue\")"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "0"
+        }, 
+        {
+            "ID": "7EE0705F-D53E-402A-8EBD-37A2DD5D3C7E", 
+            "Left": "242", 
+            "MethodName": "hide", 
+            "ObjTgtID": "6046ca52-f45e-456e-8a2b-5e082a7926c8", 
+            "ObjTgtName": "formbutton_apply", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "453"
+        }, 
+        {
+            "ID": "8D92E5E2-A31D-4104-B2C8-6BA3A0D5F9FA", 
+            "Left": "253", 
+            "MethodName": "hide", 
+            "ObjTgtID": "7584d9a4-350e-402e-95fb-c79e8b529909", 
+            "ObjTgtName": "container_disable", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "315"
+        }, 
+        {
+            "ID": "8F339585-ABF6-44BC-AF9E-3F09346B7F25", 
+            "Left": "803", 
+            "MethodName": "hide", 
+            "ObjTgtID": "f8203e05-57d8-4fbc-8046-b6517e4a1343", 
+            "ObjTgtName": "dialog_test_sso", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "779"
+        }, 
+        {
+            "ID": "9217FAE3-FD8C-4DA5-B67F-07D322A7367D", 
+            "Left": "825", 
+            "MethodName": "setSharedVariable", 
+            "ObjTgtID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "ObjTgtName": "htmlcontainer_acb3894d_8aaf_405d_bd0e_2e62aa4cd68c", 
+            "Params": [
+                [
+                    "key", 
+                    "'login'"
+                ], 
+                [
+                    "value", 
+                    "evt_param(\"itemValue\")"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "112"
+        }, 
+        {
+            "ID": "9D03A90E-B235-47F3-8E51-ABE18917F3AC", 
+            "Left": "821", 
+            "MethodName": "hide", 
+            "ObjTgtID": "3d5d3cab-48f9-4aed-8dc1-7e590a53f3ca", 
+            "ObjTgtName": "dialog_standalone", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "1336"
+        }, 
+        {
+            "ID": "D873891F-7600-42C9-B9FE-CF6E9052EF56", 
+            "Left": "817", 
+            "MethodName": "show", 
+            "ObjTgtID": "f8203e05-57d8-4fbc-8046-b6517e4a1343", 
+            "ObjTgtName": "dialog_test_sso", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "526"
+        }, 
+        {
+            "ID": "D925E827-3342-4EC1-9AF0-B6C0CE80526C", 
+            "Left": "822", 
+            "MethodName": "setSharedVariable", 
+            "ObjTgtID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "ObjTgtName": "htmlcontainer_acb3894d_8aaf_405d_bd0e_2e62aa4cd68c", 
+            "Params": [
+                [
+                    "key", 
+                    "'password'"
+                ], 
+                [
+                    "value", 
+                    "evt_param(\"itemValue\")"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "233"
+        }, 
+        {
+            "ID": "E7CED94F-68B6-4078-B65E-2A186486C2D0", 
+            "Left": "817", 
+            "MethodName": "hide", 
+            "ObjTgtID": "5c6c4674-edad-4c4a-893a-ef323ff12e87", 
+            "ObjTgtName": "dialog_proadmin", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "1227"
+        }
+    ], 
+    "events": [
+        {
+            "actions": [
+                "21CC2B78-A9E4-4AA2-A4CA-B5F480F8D53A"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "566", 
+            "Name": "click", 
+            "ObjSrcID": "1a44d779-9a07-4f23-9d19-7e0e8d4e8e37", 
+            "ObjSrcName": "button_close", 
+            "State": "true", 
+            "Top": "928", 
+            "TypeID": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+        }, 
+        {
+            "actions": [
+                "E7CED94F-68B6-4078-B65E-2A186486C2D0"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "566", 
+            "Name": "click", 
+            "ObjSrcID": "946c7ceb-3dd0-4caf-8d37-78e3f85936e2", 
+            "ObjSrcName": "button_close", 
+            "State": "true", 
+            "Top": "1216", 
+            "TypeID": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+        }, 
+        {
+            "actions": [
+                "12734e14-4eda-4b8c-a6b2-7e65f46b481b"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "1035", 
+            "Name": "click", 
+            "ObjSrcID": "713ff9a5-d3b4-4c90-959a-614b9649a5b2", 
+            "ObjSrcName": "image_faq", 
+            "State": "true", 
+            "Top": "1333", 
+            "TypeID": "0d36c35d-9508-440f-bfec-668f3db8cfeb"
+        }, 
+        {
+            "actions": [
+                "59aa27e8-5841-4e49-bed1-39b05a9a3df3"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "1", 
+            "Name": "click", 
+            "ObjSrcID": "f6eff9ed-7819-4f72-ab9b-2aff60941764", 
+            "ObjSrcName": "formbutton_reset", 
+            "State": "true", 
+            "Top": "1276", 
+            "TypeID": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+        }, 
+        {
+            "actions": [
+                "9D03A90E-B235-47F3-8E51-ABE18917F3AC"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "566", 
+            "Name": "click", 
+            "ObjSrcID": "a2d94153-650d-47e5-ab29-0eb18a7b42e5", 
+            "ObjSrcName": "button_close", 
+            "State": "true", 
+            "Top": "1336", 
+            "TypeID": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+        }, 
+        {
+            "actions": [
+                "7768c919-9ef4-4215-a7be-816a7a258bcd"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "1", 
+            "Name": "click", 
+            "ObjSrcID": "910db327-a337-48e7-8c05-5ad6c122345f", 
+            "ObjSrcName": "formbutton_apply", 
+            "State": "true", 
+            "Top": "702", 
+            "TypeID": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+        }, 
+        {
+            "actions": [
+                "85894580-ff63-48c9-81e9-58f1e9452e3d", 
+                "8D92E5E2-A31D-4104-B2C8-6BA3A0D5F9FA", 
+                "7EE0705F-D53E-402A-8EBD-37A2DD5D3C7E"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "0", 
+            "Name": "change", 
+            "ObjSrcID": "e73dc0dc-0d8a-4bb3-8d58-1b65e3f9aa78", 
+            "ObjSrcName": "formradiobutton_remote", 
+            "State": "true", 
+            "Top": "392", 
+            "TypeID": "213f1e8c-8a3e-452b-af33-4ca3139fe960"
+        }, 
+        {
+            "actions": [
+                "8eb706d3-5947-4555-9525-bf6fb7400ef4"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "0", 
+            "Name": "click", 
+            "ObjSrcID": "7dd63513-dc6a-4078-9fd5-12671d48ae99", 
+            "ObjSrcName": "button_restart", 
+            "State": "true", 
+            "Top": "1116", 
+            "TypeID": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+        }, 
+        {
+            "actions": [
+                "D873891F-7600-42C9-B9FE-CF6E9052EF56"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "575", 
+            "Name": "click", 
+            "ObjSrcID": "22d3c8a9-7468-4c74-a980-c4ae5dd1e641", 
+            "ObjSrcName": "button_test_sso", 
+            "State": "true", 
+            "Top": "524", 
+            "TypeID": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+        }, 
+        {
+            "actions": [
+                "8c67dfc7-01cc-4764-b371-31a3a81c1c14"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "3", 
+            "Name": "click", 
+            "ObjSrcID": "c719cd2a-b197-428b-9478-6b5a2016a0d0", 
+            "ObjSrcName": "button_refresh", 
+            "State": "true", 
+            "Top": "976", 
+            "TypeID": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+        }, 
+        {
+            "actions": [
+                "c223b3b8-1d7c-48f5-800d-61a6221529ed", 
+                "8F339585-ABF6-44BC-AF9E-3F09346B7F25"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "580", 
+            "Name": "click", 
+            "ObjSrcID": "096f7770-715a-4633-8684-af5e7d65484d", 
+            "ObjSrcName": "button_apply", 
+            "State": "true", 
+            "Top": "671", 
+            "TypeID": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+        }, 
+        {
+            "actions": [
+                "62BCB06F-9F78-4C56-856B-372D537C5262"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "569", 
+            "Name": "valuechange", 
+            "ObjSrcID": "45aed345-8bc8-4d30-9ba7-bdf95ebe904c", 
+            "ObjSrcName": "formtext_host", 
+            "State": "true", 
+            "Top": "1", 
+            "TypeID": "410ce9c6-5ae0-4c66-9c2b-80b7470e2927"
+        }, 
+        {
+            "actions": [
+                "9217FAE3-FD8C-4DA5-B67F-07D322A7367D"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "577", 
+            "Name": "valuechange", 
+            "ObjSrcID": "3c05d0d5-a459-4bb2-9a4d-a87703ecc947", 
+            "ObjSrcName": "formtext_login", 
+            "State": "true", 
+            "Top": "113", 
+            "TypeID": "410ce9c6-5ae0-4c66-9c2b-80b7470e2927"
+        }, 
+        {
+            "actions": [
+                "506abab4-3cfa-4b46-9bab-96ad1479963c"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "0", 
+            "Name": "click", 
+            "ObjSrcID": "6046ca52-f45e-456e-8a2b-5e082a7926c8", 
+            "ObjSrcName": "formbutton_apply", 
+            "State": "true", 
+            "Top": "832", 
+            "TypeID": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+        }, 
+        {
+            "actions": [
+                "D925E827-3342-4EC1-9AF0-B6C0CE80526C"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "574", 
+            "Name": "valuechange", 
+            "ObjSrcID": "6fb34b2e-4694-42c8-af7f-82d91d4990c4", 
+            "ObjSrcName": "formpassword", 
+            "State": "true", 
+            "Top": "226", 
+            "TypeID": "6555559f-3092-49bd-8b91-ca15ba10a373"
+        }, 
+        {
+            "actions": [
+                "8F339585-ABF6-44BC-AF9E-3F09346B7F25"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "576", 
+            "Name": "click", 
+            "ObjSrcID": "2b986775-171e-4bb3-93af-81fec034f276", 
+            "ObjSrcName": "button_cancel", 
+            "State": "true", 
+            "Top": "800", 
+            "TypeID": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+        }, 
+        {
+            "actions": [
+                "4a240232-7df4-438c-bd17-f4db3915dcc3"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "1053", 
+            "Name": "click", 
+            "ObjSrcID": "479c1173-8d6a-45f2-8bc5-fda99493f7db", 
+            "ObjSrcName": "image_faq", 
+            "State": "true", 
+            "Top": "1213", 
+            "TypeID": "0d36c35d-9508-440f-bfec-668f3db8cfeb"
+        }, 
+        {
+            "actions": [
+                "28AD1BB4-3BDA-4959-880C-8F56A44C8416", 
+                "3e0e1a81-dbe1-4d78-b612-f910c058d3b2", 
+                "4498AD7B-118D-4FCD-BFCD-23A737930193"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "2", 
+            "Name": "change", 
+            "ObjSrcID": "6a89d62b-7306-41e6-bd18-855ef9c8c557", 
+            "ObjSrcName": "formradiobutton_local", 
+            "State": "true", 
+            "Top": "46", 
+            "TypeID": "213f1e8c-8a3e-452b-af33-4ca3139fe960"
+        }, 
+        {
+            "actions": [
+                "D873891F-7600-42C9-B9FE-CF6E9052EF56"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "1045", 
+            "Name": "click", 
+            "ObjSrcID": "2b1b2128-1435-4c1e-956e-94d4c04b88a9", 
+            "ObjSrcName": "formbutton_test_sso", 
+            "State": "true", 
+            "Top": "524", 
+            "TypeID": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+        }, 
+        {
+            "actions": [
+                "1d201b45-8f51-48c7-9688-0c023cf77286"
+            ], 
+            "ContainerID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+            "Left": "579", 
+            "Name": "click", 
+            "ObjSrcID": "71ddbb39-3830-4ae3-a50d-ed767cd3f542", 
+            "ObjSrcName": "formbutton_test", 
+            "State": "true", 
+            "Top": "371", 
+            "TypeID": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+        }
+    ]
+}

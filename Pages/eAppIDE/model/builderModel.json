@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "b3683967-95fa-4924-a8cb-07ee05bf274b", 
+        "Name": "builderModel", 
+        "source_file_name": "builderModel.json_source.js", 
+        "Type": "dd7a56de-7a14-4f0b-9370-c34d9aa5469b"
+    }, 
+    "attributes": {
+        "height": "30", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "80", 
+        "zindex": "0"
+    }
+}

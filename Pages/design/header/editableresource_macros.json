@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "aceb908b-8f9d-47c5-b6f1-c60d60533e30", 
+        "Name": "editableresource_macros", 
+        "Type": "f08a1d8f-771d-1757-e89c-7b7980ee9990"
+    }, 
+    "attributes": {
+        "datatype": "1", 
+        "height": "30", 
+        "hierarchy": "0", 
+        "left": "815", 
+        "nostyle": "2", 
+        "overflow": "1", 
+        "top": "0", 
+        "userdata": "$j(function(){\n\nvar\n\to = $j('#o_5c32b97f_7ce9_4740_b553_48fac93636ec')  // ov\n\t,b1 = $j('#o_a30b35c9_1da3_4f7a_917a_7b4c9a9dd3f7') // left\n\t,b2 = $j('#o_d44bb367_f6d4_472e_b423_528f87817ce3') // right\n\t,nvis = 2 // items in frame\n\t,nscr = 2 // scroll by\n;\no.parent().css('overflow','hidden');\no.css({ overflow: 'hidden', 'white-space': 'nowrap', position: 'absolute', left: 0, top: 0 });\n\nvar oi = $j('>.ov-item',o);\noi.css({ float: 'left' });\n\nvar n = oi.size(), w = oi.first().outerWidth(true);\nvar ow = n * w;\nvar owmin = ow - nvis * w;\no.width( ow + 10 );\n\nb1.click(function(){\n\tvar m = parseInt(o.css('margin-left'),10);\n\tif (o.hasClass('animate')) return false;\n\tvar m = parseInt(o.css('margin-left'),10);\n\tif (m < 0 && m < w) {\n\t\to.addClass('animate').animate(\n\t\t\t{ marginLeft: m + w * nscr },\n\t\t\t{ complete: function() { o.removeClass('animate'); } }\n\t\t);\n\t}\n\treturn false;\n});\n\nb2.click(function(){\n\tvar m = parseInt(o.css('margin-left'),10);\n\tif (o.hasClass('animate')) return false;\n\tif (-m <= owmin) {\n\t\to.addClass('animate').animate(\n\t\t\t{ marginLeft: m - w * nscr },\n\t\t\t{ complete: function() { o.removeClass('animate'); } }\n\t\t);\n\t}\n\treturn false;\n});\n\n\n});", 
+        "visible": "1", 
+        "width": "160", 
+        "zindex": "9"
+    }
+}

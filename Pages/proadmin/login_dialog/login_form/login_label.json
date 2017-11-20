@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "aff8360b-3769-4abc-8f28-e434a643d9bc", 
+        "Name": "login_label", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "17", 
+        "textdecoration": "none", 
+        "top": "51", 
+        "value": "System account:", 
+        "visible": "1", 
+        "width": "124", 
+        "zindex": "0"
+    }
+}

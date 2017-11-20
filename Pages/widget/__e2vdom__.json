@@ -1,0 +1,36 @@
+{
+    "actions": [
+        {
+            "ID": "D4079B5E-95F2-2CA0-12D5-83C67D6DAF48", 
+            "Left": "423", 
+            "MethodName": "submit", 
+            "ObjTgtID": "2245e792-aa87-4124-8400-6d60dcf5dda1", 
+            "State": "true", 
+            "Top": "95"
+        }
+    ], 
+    "events": [
+        {
+            "actions": [
+                "D4079B5E-95F2-2CA0-12D5-83C67D6DAF48"
+            ], 
+            "ContainerID": "2a8de4fb-c057-4e6f-8d3f-75b09210817e", 
+            "Left": "143", 
+            "Name": "click", 
+            "ObjSrcID": "aede0c9e-95f2-4a82-becc-5a6208b7e62e", 
+            "State": "true", 
+            "Top": "96"
+        }, 
+        {
+            "actions": [
+                "256904bd-135e-49e1-adf0-b5b6be2eccc5"
+            ], 
+            "ContainerID": "2a8de4fb-c057-4e6f-8d3f-75b09210817e", 
+            "Left": "146", 
+            "Name": "submit", 
+            "ObjSrcID": "2245e792-aa87-4124-8400-6d60dcf5dda1", 
+            "State": "true", 
+            "Top": "242"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "703fa589-962c-451b-b184-7f6bfdd4772f", 
+        "Name": "formlist_groups", 
+        "Type": "0c84f3d5-5f98-451d-a41c-e7a5b4afe5cf"
+    }, 
+    "attributes": {
+        "disabled": "0", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "35", 
+        "selectedvalue": "", 
+        "tabindex": "1", 
+        "top": "153", 
+        "value": "", 
+        "visible": "1", 
+        "width": "185", 
+        "zindex": "9"
+    }
+}

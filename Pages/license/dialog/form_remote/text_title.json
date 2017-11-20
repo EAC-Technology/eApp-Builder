@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "576010dd-4bbf-4f5d-b257-e2602ef5cc2b", 
+        "Name": "text_title", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontsize": "14", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "10", 
+        "textdecoration": "none", 
+        "top": "13", 
+        "value": "You can set up ProAdmin connection on special page.", 
+        "visible": "1", 
+        "width": "441", 
+        "zindex": "0"
+    }
+}

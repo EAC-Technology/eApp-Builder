@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "72334a36-6406-4915-84b8-34e360954b26", 
+        "Name": "update_timer", 
+        "Type": "d07ae2ab-62fe-ff98-682a-abc15eb17f9c"
+    }, 
+    "attributes": {
+        "active": "1", 
+        "height": "50", 
+        "hierarchy": "0", 
+        "interval": "5000", 
+        "left": "692", 
+        "once": "0", 
+        "top": "0", 
+        "width": "50"
+    }
+}

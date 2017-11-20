@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "5828e09c-bafc-417f-9e36-1841efd941e9", 
+        "Name": "button_add_plugin", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "plugin-add", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "33", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "500", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Add new Plugin", 
+        "textdecoration": "none", 
+        "top": "128", 
+        "visible": "1", 
+        "width": "118", 
+        "zindex": "9"
+    }
+}

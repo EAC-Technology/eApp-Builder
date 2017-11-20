@@ -1,0 +1,32 @@
+{
+    "onload.py": {
+        "ID": "0b5a655c-28ab-4e6b-a7f8-dde7da744e8a", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "res_dialog_fill.py": {
+        "ID": "575020bf-ec43-442e-9017-063d6d9f3ffe", 
+        "Left": "840", 
+        "left": "313", 
+        "Name": "res_dialog_fill", 
+        "state": "false", 
+        "State": "true", 
+        "Top": "592", 
+        "top": "702"
+    }, 
+    "res_update.py": {
+        "ID": "9dd870a9-efe4-42fc-9960-4e496ec3904d", 
+        "Left": "597", 
+        "left": "1319", 
+        "Name": "res_update", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "96", 
+        "top": "99"
+    }
+}

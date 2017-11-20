@@ -1,0 +1,33 @@
+{
+    "attrs": {
+        "ID": "8e8cbf22-8d6d-46f3-b43e-60a9b8089089", 
+        "Name": "get_plugin_resource", 
+        "Type": "2330fe83-8cd6-4ed5-907d-11874e7ebcf4"
+    }, 
+    "attributes": {
+        "activelinkcolor": "000000", 
+        "bgcolor": "FFFFFF", 
+        "bgrepeat": "repeat", 
+        "css": "", 
+        "cssclass": "", 
+        "deniedlink": "", 
+        "description": "", 
+        "hierarchy": "0", 
+        "image": "", 
+        "jqui": "1", 
+        "linkcolor": "000000", 
+        "metadescription": "", 
+        "metakeywords": "", 
+        "noscript": "", 
+        "position": "left", 
+        "securitycode": "", 
+        "style": "", 
+        "testClasses": "", 
+        "testFunc": "", 
+        "textcolor": "000000", 
+        "title": "page title", 
+        "visible": "1", 
+        "visitedlinkcolor": "000000", 
+        "zindex": "0"
+    }
+}

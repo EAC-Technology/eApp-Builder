@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        "ID": "0a7b487f-7955-40e9-83ec-3e94ffa62ddd", 
+        "Name": "app_structure", 
+        "Type": "0075c5c4-3e29-511a-7a0e-c9a138eabea0"
+    }, 
+    "attributes": {
+        "autoCollapse": "0", 
+        "checkbox": "0", 
+        "data": "", 
+        "fx": "", 
+        "height": "559", 
+        "hierarchy": "0", 
+        "initAjax": "", 
+        "keyboard": "1", 
+        "left": "20", 
+        "selectMode": "3", 
+        "showtitle": "1", 
+        "title": "tree", 
+        "top": "4", 
+        "visible": "1", 
+        "width": "235", 
+        "zindex": "0"
+    }
+}

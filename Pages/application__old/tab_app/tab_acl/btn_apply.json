@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "b308fa69-94bd-4031-81ae-8022316f7d39", 
+        "Name": "btn_apply", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "btn btn-primary", 
+        "color": "FFFFFF", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "36", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "548", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Apply changes", 
+        "textdecoration": "none", 
+        "top": "28", 
+        "visible": "0", 
+        "width": "112", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "ID": "0d821fe7-1224-4d84-a38a-ef24585dd682", 
+        "Name": "hpt_css_login", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "height": "44", 
+        "hierarchy": "0", 
+        "htmlcode": "<style>\nbody {\nbackground-image: url('/ded37c1c-94e3-4123-ba38-f7805a8c86ad.jpg') ;\nbackground-repeat: no-repeat;\nbackground-position: center middle;\nfont-size:14px;\ncolor:#000;\nfont-family: Arial;\noverflow:hidden !important;\n}\n\n.login_input {\nfont-size:20px !important;\ncolor:#000;\n}\n\n.login_submit {\nbackground-image: url('/fb30b33b-7666-41d0-ad43-5447608cf1cc.png') ;\nbackground-repeat: no-repeat;\nwidth:112px;\nheight:34px;\nborder:0px;\ncursor:pointer;\n}\n.login_submit:hover {\nbackground-image: url('/779d9677-8786-4dec-842d-32410f1d7135.png') ;\nbackground-repeat: no-repeat;\n}\n.version {\n\tcolor:#999 !important;\n\t}\n\n</style>", 
+        "left": "0", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "113", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "onload.py": {
+        "ID": "c64233a9-d5c0-4cf2-9115-1e5048969c61", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "restore_acls.py": {
+        "ID": "31ef9790-945f-41cf-9d0f-1d0ed219ef03", 
+        "Left": "0", 
+        "left": "314", 
+        "Name": "restore_acls", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "478"
+    }, 
+    "save_acls.py": {
+        "ID": "8897be8f-4460-4687-b897-7f4ef8c5229c", 
+        "Left": "0", 
+        "left": "313", 
+        "Name": "save_acls", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "530"
+    }, 
+    "select_item.py": {
+        "ID": "52d300d1-cb3d-4adb-9b91-7ba53d4deb74", 
+        "Left": "323", 
+        "left": "316", 
+        "Name": "select_item", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "439", 
+        "top": "435"
+    }
+}

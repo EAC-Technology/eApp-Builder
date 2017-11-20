@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "4bc75331-84e6-4e83-a28f-3cb7cffc9369", 
+        "Name": "text_timer", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "page-caption", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "81", 
+        "textdecoration": "none", 
+        "top": "704", 
+        "value": "Timers", 
+        "visible": "1", 
+        "width": "214", 
+        "zindex": "9"
+    }
+}

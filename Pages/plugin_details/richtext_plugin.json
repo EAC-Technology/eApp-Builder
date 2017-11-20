@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        "ID": "64ef8aba-645d-40cf-92a0-d04c2326f08f", 
+        "Name": "richtext_plugin", 
+        "Type": "82a69b02-9fba-47d0-b206-6fd1769b0ebd"
+    }, 
+    "attributes": {
+        "align": "", 
+        "classname": "plugin-details", 
+        "color": "", 
+        "css": "", 
+        "font": "", 
+        "height": "67", 
+        "hierarchy": "0", 
+        "left": "14", 
+        "overflow": "0", 
+        "strikethrough": "0", 
+        "top": "111", 
+        "underlined": "0", 
+        "value": "<p><span style=\"color: #444444;\">[empty]</span></p>", 
+        "visible": "1", 
+        "width": "684", 
+        "zindex": "9"
+    }
+}

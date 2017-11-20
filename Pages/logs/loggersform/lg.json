@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        "ID": "ed87cb75-6a35-4c33-9afd-5f20d33d05fc", 
+        "Name": "lg", 
+        "Type": "0c84f3d5-5f98-451d-a41c-e7a5b4afe5cf"
+    }, 
+    "attributes": {
+        "disabled": "0", 
+        "disabledvalue": "", 
+        "height": "150", 
+        "hierarchy": "0", 
+        "left": "5", 
+        "multiselect": "1", 
+        "selectedvalue": "", 
+        "size": "", 
+        "tabindex": "0", 
+        "top": "5", 
+        "value": "", 
+        "visible": "1", 
+        "width": "340", 
+        "zindex": "0"
+    }
+}

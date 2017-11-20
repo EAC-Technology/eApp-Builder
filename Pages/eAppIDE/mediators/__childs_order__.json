@@ -1,0 +1,11 @@
+[
+    "actionsContainer", 
+    "editorsContainer", 
+    "loggerWindow", 
+    "loginDialog", 
+    "mainWindow", 
+    "projectTree", 
+    "workspaceSelector", 
+    "editorFactory", 
+    "resourceManager"
+]

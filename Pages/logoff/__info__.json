@@ -1,0 +1,33 @@
+{
+    "attrs": {
+        "ID": "2ec2bcca-fde3-40c7-bce9-39b42fcad4a0", 
+        "Name": "logoff", 
+        "Type": "2330fe83-8cd6-4ed5-907d-11874e7ebcf4"
+    }, 
+    "attributes": {
+        "activelinkcolor": "000000", 
+        "bgcolor": "FFFFFF", 
+        "bgrepeat": "no-repeat", 
+        "css": "", 
+        "cssclass": "", 
+        "deniedlink": "", 
+        "description": "", 
+        "hierarchy": "0", 
+        "image": "#Res(20d73ea3-cf88-4fed-b976-3128dd70c23b)", 
+        "jqui": "1", 
+        "linkcolor": "000000", 
+        "metadescription": "", 
+        "metakeywords": "", 
+        "noscript": "", 
+        "position": "left", 
+        "securitycode": "", 
+        "style": "", 
+        "testClasses": "", 
+        "testFunc": "", 
+        "textcolor": "000000", 
+        "title": "", 
+        "visible": "1", 
+        "visitedlinkcolor": "000000", 
+        "zindex": "0"
+    }
+}

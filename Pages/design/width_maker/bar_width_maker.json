@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "06991c87-5bc1-4a2f-968a-471c41f65124", 
+        "Name": "bar_width_maker", 
+        "Type": "91a12281-c9a8-430a-8a2d-93903b4a264f"
+    }, 
+    "attributes": {
+        "color": "FF0000", 
+        "height": "5", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "top": "0", 
+        "visible": "0", 
+        "width": "1000", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "496a4aab-a6d1-4121-97ef-f48322aea629", 
+        "Name": "btn_users_groups", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "", 
+        "color": "000000", 
+        "containerlink": "2f841e7d-93f1-4590-9797-77c9356593f3", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "52", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "16", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Users", 
+        "textdecoration": "none", 
+        "top": "16", 
+        "visible": "1", 
+        "width": "95", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        "ID": "a2cdb939-9ce9-481f-903e-3342d5a53a55", 
+        "Name": "data_source_id", 
+        "Type": "410ce9c6-5ae0-4c66-9c2b-80b7470e2927"
+    }, 
+    "attributes": {
+        "autocomplete": "1", 
+        "border": "1", 
+        "classname": "", 
+        "focused": "0", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "7", 
+        "mode": "0", 
+        "multiline": "0", 
+        "placeholder": "data_source_id", 
+        "tabindex": "0", 
+        "title": "", 
+        "top": "28", 
+        "value": "", 
+        "visible": "0", 
+        "width": "121", 
+        "zindex": "0"
+    }
+}

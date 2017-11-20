@@ -1,0 +1,119 @@
+{
+    "actions": [
+        {
+            "ID": "0FA34D7F-CD1D-163F-B7A8-77EC4B2F0D4B", 
+            "Left": "230", 
+            "MethodName": "show", 
+            "ObjTgtID": "3791ccc7-793a-4f2e-b615-24ad9adeb508", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "269"
+        }, 
+        {
+            "ID": "8354F62A-7E05-9588-EBAF-77EC34F82CE5", 
+            "Left": "233", 
+            "MethodName": "hide", 
+            "ObjTgtID": "3791ccc7-793a-4f2e-b615-24ad9adeb508", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "513"
+        }, 
+        {
+            "ID": "9A2DCDB5-E3AC-424D-AB82-9F352A3D59D5", 
+            "Left": "228", 
+            "MethodName": "hide", 
+            "ObjTgtID": "ff6a7c32-06d5-4730-b07b-5a13da737fe6", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "405"
+        }, 
+        {
+            "ID": "9ADE933A-049A-4E4D-A386-82939DDE3876", 
+            "Left": "230", 
+            "MethodName": "show", 
+            "ObjTgtID": "ff6a7c32-06d5-4730-b07b-5a13da737fe6", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "165"
+        }
+    ], 
+    "events": [
+        {
+            "actions": [
+                "8dc645ea-cd66-4997-9b33-1b81f84c2718"
+            ], 
+            "ContainerID": "fc627703-9cf7-4dd9-ab0a-d56bd664381d", 
+            "Left": "1", 
+            "Name": "rowsselected", 
+            "ObjSrcID": "7bece48b-df39-454b-9dfd-7cf1d986cd72", 
+            "State": "false", 
+            "Top": "112"
+        }, 
+        {
+            "actions": [
+                "0f53d097-04ad-4e9d-a2cf-9fca298bf0ae"
+            ], 
+            "ContainerID": "fc627703-9cf7-4dd9-ab0a-d56bd664381d", 
+            "Left": "0", 
+            "Name": "tabchanged", 
+            "ObjSrcID": "d926df6e-a039-444e-a9a0-ead9637e2de4", 
+            "State": "false", 
+            "Top": "62"
+        }, 
+        {
+            "actions": [
+                "9A2DCDB5-E3AC-424D-AB82-9F352A3D59D5", 
+                "8354F62A-7E05-9588-EBAF-77EC34F82CE5"
+            ], 
+            "ContainerID": "fc627703-9cf7-4dd9-ab0a-d56bd664381d", 
+            "Left": "0", 
+            "Name": "click", 
+            "ObjSrcID": "ff6a7c32-06d5-4730-b07b-5a13da737fe6", 
+            "State": "true", 
+            "Top": "397"
+        }, 
+        {
+            "actions": [
+                "89cce182-e3aa-4a4e-bd92-10dc1e289df4"
+            ], 
+            "ContainerID": "fc627703-9cf7-4dd9-ab0a-d56bd664381d", 
+            "Left": "0", 
+            "Name": "submit", 
+            "ObjSrcID": "3756f6d8-0b5f-49ef-882c-073244e39681", 
+            "State": "false", 
+            "Top": "10"
+        }, 
+        {
+            "actions": [
+                "9ADE933A-049A-4E4D-A386-82939DDE3876", 
+                "0FA34D7F-CD1D-163F-B7A8-77EC4B2F0D4B"
+            ], 
+            "ContainerID": "fc627703-9cf7-4dd9-ab0a-d56bd664381d", 
+            "Left": "3", 
+            "Name": "click", 
+            "ObjSrcID": "1af5e7c0-0d03-4313-a8e3-3793523a0e7e", 
+            "State": "true", 
+            "Top": "185"
+        }
+    ]
+}

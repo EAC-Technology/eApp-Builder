@@ -1,0 +1,16 @@
+error_code = {
+	"errScriptError"	: (0,"Script Error"),
+	"errBadJSONFormat"  : (1,"Bad JSON format"),
+	"errNotLoggedIn"	: (2,"You are not logged in"),
+	"errBadObjectFormat": (3,"Bad Object Format"),
+	"errObjNotExists"	: (4,"Object doesn't exists"),
+	"errNotNeededRules"	: (5,"You have not needed rules"),
+	"errEmptyPassword"  : (6,"Empty login or password"),
+	"errLoginError"		: (7,"Invalid login or password"),
+	"errFolderAlreadyExist"  : (8,"Folder with same name already exist"),
+	"errCouldNotDeleteRootDir" : (9,"You could not delete the ROOT directory"),
+	"errCouldNotRenameRootDir" : (10,"You could not rename the ROOT directory"),
+	"errB64DecodeError" : (11,"Error during B64 data decoding" ),
+	"errOperationFinishWithError" : ( 12, "Operation finished with error" ),
+    "errParameterRequired" : (13, "Parameter required"),
+}

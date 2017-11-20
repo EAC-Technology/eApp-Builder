@@ -1,0 +1,266 @@
+{
+    "actions": [
+        {
+            "ID": "44848739-1F16-45A2-8B40-BBE19EB99628", 
+            "Left": "0", 
+            "MethodName": "hide", 
+            "ObjTgtID": "2203a3ed-976c-460f-aba7-3534e8eee437", 
+            "ObjTgtName": "popuplayer", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "398"
+        }, 
+        {
+            "ID": "53227529-D8FE-4C63-AB84-FA834A950EF6", 
+            "Left": "772", 
+            "MethodName": "stop", 
+            "ObjTgtID": "72334a36-6406-4915-84b8-34e360954b26", 
+            "ObjTgtName": "update_timer", 
+            "State": "false", 
+            "Top": "227"
+        }, 
+        {
+            "ID": "74ED1F02-580A-48E8-A338-B10C654B1190", 
+            "Left": "528", 
+            "MethodName": "hide", 
+            "ObjTgtID": "62578192-3fe1-4f57-9d16-4ed3398dbbf3", 
+            "ObjTgtName": "loglevelsform", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "344"
+        }, 
+        {
+            "ID": "A2B1FBF3-78DE-465E-B1C6-42CE4C0315B6", 
+            "Left": "232", 
+            "MethodName": "custom", 
+            "ObjTgtID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+            "ObjTgtName": "logs", 
+            "Params": [
+                [
+                    "custom", 
+                    "resizeTable(evt_param(\"width\"), evt_param(\"height\"))"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "233"
+        }, 
+        {
+            "ID": "B48082DF-178E-4BB5-8981-E3CF2ED7D0B1", 
+            "Left": "233", 
+            "MethodName": "hide", 
+            "ObjTgtID": "75133bc8-521d-406c-be22-ec717dcd7e3c", 
+            "ObjTgtName": "dwnload_logs_dialog", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "99"
+        }, 
+        {
+            "ID": "D3A2BEEF-543E-4035-A52A-1D005C467216", 
+            "Left": "524", 
+            "MethodName": "stop", 
+            "ObjTgtID": "72334a36-6406-4915-84b8-34e360954b26", 
+            "ObjTgtName": "update_timer", 
+            "State": "false", 
+            "Top": "383"
+        }, 
+        {
+            "ID": "E23AD589-0EC9-43F1-AF14-BF0D710A54CF", 
+            "Left": "770", 
+            "MethodName": "start", 
+            "ObjTgtID": "72334a36-6406-4915-84b8-34e360954b26", 
+            "ObjTgtName": "update_timer", 
+            "Params": [
+                [
+                    "interval", 
+                    "5000"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "180"
+        }, 
+        {
+            "ID": "EC819071-97F2-4CA3-ACC6-5DF241D474DA", 
+            "Left": "524", 
+            "MethodName": "hide", 
+            "ObjTgtID": "1e21f63c-4540-4bd4-a730-ae3f643002b0", 
+            "ObjTgtName": "loggersform", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "457"
+        }
+    ], 
+    "events": [
+        {
+            "actions": [
+                "EC819071-97F2-4CA3-ACC6-5DF241D474DA", 
+                "03697b1f-4d35-4274-bb94-ae23dfb3cfce", 
+                "44848739-1F16-45A2-8B40-BBE19EB99628", 
+                "D3A2BEEF-543E-4035-A52A-1D005C467216"
+            ], 
+            "ContainerID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+            "Left": "294", 
+            "Name": "submit", 
+            "ObjSrcID": "1e21f63c-4540-4bd4-a730-ae3f643002b0", 
+            "ObjSrcName": "loggersform", 
+            "State": "false", 
+            "Top": "420", 
+            "TypeID": "34f6ee59-9c50-4503-97c1-86c4e86bd1b7"
+        }, 
+        {
+            "actions": [
+                "74ED1F02-580A-48E8-A338-B10C654B1190", 
+                "03697b1f-4d35-4274-bb94-ae23dfb3cfce", 
+                "44848739-1F16-45A2-8B40-BBE19EB99628", 
+                "D3A2BEEF-543E-4035-A52A-1D005C467216"
+            ], 
+            "ContainerID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+            "Left": "294", 
+            "Name": "submit", 
+            "ObjSrcID": "62578192-3fe1-4f57-9d16-4ed3398dbbf3", 
+            "ObjSrcName": "loglevelsform", 
+            "State": "false", 
+            "Top": "383", 
+            "TypeID": "34f6ee59-9c50-4503-97c1-86c4e86bd1b7"
+        }, 
+        {
+            "actions": [
+                "b5de5edd-bc99-4ad3-bb33-f5614744d209"
+            ], 
+            "ContainerID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+            "Left": "1", 
+            "Name": "click", 
+            "ObjSrcID": "c66a1f5c-3a3b-493e-b22c-b3aa8114924d", 
+            "ObjSrcName": "dwnloadlogs_btn", 
+            "State": "false", 
+            "Top": "166", 
+            "TypeID": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+        }, 
+        {
+            "actions": [
+                "EC819071-97F2-4CA3-ACC6-5DF241D474DA", 
+                "44848739-1F16-45A2-8B40-BBE19EB99628"
+            ], 
+            "ContainerID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+            "Left": "294", 
+            "Name": "click", 
+            "ObjSrcID": "9c38e68e-2a1d-4c72-9db6-46bd0bba8745", 
+            "ObjSrcName": "hidebtn", 
+            "State": "false", 
+            "Top": "457", 
+            "TypeID": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+        }, 
+        {
+            "actions": [
+                "74ED1F02-580A-48E8-A338-B10C654B1190", 
+                "44848739-1F16-45A2-8B40-BBE19EB99628"
+            ], 
+            "ContainerID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+            "Left": "294", 
+            "Name": "click", 
+            "ObjSrcID": "a22fa700-1323-460f-a367-05cfe72765e4", 
+            "ObjSrcName": "hidebtn", 
+            "State": "false", 
+            "Top": "344", 
+            "TypeID": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+        }, 
+        {
+            "actions": [
+                "A2B1FBF3-78DE-465E-B1C6-42CE4C0315B6"
+            ], 
+            "ContainerID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+            "Left": "0", 
+            "Name": "load", 
+            "ObjSrcID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+            "ObjSrcName": "logs", 
+            "State": "false", 
+            "Top": "272", 
+            "TypeID": "2330fe83-8cd6-4ed5-907d-11874e7ebcf4"
+        }, 
+        {
+            "actions": [
+                "A2B1FBF3-78DE-465E-B1C6-42CE4C0315B6"
+            ], 
+            "ContainerID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+            "Left": "0", 
+            "Name": "resize", 
+            "ObjSrcID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+            "ObjSrcName": "logs", 
+            "State": "false", 
+            "Top": "234", 
+            "TypeID": "2330fe83-8cd6-4ed5-907d-11874e7ebcf4"
+        }, 
+        {
+            "actions": [
+                "03697b1f-4d35-4274-bb94-ae23dfb3cfce", 
+                "D3A2BEEF-543E-4035-A52A-1D005C467216"
+            ], 
+            "ContainerID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+            "Left": "766", 
+            "Name": "timechange", 
+            "ObjSrcID": "72334a36-6406-4915-84b8-34e360954b26", 
+            "ObjSrcName": "update_timer", 
+            "State": "false", 
+            "Top": "400", 
+            "TypeID": "d07ae2ab-62fe-ff98-682a-abc15eb17f9c"
+        }, 
+        {
+            "actions": [
+                "E23AD589-0EC9-43F1-AF14-BF0D710A54CF"
+            ], 
+            "ContainerID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+            "Left": "537", 
+            "Name": "checked", 
+            "ObjSrcID": "80efa4e6-c1c8-4c0d-90a8-b4a9d1481654", 
+            "ObjSrcName": "checkbtn", 
+            "State": "false", 
+            "Top": "178", 
+            "TypeID": "8077aa1c-6762-4719-a6ea-fdfb0bcfa0c2"
+        }, 
+        {
+            "actions": [
+                "53227529-D8FE-4C63-AB84-FA834A950EF6"
+            ], 
+            "ContainerID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+            "Left": "538", 
+            "Name": "unchecked", 
+            "ObjSrcID": "80efa4e6-c1c8-4c0d-90a8-b4a9d1481654", 
+            "ObjSrcName": "checkbtn", 
+            "State": "false", 
+            "Top": "227", 
+            "TypeID": "8077aa1c-6762-4719-a6ea-fdfb0bcfa0c2"
+        }, 
+        {
+            "actions": [
+                "B48082DF-178E-4BB5-8981-E3CF2ED7D0B1"
+            ], 
+            "ContainerID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+            "Left": "0", 
+            "Name": "click", 
+            "ObjSrcID": "c2702a6c-fb5f-48bc-8b75-b3625cce4695", 
+            "ObjSrcName": "close_btn", 
+            "State": "false", 
+            "Top": "101", 
+            "TypeID": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+        }
+    ]
+}

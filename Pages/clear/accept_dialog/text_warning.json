@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "1728202c-aea8-43f3-b02a-85469b363b2a", 
+        "Name": "text_warning", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "AB0047", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "16", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "57", 
+        "textdecoration": "none", 
+        "top": "100", 
+        "value": "Warning: all ProShare data will be erased!", 
+        "visible": "1", 
+        "width": "350", 
+        "zindex": "0"
+    }
+}

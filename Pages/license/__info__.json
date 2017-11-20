@@ -1,0 +1,33 @@
+{
+    "attrs": {
+        "ID": "ff4df489-f2ea-42c9-b48e-473d96606704", 
+        "Name": "license", 
+        "Type": "2330fe83-8cd6-4ed5-907d-11874e7ebcf4"
+    }, 
+    "attributes": {
+        "activelinkcolor": "000000", 
+        "bgcolor": "FFFFFF", 
+        "bgrepeat": "repeat", 
+        "css": "", 
+        "cssclass": "", 
+        "deniedlink": "", 
+        "description": "", 
+        "hierarchy": "0", 
+        "image": "6df6cbf0-6a84-4008-8ea2-6f1c96de7ce4", 
+        "jqui": "1", 
+        "linkcolor": "000000", 
+        "metadescription": "", 
+        "metakeywords": "", 
+        "noscript": "", 
+        "position": "left", 
+        "securitycode": "", 
+        "style": "", 
+        "testClasses": "", 
+        "testFunc": "", 
+        "textcolor": "000000", 
+        "title": "Lisence", 
+        "visible": "1", 
+        "visitedlinkcolor": "000000", 
+        "zindex": "0"
+    }
+}

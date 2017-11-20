@@ -1,0 +1,31 @@
+{
+    "attrs": {
+        "ID": "675b923d-cc32-4507-80da-cb5a18ea17d5", 
+        "Name": "obj_workpaces", 
+        "Type": "b0f0d522-8b4b-cbda-814a-40263e489354"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "data": "", 
+        "draggable": "0", 
+        "dynamicloading": "0", 
+        "dynamicrender": "0", 
+        "height": "211", 
+        "hierarchy": "0", 
+        "itemscount": "10", 
+        "itemslimit": "10", 
+        "itemstorender": "", 
+        "layout": "1", 
+        "left": "19", 
+        "loading": "0", 
+        "noreplace": "0", 
+        "overflow": "0", 
+        "sortable": "0", 
+        "tmpobj": "", 
+        "top": "421", 
+        "vdomclassid": "dc496e34-341a-4440-986a-07f523607700", 
+        "visible": "0", 
+        "width": "947", 
+        "zindex": "0"
+    }
+}

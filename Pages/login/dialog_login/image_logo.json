@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        "ID": "dfb24ad8-b934-41b0-aa60-795c8dedd995", 
+        "Name": "image_logo", 
+        "Type": "0d36c35d-9508-440f-bfec-668f3db8cfeb"
+    }, 
+    "attributes": {
+        "externalurl": "", 
+        "height": "79", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "left": "10", 
+        "resource_cache": "", 
+        "tabindex": "12", 
+        "top": "17", 
+        "value": "#Res(4a758158-6e45-4e82-9ec7-d4e35cdb3f61)", 
+        "visible": "1", 
+        "width": "85", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "514579e7-ef67-4f08-b2ce-80575451a620", 
+        "Name": "container_514579e7_ef67_4f08_b2ce_80575451a620", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "gray_back", 
+        "designcolor": "EEEEEE", 
+        "footer": "0", 
+        "height": "100", 
+        "heightauto": "0", 
+        "hierarchy": "0", 
+        "left": "13", 
+        "lockposition": "0", 
+        "overflow": "0", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "", 
+        "titlewrap": "0", 
+        "top": "292", 
+        "visible": "1", 
+        "width": "431", 
+        "zindex": "0"
+    }
+}

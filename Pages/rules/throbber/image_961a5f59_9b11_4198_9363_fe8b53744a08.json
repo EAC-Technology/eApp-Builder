@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        "ID": "b6955fe8-4a6f-4f70-8af5-6bfd781e99bc", 
+        "Name": "image_961a5f59_9b11_4198_9363_fe8b53744a08", 
+        "Type": "0d36c35d-9508-440f-bfec-668f3db8cfeb"
+    }, 
+    "attributes": {
+        "externalurl": "", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "left": "3", 
+        "resource_cache": "", 
+        "tabindex": "0", 
+        "top": "3", 
+        "value": "8133b3b7-74c4-45f3-8c8d-d3033e156d24", 
+        "visible": "1", 
+        "width": "22", 
+        "zindex": "0"
+    }
+}

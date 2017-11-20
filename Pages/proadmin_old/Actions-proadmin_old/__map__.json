@@ -1,0 +1,58 @@
+{
+    "info.py": {
+        "ID": "c72ad588-451e-4458-8391-dfb0fd8fb499", 
+        "Left": "778", 
+        "Name": "info", 
+        "State": "true", 
+        "Top": "593"
+    }, 
+    "login.py": {
+        "ID": "9e002c5f-cae1-4262-83cb-728a268b5089", 
+        "Left": "358", 
+        "Name": "login", 
+        "State": "true", 
+        "Top": "233"
+    }, 
+    "logoff.py": {
+        "ID": "6dcd50d8-a6ac-4f9a-bc6b-01f6925ee853", 
+        "Left": "835", 
+        "Name": "logoff", 
+        "State": "true", 
+        "Top": "273"
+    }, 
+    "onload.py": {
+        "ID": "e891c9d0-5b4b-416c-8ae9-0cb086c01089", 
+        "Left": "0", 
+        "Name": "onload", 
+        "State": "true", 
+        "Top": "0"
+    }, 
+    "ping.py": {
+        "ID": "b648d1e8-bf5a-4ff4-9523-87f11dc54b9e", 
+        "Left": "311", 
+        "Name": "ping", 
+        "State": "true", 
+        "Top": "585"
+    }, 
+    "save_remote_settings.py": {
+        "ID": "74429a3f-bf75-448c-8c76-a585bb94ebf0", 
+        "Left": "359", 
+        "Name": "save_remote_settings", 
+        "State": "true", 
+        "Top": "343"
+    }, 
+    "set_local_scheme.py": {
+        "ID": "29a0e8ba-a3ca-449d-8eb7-8fa097086a15", 
+        "Left": "601", 
+        "Name": "set_local_scheme", 
+        "State": "true", 
+        "Top": "273"
+    }, 
+    "update.py": {
+        "ID": "508581eb-564c-4d8e-a0c1-8efc4906b180", 
+        "Left": "1091", 
+        "Name": "update", 
+        "State": "true", 
+        "Top": "275"
+    }
+}

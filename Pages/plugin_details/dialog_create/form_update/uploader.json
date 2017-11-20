@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        "ID": "570584d9-c793-4f32-8afb-0b5bfa346c2d", 
+        "Name": "uploader", 
+        "Type": "823833ac-0f63-431c-82e7-0a502af21c65"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "226", 
+        "tabindex": "0", 
+        "top": "329", 
+        "visible": "1", 
+        "width": "200", 
+        "zindex": "9"
+    }
+}

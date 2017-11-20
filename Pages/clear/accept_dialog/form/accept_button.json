@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        "ID": "e1ce6801-ba40-41f4-92c4-71dde9cd74d7", 
+        "Name": "accept_button", 
+        "Type": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "25", 
+        "hierarchy": "0", 
+        "label": "Clear ProShare", 
+        "left": "96", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "2", 
+        "top": "83", 
+        "type": "0", 
+        "visible": "1", 
+        "width": "135", 
+        "zindex": "0"
+    }
+}

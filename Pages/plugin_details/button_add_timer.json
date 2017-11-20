@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "a84552b0-3630-45c7-98a9-53cbe104c07a", 
+        "Name": "button_add_timer", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "plugin-add", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "28", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "544", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Add new Timer", 
+        "textdecoration": "none", 
+        "top": "702", 
+        "visible": "1", 
+        "width": "134", 
+        "zindex": "9"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "b85b367e-26f4-4e7e-9d02-c805ec125879", 
+        "Name": "resource_eapp_css", 
+        "Type": "f08a1d8f-771d-1757-e89c-7b7980ee9990"
+    }, 
+    "attributes": {
+        "data": ".eapp_object {\n\tbackground-color: #ffffff;\n}\n\n.eapp_object:hover {\n\tbackground-color: #f9f9f9;\n}\n\n.eapp_object_view:hover {\n\tbackground-color: #fff7e5 !important;\n}\n\n.eapp_object_script:hover {\n\tbackground-color: #eaf6ff !important;\n}\n\n.eapp_object_create {\n\tbackground-color: #ffffff;\n\tborder: 2px dashed #888888;\n\t-moz-border-radius: 5px;\n\t-webkit-border-radius: 5px;\n\tborder-radius: 5px;\n}\n\n.table-condensed>thead>tr>th, .table-condensed>tbody>tr>th, .table-condensed>tfoot>tr>th, .table-condensed>thead>tr>td, .table-condensed>tbody>tr>td, .table-condensed>tfoot>tr>td {\npadding: 5px;\n}\n\n.application_object {\n\tborder-color: #ffb605;\n}\n\n.widget_object {\n\tborder-color: #14ba07;\n}\n\n.data_source_object {\n\tborder-color: #0557ff;\n}", 
+        "datatype": "2", 
+        "height": "50", 
+        "hierarchy": "0", 
+        "left": "912", 
+        "nostyle": "2", 
+        "overflow": "1", 
+        "top": "5", 
+        "visible": "1", 
+        "width": "50", 
+        "zindex": "99"
+    }
+}

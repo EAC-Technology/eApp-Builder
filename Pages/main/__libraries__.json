@@ -1,0 +1,9 @@
+[
+    "app_settings", 
+    "localization", 
+    "models", 
+    "templates", 
+    "urls", 
+    "vdom_debug", 
+    "widget_localization"
+]

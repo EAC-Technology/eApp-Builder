@@ -1,0 +1,106 @@
+{
+    "actions": [
+        {
+            "ID": "61EE0A7F-2B4C-4B32-AF30-01D3B16D02A4", 
+            "Left": "599", 
+            "MethodName": "setClass", 
+            "ObjTgtID": "e0297a3b-62ce-4758-9027-9b8765dfec1b", 
+            "Params": [
+                [
+                    "cssClass", 
+                    "'proadmin-big-button remote-scm proadmin-big-button-active'"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "210"
+        }, 
+        {
+            "ID": "79403E28-4A63-4D79-AA27-593DF17FA56C", 
+            "Left": "222", 
+            "MethodName": "setClass", 
+            "ObjTgtID": "75d877db-2378-4f3d-a94d-5816f02f349d", 
+            "Params": [
+                [
+                    "cssClass", 
+                    "'proadmin-big-button rules-management proadmin-big-button-active'"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "211"
+        }, 
+        {
+            "ID": "CEB48C1C-A969-4489-A2F5-AD10D15FFA3A", 
+            "Left": "20", 
+            "MethodName": "setClass", 
+            "ObjTgtID": "51c2c8d2-16a4-4bd3-8f5f-36931706f148", 
+            "Params": [
+                [
+                    "cssClass", 
+                    "'proadmin-big-button remote-scm proadmin-big-button-active'"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "216"
+        }, 
+        {
+            "ID": "DA4CD1EC-54CD-4F97-908A-D52A8C247564", 
+            "Left": "405", 
+            "MethodName": "setClass", 
+            "ObjTgtID": "d4982c31-2f21-4c6c-ba06-b487635adce5", 
+            "Params": [
+                [
+                    "cssClass", 
+                    "'proadmin-big-button users-management proadmin-big-button-active'"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "207"
+        }
+    ], 
+    "events": [
+        {
+            "actions": [
+                "61EE0A7F-2B4C-4B32-AF30-01D3B16D02A4"
+            ], 
+            "ContainerID": "042dcd5f-fd75-4ece-be93-69d8c2233d12", 
+            "Left": "591", 
+            "Name": "click", 
+            "ObjSrcID": "32045beb-fb85-4c2e-8c0b-10be8ce3d513", 
+            "State": "true", 
+            "Top": "1"
+        }, 
+        {
+            "actions": [
+                "DA4CD1EC-54CD-4F97-908A-D52A8C247564"
+            ], 
+            "ContainerID": "042dcd5f-fd75-4ece-be93-69d8c2233d12", 
+            "Left": "409", 
+            "Name": "click", 
+            "ObjSrcID": "a3c2ad18-a3ed-43d3-8d04-562349cdfefa", 
+            "State": "true", 
+            "Top": "5"
+        }, 
+        {
+            "actions": [
+                "79403E28-4A63-4D79-AA27-593DF17FA56C"
+            ], 
+            "ContainerID": "042dcd5f-fd75-4ece-be93-69d8c2233d12", 
+            "Left": "229", 
+            "Name": "click", 
+            "ObjSrcID": "df333d40-5226-44aa-bf5f-52df8ff33e3d", 
+            "State": "true", 
+            "Top": "6"
+        }, 
+        {
+            "actions": [
+                "CEB48C1C-A969-4489-A2F5-AD10D15FFA3A"
+            ], 
+            "ContainerID": "042dcd5f-fd75-4ece-be93-69d8c2233d12", 
+            "Left": "20", 
+            "Name": "click", 
+            "ObjSrcID": "105d20a3-f6f0-4056-ad55-9f5b95dcc4d4", 
+            "State": "true", 
+            "Top": "0"
+        }
+    ]
+}

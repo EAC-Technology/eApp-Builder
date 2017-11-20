@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        "ID": "7919024c-c729-4730-98dc-7ec0716f77d0", 
+        "Name": "e_minute", 
+        "Type": "7029560a-ca17-4e32-a058-cf82b8facc33"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "222", 
+        "multiselect": "0", 
+        "selectedvalue": "0", 
+        "size": "", 
+        "tabindex": "0", 
+        "top": "140", 
+        "value": "", 
+        "value1": "", 
+        "visible": "1", 
+        "width": "49", 
+        "zindex": "0"
+    }
+}

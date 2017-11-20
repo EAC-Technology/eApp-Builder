@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "977ea03f-af4b-4b11-a07d-033c70fcfe93", 
+        "Name": "btn_delete_selected", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "center", 
+        "border": "0", 
+        "classname": "delete-button", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "10", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "35", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "109", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Delete selected", 
+        "textdecoration": "none", 
+        "top": "85", 
+        "visible": "1", 
+        "width": "98", 
+        "zindex": "0"
+    }
+}

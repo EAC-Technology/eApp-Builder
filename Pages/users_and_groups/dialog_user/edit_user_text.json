@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "401ea229-b1e7-4d48-a958-3abe390ffa09", 
+        "Name": "edit_user_text", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontsize": "18", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "11", 
+        "textdecoration": "none", 
+        "top": "13", 
+        "value": "Edit user", 
+        "visible": "0", 
+        "width": "269", 
+        "zindex": "0"
+    }
+}

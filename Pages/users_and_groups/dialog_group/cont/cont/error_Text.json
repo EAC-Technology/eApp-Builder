@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "8241d65c-3c55-4731-a92f-1cb55fcebf6c", 
+        "Name": "error_Text", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "center", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "textdecoration": "none", 
+        "top": "123", 
+        "value": "No users", 
+        "visible": "1", 
+        "width": "338", 
+        "zindex": "0"
+    }
+}

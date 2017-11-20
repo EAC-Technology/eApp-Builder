@@ -1,0 +1,30 @@
+{
+    "attrs": {
+        "ID": "6c0b5e39-62a9-4284-b833-80ed8c885538", 
+        "Name": "datatable_groups", 
+        "Type": "a2240af9-66d1-8841-0c58-ff687f3d2b3c"
+    }, 
+    "attributes": {
+        "cssclass": "ug-dt", 
+        "data": "", 
+        "draggable": "0", 
+        "header": "", 
+        "height": "396", 
+        "hiddenfields": "", 
+        "hierarchy": "0", 
+        "key": "", 
+        "left": "0", 
+        "nocellclick": "", 
+        "rowactive": "", 
+        "selectedrows": "", 
+        "selectionmode": "1", 
+        "showheader": "0", 
+        "skin": "3", 
+        "style": "#%(id)s table{\n\theight: 0 !important;\n\tborder-collapse: collapse;\n\tborder: none;\n\tmargin-top: 10px;\n}\n#%(id)s caption{\n\ttext-align: left;\n\tfont-size: 18px;\n\tmargin-bottom: 15px;\n}\n#%(id)s table .thead {\n\tbackground: #fff url(\"/168eab1b-d9e1-9d79-01ce-0211fc938fbf.png\") bottom right repeat-x;\n\tborder: none;\n\tborder-top: 1px solid #ececec;\n\tborder-bottom: 1px solid #ececec;\n\t-webkit-border-radius: 4px;\n\t-moz-border-radius: 4px;\n\tborder-radius: 4px;\n}\n#%(id)s table .thead .th-cell {\n\tborder: none;\n\ttext-align:left;\n}\n#%(id)s table .thead .th-cell-0 {\n\tborder: none;\n\tborder-left:1px solid #ececec;\n\t-webkit-border-radius: 4px;\n\t-moz-border-radius: 4px;\n\tborder-radius: 4px;\n\twidth:32px;\n}\n#%(id)s table .thead .th-cell-2 {\n\tborder: none;\n\tborder-right:1px solid #ececec;\n\tborder-radius: 4px;\n\t-moz-border-radius:4px;\n\t-webkit-border-radius: 4px;\n}\n#%(id)s table tr td{\n\tborder: none;\n\ttext-align: left;\n\tborder-bottom: 1px dotted #bfbfbf;\n\tline-height: 27px;\n}", 
+        "title": "", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "357", 
+        "zindex": "0"
+    }
+}

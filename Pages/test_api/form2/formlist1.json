@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        "ID": "5902a299-bd54-4b01-bd15-afc510e7c4d7", 
+        "Name": "formlist1", 
+        "Type": "0c84f3d5-5f98-451d-a41c-e7a5b4afe5cf"
+    }, 
+    "attributes": {
+        "disabled": "0", 
+        "disabledvalue": "", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "29", 
+        "multiselect": "0", 
+        "selectedvalue": "", 
+        "size": "", 
+        "tabindex": "0", 
+        "top": "18", 
+        "value": "{\n\t\"res_test\": \"Resources\",\n\t\"res_unittest\": \"Unittest: Resources\"\n}", 
+        "visible": "1", 
+        "width": "256", 
+        "zindex": "0"
+    }
+}

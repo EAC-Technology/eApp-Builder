@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "a45493e9-f793-48f2-ae4b-acb5f4dda2aa", 
+        "Name": "page_css", 
+        "Type": "f08a1d8f-771d-1757-e89c-7b7980ee9990"
+    }, 
+    "attributes": {
+        "data": ".popupsensitive {\n  width: 100% !important;\n  height: 100% !important;\n  z-index: 89 !important;\n}\n.cnt-logs {\n  border: 2px solid black;\n}\ntable.tbl-resize {\n  margin-left: -1px;\n}\ntable.tbl-resize th{\n  background-image:url('/87b918b7-0b35-472a-a525-7c65bc41fc47.res');\n  background-repeat:repeat-x;\n  height:27px;\n  text-align: center;\n  border-bottom:1px solid #bbb;\n  border-left:1px solid #bbb;\n}\ntable.tbl-resize td.text-center {\n  text-align: center;\n}\ntable.tbl-resize td{\n  text-indent:5px;\n  color:#444;\n  border-bottom:1px solid #F5F5F5;\n  border-left:1px solid #FFF;\n  /*word-break: break-all;*/\n}\ntable.tbl-resize tr:nth-child(even) {\n  background: #D8F0F0;\n}\ntable.tbl-resize tr:nth-child(odd) {\n  background: #FFF;\n}\ntable.tbl-resize td div {\n  overflow: auto;\n  padding: 0 5px 0 5px;\n}\ntable.tbl-resize td.left{\n  border-left:1px solid #2e638e;\n}\ntable.tbl-resize td.right{\n  border-right:1px solid #2e638e;\n}\ntable.tbl-resize td.bottom{\n  border-bottom:1px solid #2e638e;\n}\ntable.tbl-resize tr {\n}\n.cut-out-text {\n  overflow: hidden !important;;\n  white-space: nowrap !important;;\n  text-overflow: ellipsis !important;;\n}\ntable.tbl-resize th.clickable {\n  text-decoration: underline;\n  cursor: pointer;\n}\ntable.tbl-resize th.clickable:active {\n  color: red;\n}\nform.th_form_popup {\n  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);\n  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);\n  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);\n  background-color: #FFF;\n  border: 1px solid #D8D3D3;\n}", 
+        "datatype": "2", 
+        "height": "50", 
+        "hierarchy": "0", 
+        "left": "792", 
+        "nostyle": "2", 
+        "overflow": "1", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "50", 
+        "zindex": "0"
+    }
+}

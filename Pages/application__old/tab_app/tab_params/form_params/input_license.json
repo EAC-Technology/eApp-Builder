@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        "ID": "7ed53b14-ff92-4679-8115-bb55a6d457ad", 
+        "Name": "input_license", 
+        "Type": "8077aa1c-6762-4719-a6ea-fdfb0bcfa0c2"
+    }, 
+    "attributes": {
+        "disable": "0", 
+        "fontsize": "14", 
+        "fontweight": "normal", 
+        "height": "24", 
+        "hierarchy": "0", 
+        "label": "Licenced?", 
+        "left": "125", 
+        "state": "0", 
+        "tabindex": "0", 
+        "top": "211", 
+        "value": "1", 
+        "visible": "1", 
+        "width": "282", 
+        "zindex": "0"
+    }
+}

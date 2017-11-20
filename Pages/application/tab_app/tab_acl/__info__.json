@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "af4b3947-be35-4280-9d93-986f67f537b9", 
+        "Name": "tab_acl", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "", 
+        "designcolor": "EEEEEE", 
+        "footer": "0", 
+        "height": "575", 
+        "heightauto": "0", 
+        "hierarchy": "4", 
+        "left": "1", 
+        "lockposition": "1", 
+        "overflow": "3", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "ACL", 
+        "titlewrap": "1", 
+        "top": "20", 
+        "visible": "1", 
+        "width": "795", 
+        "zindex": "0"
+    }
+}

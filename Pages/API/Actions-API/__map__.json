@@ -1,0 +1,170 @@
+{
+    "call_macro.py": {
+        "ID": "0c0c8b3b-162b-43bc-a91e-a0135676ca44", 
+        "Left": "", 
+        "Name": "call_macro", 
+        "State": "", 
+        "Top": ""
+    }, 
+    "change_root_password.py": {
+        "ID": "ba2d6134-b442-4f94-9e6f-7707ad1c64f7", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "change_root_password", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "change_scheme.py": {
+        "ID": "873b2706-3091-44ef-9c95-89e2fc490f3c", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "change_scheme", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "clear.py": {
+        "ID": "63c3fa98-e8bd-4e40-916d-ec2d739f12e4", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "clear", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "eac_get.py": {
+        "ID": "70a3100b-ee27-490a-bf5c-24523798cc38", 
+        "Left": "", 
+        "Name": "eac_get", 
+        "State": "", 
+        "Top": ""
+    }, 
+    "eac_render.py": {
+        "ID": "8d7735a2-1f01-4cde-90de-22970a3d063b", 
+        "Left": "", 
+        "Name": "eac_render", 
+        "State": "", 
+        "Top": ""
+    }, 
+    "eapp_resource.py": {
+        "ID": "7dab70a1-8549-4811-99ad-a026764fe8c5", 
+        "Left": "", 
+        "Name": "eapp_resource", 
+        "State": "", 
+        "Top": ""
+    }, 
+    "eapp_widget.py": {
+        "ID": "3f1cefb9-5490-4342-89d3-c110e9f85d55", 
+        "Left": "", 
+        "Name": "eapp_widget", 
+        "State": "", 
+        "Top": ""
+    }, 
+    "get_objects.py": {
+        "ID": "5ea52133-8ac4-48d3-820e-9c6935848346", 
+        "Left": "", 
+        "Name": "get_objects", 
+        "State": "", 
+        "Top": ""
+    }, 
+    "get_resources.py": {
+        "ID": "46130fe0-a174-4098-a767-b6b799a08e8b", 
+        "Left": "", 
+        "Name": "get_resources", 
+        "State": "", 
+        "Top": ""
+    }, 
+    "install_plugin.py": {
+        "ID": "0d8634fd-bed3-4305-836c-46648e1e9620", 
+        "Left": "", 
+        "Name": "install_plugin", 
+        "State": "", 
+        "Top": ""
+    }, 
+    "login.py": {
+        "ID": "385dcf55-ef96-4c86-8e33-5c4666499d86", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "login", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "onload.py": {
+        "ID": "9a5212bb-5c0b-440b-b206-a151f4ca6fa9", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "ping.py": {
+        "ID": "acd4e9f2-e9f6-41dc-a6d3-c5e748ac721c", 
+        "Left": "", 
+        "Name": "ping", 
+        "State": "", 
+        "Top": ""
+    }, 
+    "proadmin_sync.py": {
+        "ID": "cbf8beeb-9468-40db-a8cc-50989ac82022", 
+        "Left": "", 
+        "Name": "proadmin_sync", 
+        "State": "", 
+        "Top": ""
+    }, 
+    "retrieve_groups.py": {
+        "ID": "0d5fcb91-ae47-4b79-8b28-4ed9bfe0e6cc", 
+        "Left": "", 
+        "Name": "retrieve_groups", 
+        "State": "", 
+        "Top": ""
+    }, 
+    "retrieve_users.py": {
+        "ID": "0dc7e3ac-598c-4578-ab98-4fb19d126759", 
+        "Left": "", 
+        "Name": "retrieve_users", 
+        "State": "", 
+        "Top": ""
+    }, 
+    "save_resources.py": {
+        "ID": "8209fad2-5699-444d-9d58-7f4927157dbe", 
+        "Left": "", 
+        "Name": "save_resources", 
+        "State": "", 
+        "Top": ""
+    }, 
+    "selftest.py": {
+        "ID": "43d8e31d-7255-4cdc-af8c-9c6a7cb87d6f", 
+        "Left": "461", 
+        "left": "205", 
+        "Name": "selftest", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "600", 
+        "top": "471"
+    }, 
+    "upgrade.py": {
+        "ID": "ced5f8bf-1c39-4afc-825b-9ada76a50528", 
+        "Left": "281", 
+        "left": "135", 
+        "Name": "upgrade", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "170", 
+        "top": "212"
+    }, 
+    "wysiwyg.py": {
+        "ID": "1f2230ca-4aea-4367-9f67-f1ba6ef3a72f", 
+        "Left": "", 
+        "Name": "wysiwyg", 
+        "State": "", 
+        "Top": ""
+    }
+}

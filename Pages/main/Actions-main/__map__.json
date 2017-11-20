@@ -1,0 +1,32 @@
+{
+    "onload.py": {
+        "ID": "a9ff6e38-5388-4c73-80f9-c5ad3ea0f04a", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "workspace_dialog_fill.py": {
+        "ID": "2aa9fd40-a198-4c42-87e4-51196f572814", 
+        "Left": "969", 
+        "left": "969", 
+        "Name": "workspace_dialog_fill", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "270", 
+        "top": "270"
+    }, 
+    "workspace_update.py": {
+        "ID": "91f6b917-5954-434f-bb32-171a9376cd9c", 
+        "Left": "109", 
+        "left": "366", 
+        "Name": "workspace_update", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "189", 
+        "top": "130"
+    }
+}

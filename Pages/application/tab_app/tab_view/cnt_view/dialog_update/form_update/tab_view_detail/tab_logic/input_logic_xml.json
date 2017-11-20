@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        "ID": "04042011-aec3-4ae8-b541-b6757a93572f", 
+        "Name": "input_logic_xml", 
+        "Type": "410ce9c6-5ae0-4c66-9c2b-80b7470e2927"
+    }, 
+    "attributes": {
+        "autocomplete": "1", 
+        "border": "1", 
+        "classname": "", 
+        "focused": "0", 
+        "height": "331", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "mode": "0", 
+        "multiline": "1", 
+        "placeholder": "Logic XML", 
+        "tabindex": "0", 
+        "title": "", 
+        "top": "0", 
+        "value": "", 
+        "visible": "1", 
+        "width": "757", 
+        "zindex": "0"
+    }
+}

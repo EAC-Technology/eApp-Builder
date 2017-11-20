@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "ID": "fe257c39-9b93-43ee-9bf9-ea262de55b1f", 
+        "Name": "hypertext_link", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "height": "30", 
+        "hierarchy": "0", 
+        "htmlcode": "", 
+        "left": "0", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "80", 
+        "zindex": "0"
+    }
+}

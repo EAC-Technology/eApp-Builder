@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "ID": "6f40e672-aaca-4358-aea9-7d4d96c97e66", 
+        "Name": "hpt", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "height": "114", 
+        "hierarchy": "0", 
+        "htmlcode": "What is proadmin connection?", 
+        "left": "12", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "41", 
+        "visible": "1", 
+        "width": "350", 
+        "zindex": "0"
+    }
+}

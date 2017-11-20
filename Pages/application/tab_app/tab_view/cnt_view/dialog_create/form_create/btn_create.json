@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        "ID": "fb0392b3-c78e-41fd-b3db-2d6ffeedefb9", 
+        "Name": "btn_create", 
+        "Type": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+    }, 
+    "attributes": {
+        "classname": "btn btn-success", 
+        "height": "30", 
+        "hierarchy": "0", 
+        "label": "Create", 
+        "left": "98", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "3", 
+        "top": "50", 
+        "type": "0", 
+        "visible": "1", 
+        "width": "90", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        "ID": "03314946-c812-483a-8890-182fa93d739d", 
+        "Name": "dialog_add_timer", 
+        "Type": "5a70e041-f288-4905-3ea3-1a0fdfc40475"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "draggable": "0", 
+        "height": "187", 
+        "hierarchy": "0", 
+        "left": "782", 
+        "minheight": "50", 
+        "minwidth": "50", 
+        "modal": "0", 
+        "show": "0", 
+        "skin": "1", 
+        "style": ".boxy-wrapper { position: absolute; }\n.boxy-wrapper.fixed { position: fixed; }\n.boxy-modal-blackout { position: absolute; background-color: black; left: 0; top: 0; }\n\n.boxy-wrapper .title-bar {\nposition: relative;\nbackground-color: #e9e9e9;\npadding:1px;\nfont-size:10px;\ntext-align:center;\n}\n.boxy-wrapper .title-bar a.close{\noutline: none;\nposition: absolute;\nbackground: url(\"/3938bd92-e009-2767-09e2-1da56035c24a.png\") -95px -128px;\nheight: 18px;\nwidth: 19px;\ntop: 6px;\nright: 6px;\n}\n.boxy-wrapper .title-bar a.close:hover{\nborder: 1px inset #999999;\n}\n.boxy-inner {\nbackground-color:#fff !important;\nborder:3px solid #ccc;\n}", 
+        "title": "Edit timer", 
+        "top": "1270", 
+        "width": "367", 
+        "zindex": "9"
+    }
+}

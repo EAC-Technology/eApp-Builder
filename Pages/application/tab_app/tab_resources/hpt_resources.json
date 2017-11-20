@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "2ab475b1-c9f9-4370-b1e9-d918279b5a34", 
+        "Name": "hpt_resources", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "60", 
+        "hierarchy": "0", 
+        "htmlcode": "", 
+        "left": "0", 
+        "nostyle": "0", 
+        "overflow": "3", 
+        "top": "53", 
+        "visible": "1", 
+        "width": "783", 
+        "zindex": "0"
+    }
+}

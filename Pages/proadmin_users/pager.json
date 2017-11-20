@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "bf6bf2f9-81bb-4f3f-800b-4d37f6b1e77e", 
+        "Name": "pager", 
+        "Type": "f2870944-8c3b-5c3f-5278-07826629b2aa"
+    }, 
+    "attributes": {
+        "currentpage": "1", 
+        "height": "30", 
+        "hierarchy": "0", 
+        "left": "224", 
+        "pagescount": "1", 
+        "showcount": "10", 
+        "style": "%(css_class)s TABLE\n{\nborder: none;\ntext-align: center;\n\n}\n\n%(css_class)s TABLE TD\n{\n\n}\n\n%(css_class)s A:hover\n{\nbackground-color: #E8E8E8;\n\n}\n\n%(css_class)s A\n{\ncursor: pointer;\ndisplay: block;\nfont-size: 12pt;\n}\n\n%(css_class)s SPAN\n{\nbackground-color: #CFCFCF;\ndisplay: block;\nfont-size: 12pt;\n}", 
+        "top": "548", 
+        "visible": "1", 
+        "width": "300", 
+        "zindex": "9"
+    }
+}

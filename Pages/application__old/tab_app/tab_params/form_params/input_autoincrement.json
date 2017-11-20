@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        "ID": "6c0d6c86-59a3-484b-b92c-93d6327d3367", 
+        "Name": "input_autoincrement", 
+        "Type": "8077aa1c-6762-4719-a6ea-fdfb0bcfa0c2"
+    }, 
+    "attributes": {
+        "disable": "0", 
+        "fontsize": "14", 
+        "fontweight": "normal", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "label": "Auto Increment", 
+        "left": "284", 
+        "state": "1", 
+        "tabindex": "0", 
+        "top": "148", 
+        "value": "1", 
+        "visible": "1", 
+        "width": "123", 
+        "zindex": "0"
+    }
+}

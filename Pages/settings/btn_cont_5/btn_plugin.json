@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "e404c6dc-19ac-4773-834b-ed2160134b6a", 
+        "Name": "btn_plugin", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "", 
+        "color": "000000", 
+        "containerlink": "39a33860-2520-4900-bb6e-7c58fa4643d8", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "50", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "16", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Plugins", 
+        "textdecoration": "none", 
+        "top": "16", 
+        "visible": "1", 
+        "width": "95", 
+        "zindex": "0"
+    }
+}

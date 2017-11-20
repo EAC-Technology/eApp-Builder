@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "7f0b4873-d7cd-44cd-a82c-969148b491e6", 
+        "Name": "text_macros_name", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "center", 
+        "alpha": "100", 
+        "classname": "macr-label-but", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "10", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "textdecoration": "none", 
+        "top": "38", 
+        "value": "Macros", 
+        "visible": "1", 
+        "width": "90", 
+        "zindex": "0"
+    }
+}

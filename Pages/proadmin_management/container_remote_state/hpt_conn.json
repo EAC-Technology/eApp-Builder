@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "ID": "8f04e15e-de4d-496d-9613-7c95c022d646", 
+        "Name": "hpt_conn", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "height": "109", 
+        "hierarchy": "0", 
+        "htmlcode": "", 
+        "left": "14", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "112", 
+        "visible": "1", 
+        "width": "371", 
+        "zindex": "0"
+    }
+}

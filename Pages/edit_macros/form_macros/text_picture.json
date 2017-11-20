@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "047be7f3-8a14-4849-91ac-915f7edce743", 
+        "Name": "text_picture", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "502", 
+        "textdecoration": "none", 
+        "top": "106", 
+        "value": "Select picture:", 
+        "visible": "0", 
+        "width": "95", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "ce3aceef-9308-4f9c-9288-ecbe73d3e804", 
+        "Name": "tab_source", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "", 
+        "designcolor": "eeeeee", 
+        "footer": "0", 
+        "height": "333", 
+        "heightauto": "0", 
+        "hierarchy": "2", 
+        "left": "1", 
+        "lockposition": "1", 
+        "overflow": "0", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "Source", 
+        "titlewrap": "0", 
+        "top": "20", 
+        "visible": "1", 
+        "width": "757", 
+        "zindex": "1"
+    }
+}

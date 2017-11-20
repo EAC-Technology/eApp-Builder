@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "6254c0fe-d047-4d47-a171-991ae6700845", 
+        "Name": "copy_breadcrumb", 
+        "Type": "5c1b98df-8609-4660-83b2-44ec7b2e7611"
+    }, 
+    "attributes": {
+        "designcolor": "EEEEEE", 
+        "hierarchy": "0", 
+        "left": "5", 
+        "source_object": "b898fe24-538e-4587-b619-8d49e09ccbb6", 
+        "source_object_cache": "b898fe24-538e-4587-b619-8d49e09ccbb6", 
+        "top": "89", 
+        "visible": "1", 
+        "zindex": "0"
+    }
+}

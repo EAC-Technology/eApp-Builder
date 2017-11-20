@@ -1,0 +1,30 @@
+{
+    "attrs": {
+        "ID": "243b689d-0bec-4168-99ca-106a99ad234c", 
+        "Name": "datatable_macros", 
+        "Type": "a2240af9-66d1-8841-0c58-ff687f3d2b3c"
+    }, 
+    "attributes": {
+        "cssclass": "plugin-dt macrolike-cont cell-five", 
+        "data": "", 
+        "draggable": "0", 
+        "header": "[ \"id\", \"Picture\", \"Macros_info\", \"Edit_info\", \"Edit_source\", \"Delete\"]", 
+        "height": "354", 
+        "hiddenfields": "[\"id\"]", 
+        "hierarchy": "0", 
+        "key": "id", 
+        "left": "81", 
+        "nocellclick": "", 
+        "rowactive": "", 
+        "selectedrows": "", 
+        "selectionmode": "0", 
+        "showheader": "0", 
+        "skin": "0", 
+        "style": "", 
+        "title": "", 
+        "top": "284", 
+        "visible": "1", 
+        "width": "684", 
+        "zindex": "9"
+    }
+}

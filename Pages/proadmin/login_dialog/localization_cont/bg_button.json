@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "69f7969c-68aa-4120-bb37-3ae7e89101fb", 
+        "Name": "bg_button", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "11", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "#Res(6338bda7-0784-46eb-90dc-9dd9c03953f5)", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "74", 
+        "link": "?ln=bg", 
+        "rollover": "#Res(null)", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "", 
+        "textdecoration": "none", 
+        "top": "15", 
+        "visible": "1", 
+        "width": "16", 
+        "zindex": "0"
+    }
+}

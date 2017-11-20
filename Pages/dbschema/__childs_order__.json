@@ -1,0 +1,15 @@
+[
+    "config", 
+    "remote_settings", 
+    "eapp_application", 
+    "eapp_workspace", 
+    "eapp_widget", 
+    "eapp_data_source", 
+    "eapp_resource", 
+    "eapp_view", 
+    "eapp_role", 
+    "eapp_acl", 
+    "eapp_right", 
+    "eapp_subjects_in_roles", 
+    "eapp_script"
+]

@@ -1,0 +1,30 @@
+{
+    "attrs": {
+        "ID": "a67e755b-fb72-4b47-9494-5df0bfc72a11", 
+        "Name": "datatable_resource", 
+        "Type": "a2240af9-66d1-8841-0c58-ff687f3d2b3c"
+    }, 
+    "attributes": {
+        "cssclass": "plugin-dt macrolike-cont timer-cont", 
+        "data": "", 
+        "draggable": "0", 
+        "header": "[\"id\", \"Picture\", \"Name\", \"Export\", \"Delete\"]", 
+        "height": "354", 
+        "hiddenfields": "[\"id\"]", 
+        "hierarchy": "0", 
+        "key": "id", 
+        "left": "79", 
+        "nocellclick": "", 
+        "rowactive": "", 
+        "selectedrows": "", 
+        "selectionmode": "0", 
+        "showheader": "0", 
+        "skin": "0", 
+        "style": "", 
+        "title": "", 
+        "top": "1612", 
+        "visible": "1", 
+        "width": "685", 
+        "zindex": "9"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "onload.py": {
+        "ID": "360a7aa7-8b05-4a0c-8fb7-7f3c57f7111e", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "view_dialog_fill.py": {
+        "ID": "fa3b78f2-9bb1-4cdc-a267-6eadabd89bd1", 
+        "Left": "1304", 
+        "left": "1292", 
+        "Name": "view_dialog_fill", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "631", 
+        "top": "492"
+    }, 
+    "view_update.py": {
+        "ID": "73dd6ed8-40b9-4b35-98cb-f75aab423be1", 
+        "Left": "1197", 
+        "left": "996", 
+        "Name": "view_update", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "104", 
+        "top": "1"
+    }
+}

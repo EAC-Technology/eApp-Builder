@@ -1,0 +1,42 @@
+{
+    "autosave.py": {
+        "ID": "68cd139e-efc9-4714-a92c-eec396be94af", 
+        "Left": "262", 
+        "left": "262", 
+        "Name": "autosave", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "88", 
+        "top": "88"
+    }, 
+    "back.py": {
+        "ID": "f7dbd19e-0ad3-449b-ba3d-cd9944c53a74", 
+        "Left": "575", 
+        "left": "575", 
+        "Name": "back", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "255", 
+        "top": "255"
+    }, 
+    "onload.py": {
+        "ID": "7dfe7f4c-443d-45da-93c7-e3b4b627e7bb", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "save_and_apply.py": {
+        "ID": "838d80e9-6427-422c-835d-806c5c17d6a6", 
+        "Left": "196", 
+        "left": "818", 
+        "Name": "save_and_apply", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "586", 
+        "top": "457"
+    }
+}

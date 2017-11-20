@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "a5da8aa3-3f35-4c4d-88a2-76fa1532b9fc", 
+        "Name": "hpt_script_custom_create", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "41", 
+        "hierarchy": "0", 
+        "htmlcode": "", 
+        "left": "0", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "403", 
+        "visible": "1", 
+        "width": "134", 
+        "zindex": "0"
+    }
+}

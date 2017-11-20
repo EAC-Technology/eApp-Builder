@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        "ID": "0b38d14e-e61a-46c3-9fed-928a049598f6", 
+        "Name": "throbber_image", 
+        "Type": "0d36c35d-9508-440f-bfec-668f3db8cfeb"
+    }, 
+    "attributes": {
+        "externalurl": "", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "left": "158", 
+        "resource_cache": "", 
+        "tabindex": "0", 
+        "top": "117", 
+        "value": "#Res(8133b3b7-74c4-45f3-8c8d-d3033e156d24)", 
+        "visible": "1", 
+        "width": "22", 
+        "zindex": "0"
+    }
+}

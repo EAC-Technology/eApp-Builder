@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "18f832c7-8d08-482c-8ed8-089ccbb70f1a", 
+        "Name": "cnt_filter", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "FFFFFF", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "cnt-filter", 
+        "designcolor": "EEEEEE", 
+        "footer": "0", 
+        "height": "234", 
+        "heightauto": "0", 
+        "hierarchy": "0", 
+        "left": "149", 
+        "lockposition": "0", 
+        "overflow": "0", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "", 
+        "titlewrap": "0", 
+        "top": "8", 
+        "visible": "0", 
+        "width": "321", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "ff6a7c32-06d5-4730-b07b-5a13da737fe6", 
+        "Name": "container_click", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "", 
+        "designcolor": "EEEEEE", 
+        "footer": "0", 
+        "height": "35", 
+        "heightauto": "0", 
+        "hierarchy": "0", 
+        "left": "16", 
+        "lockposition": "0", 
+        "overflow": "0", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "container title", 
+        "titlewrap": "0", 
+        "top": "15", 
+        "visible": "0", 
+        "width": "184", 
+        "zindex": "99"
+    }
+}

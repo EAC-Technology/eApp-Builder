@@ -1,0 +1,37 @@
+{
+    "attrs": {
+        "ID": "e9aed224-fa46-4562-96b2-0404e81b1adb", 
+        "Name": "btn_reset", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "center", 
+        "border": "0", 
+        "classname": "acl_small_button", 
+        "color": "000000", 
+        "containerlink": "", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "27", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "150", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "<div class='acl_cancel'>Cancel</div>", 
+        "textdecoration": "none", 
+        "top": "0", 
+        "visible": "0", 
+        "width": "84", 
+        "zindex": "0"
+    }
+}

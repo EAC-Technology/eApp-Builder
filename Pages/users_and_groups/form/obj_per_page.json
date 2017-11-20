@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "394d8bac-9d98-4d97-9386-fedc167ddaf2", 
+        "Name": "obj_per_page", 
+        "Type": "0c84f3d5-5f98-451d-a41c-e7a5b4afe5cf"
+    }, 
+    "attributes": {
+        "disabled": "0", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "168", 
+        "selectedvalue": "", 
+        "tabindex": "0", 
+        "top": "1", 
+        "value": "{\"10\":\"10\",\"20\":\"20\",\"50\":\"50\",\"100\":\"100\"}", 
+        "visible": "1", 
+        "width": "56", 
+        "zindex": "0"
+    }
+}

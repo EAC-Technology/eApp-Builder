@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        "ID": "45145861-42c9-483c-b8e8-7990893ca338", 
+        "Name": "formbutton_upload_plugin", 
+        "Type": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "25", 
+        "hierarchy": "0", 
+        "label": "Install", 
+        "left": "255", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "top": "24", 
+        "type": "0", 
+        "visible": "1", 
+        "width": "90", 
+        "zindex": "0"
+    }
+}

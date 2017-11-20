@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "01144c68-f110-47dc-aa83-a5d4425c6656", 
+        "Name": "text_custom_events", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "page-caption", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "79", 
+        "textdecoration": "none", 
+        "top": "2032", 
+        "value": "Custom events", 
+        "visible": "1", 
+        "width": "214", 
+        "zindex": "9"
+    }
+}

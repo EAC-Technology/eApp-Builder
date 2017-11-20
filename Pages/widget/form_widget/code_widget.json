@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        "ID": "86c8d90e-d4d1-4211-bc86-927fab709a66", 
+        "Name": "code_widget", 
+        "Type": "9a8f8e07-cb43-ff0f-7179-4a437911af23"
+    }, 
+    "attributes": {
+        "height": "549", 
+        "hierarchy": "0", 
+        "left": "2", 
+        "syntax": "xml", 
+        "top": "23", 
+        "value": "", 
+        "visible": "1", 
+        "width": "937", 
+        "zindex": "0"
+    }
+}

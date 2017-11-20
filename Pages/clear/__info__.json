@@ -1,0 +1,33 @@
+{
+    "attrs": {
+        "ID": "408ecd01-64c9-4e73-bdae-b19202fb7c85", 
+        "Name": "clear", 
+        "Type": "2330fe83-8cd6-4ed5-907d-11874e7ebcf4"
+    }, 
+    "attributes": {
+        "activelinkcolor": "000000", 
+        "bgcolor": "FFFFFF", 
+        "bgrepeat": "repeat", 
+        "css": "", 
+        "cssclass": "", 
+        "deniedlink": "", 
+        "description": "", 
+        "hierarchy": "0", 
+        "image": "16564dcc-e4b2-4ee0-8072-d7cb68e4b511", 
+        "jqui": "1", 
+        "linkcolor": "000000", 
+        "metadescription": "", 
+        "metakeywords": "", 
+        "noscript": "", 
+        "position": "left", 
+        "securitycode": "", 
+        "style": "", 
+        "testClasses": "", 
+        "testFunc": "", 
+        "textcolor": "000000", 
+        "title": "clear", 
+        "visible": "1", 
+        "visitedlinkcolor": "000000", 
+        "zindex": "0"
+    }
+}

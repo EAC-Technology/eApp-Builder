@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "2b25e375-2c51-41ff-8b32-40f1f9a1cfe9", 
+        "Name": "dt_rules", 
+        "Type": "a2240af9-66d1-8841-0c58-ff687f3d2b3c"
+    }, 
+    "attributes": {
+        "cssclass": "", 
+        "data": "", 
+        "draggable": "0", 
+        "header": "", 
+        "height": "557", 
+        "hiddenfields": "", 
+        "hierarchy": "0", 
+        "key": "", 
+        "left": "6", 
+        "rowactive": "", 
+        "selectedrows": "", 
+        "selectionmode": "0", 
+        "showheader": "1", 
+        "skin": "0", 
+        "style": "#%(id)s caption\n{\n\n}\n\n#%(id)s table.table\n{\n\tborder-collapse:collapse;\n\tborder: none;\n\theight: 0;\n\n}\n\n#%(id)s .thead\n{\n\tfont-size:12px;\n\ttext-align:left;\n\tpadding:0 8px;\n\tline-height: 16px;\n}\n\n#%(id)s .thead:hover\n{\n\tcolor: #BD202F;\n\tbackground: #fafafa !important;\n}\n\n#%(id)s .th-cell\n{\n\tborder: none;\n\tpadding-left:6px;\n\tfont-size:12px;\n}\n\n#%(id)s th.th-cell-0, #%(id)s td.cell-0 input\n{\n\twidth: 18px;\n\tmargin: 2px;\n}\n\n#%(id)s table.table td.cell\n{\n\tborder: none;\n\tpadding-left:6px;\n\ttext-align:left;\n\n}\n\n\n#%(id)s table.table td.cell:hover\n{\n\tcolor: #BD202F;\n}\n\n#%(id)s tr.even\n{\n\n}\n\n#%(id)s .row\n{\n\n}\n\n#%(id)s .row:hover\n{\n\tbackground: #fafafa !important;\n}\n\n#%(id)s .row_selected\n{\n\tbackground:#f2f2f2!important;\n\tcolor: #BD202F;\n}", 
+        "title": "", 
+        "top": "19", 
+        "visible": "1", 
+        "width": "344", 
+        "zindex": "0"
+    }
+}

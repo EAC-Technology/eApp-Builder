@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        "ID": "e73dc0dc-0d8a-4bb3-8d58-1b65e3f9aa78", 
+        "Name": "formradiobutton_remote", 
+        "Type": "213f1e8c-8a3e-452b-af33-4ca3139fe960"
+    }, 
+    "attributes": {
+        "align": "0", 
+        "classname": "", 
+        "disable": "0", 
+        "height": "18", 
+        "hierarchy": "0", 
+        "label": "ProAdmin connection", 
+        "left": "8", 
+        "state": "0", 
+        "tabindex": "0", 
+        "top": "16", 
+        "value": "1", 
+        "visible": "1", 
+        "width": "220", 
+        "zindex": "0"
+    }
+}

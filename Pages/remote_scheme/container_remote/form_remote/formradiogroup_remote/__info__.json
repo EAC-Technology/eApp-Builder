@@ -1,0 +1,16 @@
+{
+    "attrs": {
+        "ID": "3dad7b14-25c6-4bf5-8a48-8703f3110551", 
+        "Name": "formradiogroup_remote", 
+        "Type": "5ec776c5-23f6-4098-a69d-600b08b220b0"
+    }, 
+    "attributes": {
+        "height": "50", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "291", 
+        "zindex": "0"
+    }
+}

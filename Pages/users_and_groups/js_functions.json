@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "ID": "d9c1a139-775c-4332-9574-a2a385baef9b", 
+        "Name": "js_functions", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "height": "36", 
+        "hierarchy": "0", 
+        "htmlcode": "<script type=\"text/javascript\">\nfunction showOrHideInputGroupName( item_id ){{\n\tif ( item_id == \"new\" ) {{\n\t\tObj_{new_sf_name_id}.setValue( \"\" );\n\t\tObj_{new_sf_name_id}.show();\n\t}}\n\telse {{\n\t\tObj_{new_sf_name_id}.hide();\n\t}}\n}}\n\nfunction clearSharedVariables( vars ){{\n\tfor (var i = 0; i < vars.length; i++ ){{\n\t\tval = vars[ i ]\n\t\tObj_{page_id}.removeSharedVariable( val );\n\t}}\n}}\n\nfunction setSharedVariables( vars ){{\n\tfor ( var v in vars ){{\n\t\tObj_{page_id}.setSharedVariable( v, vars[v] );\n\t}}\n}}\n\nfunction generatePassword(){{\n\tvar chars = \"0123456789ABCDEFGHIJKLMNOPQRSTUVWXTZabcdefghiklmnopqrstuvwxyz\";\n\tvar string_length = 6;\n\tvar randomstring = '';\n\tfor (var i=0; i<string_length; i++) {{\n\t\tvar rnum = Math.floor(Math.random() * chars.length);\n\t\trandomstring += chars.substring(rnum,rnum+1);\n\t}}\n\tObj_{password_id}.setValue( randomstring );\n\tObj_{visible_password_id}.setValue( randomstring );\n}}\n\nfunction setContinueFlag( flag ){{\n\tObj_{continue_input_id}.setValue( flag?\"1\":\"0\");\n\tObj_{user_form_id}.submit();\n}}\n\nfunction arraysSubtraction( a1, a2 ){{\n\treturn jQuery.grep(\ta1,function (item) {{\n\t\t\treturn jQuery.inArray(item, a2) < 0;\n\t\t\t}});\n}}\n\nfunction arraysCombine( a1, a2 ){{\n\treturn jQuery.unique( jQuery.merge( a1,a2 ) );\n}}\n\nfunction setSelectedObjects( keyList ){{\n\tif (e2vdomSV[\"displayedObjects\"].length == 0){{\n\t\tObj_{page_id}.setSharedVariable( \"selectedObjects\", keyList );\n\t}}\n\telse{{\n\t\tObj_{page_id}.setSharedVariable( \"selectedObjects\", arraysCombine( arraysSubtraction( e2vdomSV[\"selectedObjects\"], e2vdomSV[\"displayedObjects\"]),keyList) );\n\t}}\n}}\n\n</script>", 
+        "left": "1312", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "0", 
+        "visible": "0", 
+        "width": "97", 
+        "zindex": "9"
+    }
+}

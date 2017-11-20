@@ -1,0 +1,37 @@
+{
+    "attrs": {
+        "ID": "e2da4301-9d0f-4d8e-bbd8-3b1983d460ff", 
+        "Name": "button_vdom", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "", 
+        "color": "000000", 
+        "containerlink": "", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "31", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "#Res(af09e6ea-d325-4b12-8ffc-5ea29764cc6c)", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "166", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "3", 
+        "text": "", 
+        "textdecoration": "none", 
+        "top": "345", 
+        "visible": "1", 
+        "width": "116", 
+        "zindex": "0"
+    }
+}

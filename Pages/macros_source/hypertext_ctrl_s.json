@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "ID": "6054e20c-e095-4c53-b929-675ecde7f008", 
+        "Name": "hypertext_ctrl_s", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "height": "60", 
+        "hierarchy": "0", 
+        "htmlcode": "<script type='text/javascript'>\n\nif (!(window.mozInnerScreenX == null)) { /* is firefox */\n window.onkeypress = function(event) {\n  if (event.charCode === 115 && event.ctrlKey) {\n   event.preventDefault();\n   execEventBinded( \"ef7a1cca_859f_4a9c_a17e_7ddc3bb54a47\", \"click\" )\n  // alert(\"'Save As' dialog suppressed!\");\n  }\n };\n} else {\n jQuery(document).keydown(function(event) {\n  var currKey=0,e=e||event;\n  currKey=e.keyCode||e.which||e.charCode;  //do this handle FF and IE\n  if (!( String.fromCharCode(event.which).toLowerCase() == 's' && event.ctrlKey) && !(event.which == 19)) return true;\n  event.preventDefault();\n\n  execEventBinded( \"ef7a1cca_859f_4a9c_a17e_7ddc3bb54a47\", \"click\" )\n // alert(\"put your code here\")\n  return false;\n });\n}\n\n</script>", 
+        "left": "1335", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "0", 
+        "visible": "0", 
+        "width": "80", 
+        "zindex": "9"
+    }
+}

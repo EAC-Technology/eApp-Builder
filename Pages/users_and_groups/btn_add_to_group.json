@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "9ae7fb33-f6ba-46ec-b3ea-ead7e61a9632", 
+        "Name": "btn_add_to_group", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "center", 
+        "border": "0", 
+        "classname": "add-to-group-button", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontshift": "0", 
+        "fontsize": "10", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "35", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "208", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Add selected to group", 
+        "textdecoration": "none", 
+        "top": "85", 
+        "visible": "1", 
+        "width": "109", 
+        "zindex": "9"
+    }
+}

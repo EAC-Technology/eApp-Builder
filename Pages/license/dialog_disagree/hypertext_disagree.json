@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "ID": "5728d058-00c2-4d9c-aef2-aa90b4328c76", 
+        "Name": "hypertext_disagree", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "height": "77", 
+        "hierarchy": "0", 
+        "htmlcode": "You have to agree with license to use product", 
+        "left": "9", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "51", 
+        "visible": "1", 
+        "width": "284", 
+        "zindex": "0"
+    }
+}

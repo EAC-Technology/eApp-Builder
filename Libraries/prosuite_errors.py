@@ -1,0 +1,4 @@
+
+class ProSuiteBaseError(Exception):
+    pass
+

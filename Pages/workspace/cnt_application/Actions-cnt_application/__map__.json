@@ -1,0 +1,32 @@
+{
+    "application_dialog_fill.py": {
+        "ID": "b8ff0e3d-ce1f-44e8-9734-741ab23cdb4d", 
+        "Left": "866", 
+        "left": "1304", 
+        "Name": "application_dialog_fill", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "575", 
+        "top": "631"
+    }, 
+    "application_update.py": {
+        "ID": "0d15ef2a-4055-445a-a00c-827ae2b99a9c", 
+        "Left": "997", 
+        "left": "1197", 
+        "Name": "application_update", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "46", 
+        "top": "104"
+    }, 
+    "onload.py": {
+        "ID": "23d26c20-5afb-40d5-bf85-181288b83e87", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }
+}

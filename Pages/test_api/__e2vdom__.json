@@ -1,0 +1,106 @@
+{
+    "actions": [
+        {
+            "ID": "11FDE838-0507-C82D-D2C9-26F8B47DA1C8", 
+            "Left": "460", 
+            "MethodName": "submit", 
+            "ObjTgtID": "b4fec203-87b5-4caa-95de-1960d5a37050", 
+            "State": "true", 
+            "Top": "108"
+        }, 
+        {
+            "ID": "1E1FFF32-2C27-4E84-7BAA-272F0ACB336C", 
+            "Left": "459", 
+            "MethodName": "setValue", 
+            "ObjTgtID": "63e0f787-4ca8-4510-8acc-ec9cfd91f06f", 
+            "Params": [
+                [
+                    "value", 
+                    "\"login\""
+                ]
+            ], 
+            "State": "true", 
+            "Top": "481"
+        }, 
+        {
+            "ID": "2460BEA3-0CBE-00AC-D9A1-4B5C232830D7", 
+            "Left": "1196", 
+            "MethodName": "submit", 
+            "ObjTgtID": "8b15e5f9-c2ae-45c5-af04-8ac65897ed81", 
+            "State": "false", 
+            "Top": "312"
+        }, 
+        {
+            "ID": "46769B96-8FA6-F4AD-89B5-272EF6046749", 
+            "Left": "450", 
+            "MethodName": "setValue", 
+            "ObjTgtID": "71bd0a42-1e50-4086-b75d-4e7708fe7e26", 
+            "Params": [
+                [
+                    "value", 
+                    "'{\"login\": \"root\", \"password\": \"root\"}'"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "594"
+        }
+    ], 
+    "events": [
+        {
+            "actions": [
+                "1E1FFF32-2C27-4E84-7BAA-272F0ACB336C", 
+                "46769B96-8FA6-F4AD-89B5-272EF6046749"
+            ], 
+            "ContainerID": "dcb89513-6fc1-4762-a018-771c7331eb7c", 
+            "Left": "212", 
+            "Name": "click", 
+            "ObjSrcID": "941d1e59-3e55-4f42-b3d0-b485bf9c0573", 
+            "State": "true", 
+            "Top": "498"
+        }, 
+        {
+            "actions": [
+                "0e833cd0-f659-483e-af7b-a1784165489b"
+            ], 
+            "ContainerID": "dcb89513-6fc1-4762-a018-771c7331eb7c", 
+            "Left": "215", 
+            "Name": "submit", 
+            "ObjSrcID": "b4fec203-87b5-4caa-95de-1960d5a37050", 
+            "State": "true", 
+            "Top": "285"
+        }, 
+        {
+            "actions": [
+                "11FDE838-0507-C82D-D2C9-26F8B47DA1C8"
+            ], 
+            "ContainerID": "dcb89513-6fc1-4762-a018-771c7331eb7c", 
+            "Left": "190", 
+            "Name": "click", 
+            "ObjSrcID": "f7d3e107-92cd-45dc-8bc5-cb23fb1f0943", 
+            "State": "true", 
+            "Top": "100"
+        }, 
+        {
+            "actions": [
+                "73c36669-808e-44ef-b929-3e314c48b953"
+            ], 
+            "ContainerID": "dcb89513-6fc1-4762-a018-771c7331eb7c", 
+            "Left": "962", 
+            "Name": "submit", 
+            "ObjSrcID": "8b15e5f9-c2ae-45c5-af04-8ac65897ed81", 
+            "State": "false", 
+            "Top": "376"
+        }, 
+        {
+            "actions": [
+                "2460BEA3-0CBE-00AC-D9A1-4B5C232830D7"
+            ], 
+            "ContainerID": "dcb89513-6fc1-4762-a018-771c7331eb7c", 
+            "Left": "969", 
+            "Name": "click", 
+            "ObjSrcID": "a9bd42db-e487-46d7-bf9f-edeb1e807217", 
+            "State": "false", 
+            "Top": "310"
+        }
+    ]
+}

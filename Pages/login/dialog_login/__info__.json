@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        "ID": "f91c9d40-24b0-433c-8773-74640d0bb6c1", 
+        "Name": "dialog_login", 
+        "Type": "5a70e041-f288-4905-3ea3-1a0fdfc40475"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "draggable": "1", 
+        "height": "414", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "minheight": "50", 
+        "minwidth": "50", 
+        "modal": "1", 
+        "show": "1", 
+        "skin": "0", 
+        "style": ".boxy-wrapper { position: absolute; }\n.boxy-wrapper.fixed { position: fixed; }\n\n\n.boxy-wrapper .title-bar {\nposition: relative;\nbackground-color: #e9e9e9;\npadding:1px;\nfont-size:10px;\ntext-align:center;\n}\n.boxy-wrapper .title-bar a.close{\nposition: absolute;\nbackground: url(\"/f99ca54d-a811-46f1-9072-5f92c71a6df5.png\") -95px -128px;\nheight: 18px;\nwidth: 19px;\ntop: 6px;\nright: 6px;\n}\n.boxy-wrapper .title-bar a.close:hover{\nborder: 1px inset #999999;\n}\n.boxy-inner {\nbackground-color:#fff !important;\nbox-shadow: 0 0 40px #ccc;\n    box-shadow: 0 0 40px #ccc;\n    -moz-box-shadow: 0 0 40px #ccc;\n    -webkit-box-shadow: 0 0 40px #ccc;\n}", 
+        "title": "", 
+        "top": "0", 
+        "width": "446", 
+        "zindex": "0"
+    }
+}

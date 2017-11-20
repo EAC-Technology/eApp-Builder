@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        "ID": "6c4e662d-cc09-48b8-b535-2135cd038484", 
+        "Name": "s_hour", 
+        "Type": "7029560a-ca17-4e32-a058-cf82b8facc33"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "45", 
+        "multiselect": "0", 
+        "selectedvalue": "0", 
+        "size": "", 
+        "tabindex": "0", 
+        "top": "140", 
+        "value": "", 
+        "value1": "", 
+        "visible": "1", 
+        "width": "49", 
+        "zindex": "0"
+    }
+}

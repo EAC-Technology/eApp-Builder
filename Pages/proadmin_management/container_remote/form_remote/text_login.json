@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "a2103434-6afd-4551-aff8-aa5283dc786a", 
+        "Name": "text_login", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "16", 
+        "textdecoration": "none", 
+        "top": "128", 
+        "value": "Login:", 
+        "visible": "1", 
+        "width": "100", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "46b75e6b-a6a4-4639-904b-10e9b567a5c9", 
+        "Name": "text_macro_name", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "bold", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "5", 
+        "textdecoration": "none", 
+        "top": "10", 
+        "value": "Macro name:", 
+        "visible": "1", 
+        "width": "264", 
+        "zindex": "0"
+    }
+}

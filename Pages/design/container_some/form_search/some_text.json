@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        "ID": "b78fff39-4721-4d87-9845-ff9f6ddd91c1", 
+        "Name": "some_text", 
+        "Type": "82a69b02-9fba-47d0-b206-6fd1769b0ebd"
+    }, 
+    "attributes": {
+        "align": "", 
+        "classname": "", 
+        "color": "", 
+        "css": "", 
+        "font": "", 
+        "height": "0", 
+        "hierarchy": "0", 
+        "left": "19", 
+        "overflow": "0", 
+        "strikethrough": "0", 
+        "top": "7", 
+        "underlined": "0", 
+        "value": "<font color=\"#444444\">Find user</font>", 
+        "visible": "1", 
+        "width": "268", 
+        "zindex": "0"
+    }
+}

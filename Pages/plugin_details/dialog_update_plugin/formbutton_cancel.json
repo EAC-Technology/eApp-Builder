@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        "ID": "a1c4ea60-84aa-4563-9f61-f3f077a9413d", 
+        "Name": "formbutton_cancel", 
+        "Type": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "25", 
+        "hierarchy": "0", 
+        "label": "Cancel", 
+        "left": "199", 
+        "skin": "1", 
+        "style": "#%(id)s {\ntext-align:center !important;\nbackground:#fff url(\"/f704b515-d69d-24d9-5e81-8dc0984592fa.png\") !important;\nbackground-repeat:repeat-x;\nbackground-position:bottom center;\ntext-decoration:none;\nline-height:25px;\nborder:1px solid #c5c5c5;\nborder-radius: 6px;\n-moz-border-radius:6px;\n-webkit-border-radius: 6px;\n-o-border-radius:6px;\n-ms-border-radius: 6px;\ncursor:pointer;\noutline:none !important;\nheight:26px !important;\nbox-shadow:inset 0px 0px 3px #fff;\n-moz-box-shadow:inset 0px 0px 3px #fff;\n-webkit-box-shadow:inset 0px 0px 3px #fff;\n-o-box-shadow:inset 0px 0px 3px #fff;\n-ms-box-shadow:inset 0px 0px 3px #fff;\n-webkit-transition: all 0.7s ease;\n-moz-transition: all 0.7s ease;\n-o-transition: all 0.7s ease;\nline-height:22px !important;\nfont-size:14px !important;\ncolor:#000;\nfont-family:Arial,sans-serif;\n}\n#%(id)s:hover {\nbox-shadow:inset 0px 0px 6px #fff;\n-moz-box-shadow:inset 0px 0px 6px #fff;\n-webkit-box-shadow:inset 0px 0px 6px #fff;\n-o-box-shadow:inset 0px 0px 6px #fff;\n-ms-box-shadow:inset 0px 0px 6px #fff;\nborder:1px solid #a8a8a8;\n}", 
+        "tabindex": "0", 
+        "top": "190", 
+        "type": "1", 
+        "visible": "1", 
+        "width": "96", 
+        "zindex": "0"
+    }
+}

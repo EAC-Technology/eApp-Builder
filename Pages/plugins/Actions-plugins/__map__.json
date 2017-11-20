@@ -1,0 +1,42 @@
+{
+    "execute_macros.py": {
+        "ID": "e2c55107-8f30-4a5d-9198-6f1ce16af530", 
+        "Left": "0", 
+        "left": "263", 
+        "Name": "execute_macros", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "961"
+    }, 
+    "onload.py": {
+        "ID": "b1287169-af1c-4e10-863a-dc622fa3a9f9", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "plugin_operation.py": {
+        "ID": "c63f20d3-9a8a-4e5e-ab8a-9640f6c1796d", 
+        "Left": "221", 
+        "left": "221", 
+        "Name": "plugin_operation", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "220", 
+        "top": "220"
+    }, 
+    "uninstall_plugin.py": {
+        "ID": "d1f66283-accf-415e-8e08-69673d569a3d", 
+        "Left": "939", 
+        "left": "939", 
+        "Name": "uninstall_plugin", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "358", 
+        "top": "358"
+    }
+}

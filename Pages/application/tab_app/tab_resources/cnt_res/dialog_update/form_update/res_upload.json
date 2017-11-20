@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        "ID": "ef45f3ca-654b-4521-bbbb-a1e9f6f22102", 
+        "Name": "res_upload", 
+        "Type": "823833ac-0f63-431c-82e7-0a502af21c65"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "23", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Select file...", 
+        "top": "21", 
+        "visible": "0", 
+        "width": "241", 
+        "zindex": "0"
+    }
+}

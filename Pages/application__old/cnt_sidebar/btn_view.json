@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "36d55d5c-7830-45bd-ac26-ccc997754d0b", 
+        "Name": "btn_view", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "btn btn-default btn-block text-nowrap", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "35", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "0", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "View", 
+        "textdecoration": "none", 
+        "top": "35", 
+        "visible": "0", 
+        "width": "142", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,12 @@
+[
+    "class_acl_user", 
+    "class_errors", 
+    "class_license", 
+    "localization", 
+    "ProAdmin", 
+    "vdom_trace", 
+    "widget_acl_objects", 
+    "widget_acl_rules", 
+    "widget_acl_subjects", 
+    "widget_localization"
+]

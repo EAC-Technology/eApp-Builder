@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "25c66245-870b-4430-a850-529c01032f4a", 
+        "Name": "container_remote", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "form_connection", 
+        "designcolor": "EEEEEE", 
+        "footer": "0", 
+        "height": "285", 
+        "heightauto": "0", 
+        "hierarchy": "0", 
+        "left": "521", 
+        "lockposition": "0", 
+        "overflow": "0", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "container title", 
+        "titlewrap": "0", 
+        "top": "220", 
+        "visible": "1", 
+        "width": "445", 
+        "zindex": "9"
+    }
+}

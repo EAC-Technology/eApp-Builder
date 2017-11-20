@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "adf5122b-9114-4dc1-88fa-695766928c88", 
+        "Name": "loginDialog", 
+        "source_file_name": "loginDialog.json_source.js", 
+        "Type": "dd7a56de-7a14-4f0b-9370-c34d9aa5469b"
+    }, 
+    "attributes": {
+        "height": "30", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "80", 
+        "zindex": "0"
+    }
+}

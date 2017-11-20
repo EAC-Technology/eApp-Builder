@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "0767f787-4aba-4164-b3e7-deb6be252ddf", 
+        "Name": "text_delete", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "86", 
+        "textdecoration": "none", 
+        "top": "59", 
+        "value": "Delete macros?", 
+        "visible": "1", 
+        "width": "115", 
+        "zindex": "0"
+    }
+}

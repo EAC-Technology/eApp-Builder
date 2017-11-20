@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "4131ff07-2c6a-440f-93b6-622974f5a24e", 
+        "Name": "text_current_scheme", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "page-caption", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "18", 
+        "textdecoration": "none", 
+        "top": "110", 
+        "value": "Current scheme", 
+        "visible": "1", 
+        "width": "400", 
+        "zindex": "2"
+    }
+}

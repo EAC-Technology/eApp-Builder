@@ -1,0 +1,16 @@
+{
+    "attrs": {
+        "ID": "50eb1b14-4137-4729-a537-b63dfb337080", 
+        "Name": "license_prosuite", 
+        "Type": "7754df93-9fbe-40a1-bc9a-1bc9ef576dfd"
+    }, 
+    "attributes": {
+        "description": "", 
+        "hierarchy": "0", 
+        "licensekey": "135", 
+        "licensetext": "", 
+        "title": "", 
+        "visible": "1", 
+        "zindex": "0"
+    }
+}

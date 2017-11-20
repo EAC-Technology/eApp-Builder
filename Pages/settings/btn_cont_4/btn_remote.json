@@ -1,0 +1,37 @@
+{
+    "attrs": {
+        "ID": "f3139c23-5a5d-44c7-b154-78c419811a41", 
+        "Name": "btn_remote", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "", 
+        "color": "000000", 
+        "containerlink": "43d4df04-7c20-472b-b867-0ab125af8e76", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "50", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "16", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Remote Control", 
+        "textdecoration": "none", 
+        "top": "18", 
+        "visible": "1", 
+        "width": "95", 
+        "zindex": "0"
+    }
+}

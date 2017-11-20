@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "8befda2f-95cc-4abd-8e1b-570c6e12ff59", 
+        "Name": "hpt_cdn", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "60", 
+        "hierarchy": "0", 
+        "htmlcode": "<!--script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\"></script-->\n\n<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\"\n\tintegrity=\"sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u\" crossorigin=\"anonymous\">\n\n<!--script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js\"\n\tintegrity=\"sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa\" crossorigin=\"anonymous\">\n</script-->", 
+        "left": "50", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "80", 
+        "zindex": "99"
+    }
+}

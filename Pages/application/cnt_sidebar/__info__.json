@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "b0fbbca8-78d9-4af6-a00c-f0d940d96143", 
+        "Name": "cnt_sidebar", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "", 
+        "designcolor": "aefbfc", 
+        "footer": "0", 
+        "height": "597", 
+        "heightauto": "0", 
+        "hierarchy": "0", 
+        "left": "5", 
+        "lockposition": "0", 
+        "overflow": "0", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "container title", 
+        "titlewrap": "0", 
+        "top": "130", 
+        "visible": "1", 
+        "width": "142", 
+        "zindex": "0"
+    }
+}

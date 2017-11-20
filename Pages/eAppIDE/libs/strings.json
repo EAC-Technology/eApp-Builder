@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "0a77a22b-7416-4c5b-8709-05d601c5ffce", 
+        "Name": "strings", 
+        "source_file_name": "strings.json_source.js", 
+        "Type": "dd7a56de-7a14-4f0b-9370-c34d9aa5469b"
+    }, 
+    "attributes": {
+        "height": "30", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "80", 
+        "zindex": "0"
+    }
+}

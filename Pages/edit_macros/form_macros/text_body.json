@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "5bc3f9b4-cfec-4453-b417-ac05c2f3a7e2", 
+        "Name": "text_body", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "6", 
+        "textdecoration": "none", 
+        "top": "181", 
+        "value": "Body:", 
+        "visible": "1", 
+        "width": "73", 
+        "zindex": "0"
+    }
+}

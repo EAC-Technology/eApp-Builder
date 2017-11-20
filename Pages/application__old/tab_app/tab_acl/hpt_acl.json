@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "f46fc138-45ef-45c8-9d2e-8542cb983fec", 
+        "Name": "hpt_acl", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "49", 
+        "hierarchy": "0", 
+        "htmlcode": "", 
+        "left": "0", 
+        "nostyle": "0", 
+        "overflow": "3", 
+        "top": "64", 
+        "visible": "1", 
+        "width": "792", 
+        "zindex": "0"
+    }
+}

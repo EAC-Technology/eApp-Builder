@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "523a4b39-aacf-44ce-b72b-d74f6bef6c4a", 
+        "Name": "button_resource", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "plugin-add", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "28", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "544", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Add new resource", 
+        "textdecoration": "none", 
+        "top": "1584", 
+        "visible": "1", 
+        "width": "134", 
+        "zindex": "9"
+    }
+}

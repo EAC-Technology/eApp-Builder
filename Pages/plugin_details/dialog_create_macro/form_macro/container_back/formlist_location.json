@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "ed2f3a45-ad59-43cd-afb2-1cd0b4498ffd", 
+        "Name": "formlist_location", 
+        "Type": "0c84f3d5-5f98-451d-a41c-e7a5b4afe5cf"
+    }, 
+    "attributes": {
+        "disabled": "0", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "226", 
+        "selectedvalue": "", 
+        "tabindex": "0", 
+        "top": "38", 
+        "value": "", 
+        "visible": "0", 
+        "width": "176", 
+        "zindex": "0"
+    }
+}

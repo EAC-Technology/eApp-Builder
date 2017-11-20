@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "777f15b6-a7d7-4f4d-a8c9-357cd2c9b0f5", 
+        "Name": "bar_background", 
+        "Type": "91a12281-c9a8-430a-8a2d-93903b4a264f"
+    }, 
+    "attributes": {
+        "color": "F7F7F7", 
+        "height": "718", 
+        "hierarchy": "0", 
+        "left": "19", 
+        "top": "147", 
+        "visible": "1", 
+        "width": "1081", 
+        "zindex": "1"
+    }
+}

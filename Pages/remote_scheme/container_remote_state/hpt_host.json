@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "ID": "8de9233a-54d3-4beb-b82b-7c66790832e0", 
+        "Name": "hpt_host", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "height": "60", 
+        "hierarchy": "0", 
+        "htmlcode": "", 
+        "left": "14", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "67", 
+        "visible": "0", 
+        "width": "208", 
+        "zindex": "2"
+    }
+}

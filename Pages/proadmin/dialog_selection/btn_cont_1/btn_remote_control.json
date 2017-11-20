@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "4a1b7087-585e-434a-a7c0-7552f862b5cb", 
+        "Name": "btn_remote_control", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "", 
+        "color": "000000", 
+        "containerlink": "f8d0f0cf-4336-478f-a640-bba82a1eddad", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "50", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "16", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "ProAdmin", 
+        "textdecoration": "none", 
+        "top": "16", 
+        "visible": "1", 
+        "width": "96", 
+        "zindex": "0"
+    }
+}

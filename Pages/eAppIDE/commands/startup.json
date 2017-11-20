@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "afe4cb30-7c2a-4f78-aec5-3ec4c1f81996", 
+        "Name": "startup", 
+        "source_file_name": "startup.json_source.js", 
+        "Type": "dd7a56de-7a14-4f0b-9370-c34d9aa5469b"
+    }, 
+    "attributes": {
+        "height": "30", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "80", 
+        "zindex": "0"
+    }
+}

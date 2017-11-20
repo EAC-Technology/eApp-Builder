@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        "ID": "08ec0d01-2955-408d-8151-c9fba25e753e", 
+        "Name": "eapp_resource", 
+        "Type": "92269b6e-4b6b-4882-852f-f7ef0e89c079"
+    }, 
+    "attributes": {
+        "data": "", 
+        "height": "187", 
+        "hierarchy": "0", 
+        "left": "266", 
+        "structure": "", 
+        "top": "389", 
+        "visible": "1", 
+        "width": "296", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,9 @@
+[
+    "class_remote_settings", 
+    "localization", 
+    "ProAdmin", 
+    "proadmin_remote_sync", 
+    "proadmin_sso", 
+    "proadmin_utils", 
+    "vdom_remote_api"
+]

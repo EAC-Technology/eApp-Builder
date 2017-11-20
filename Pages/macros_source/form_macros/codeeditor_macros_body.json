@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "b1ecd33b-0a82-4a88-a5ed-be074a553ab9", 
+        "Name": "codeeditor_macros_body", 
+        "Type": "9a8f8e07-cb43-ff0f-7179-4a437911af23"
+    }, 
+    "attributes": {
+        "height": "627", 
+        "hierarchy": "0", 
+        "left": "73", 
+        "top": "30", 
+        "value": "", 
+        "visible": "1", 
+        "width": "941", 
+        "zindex": "0"
+    }
+}

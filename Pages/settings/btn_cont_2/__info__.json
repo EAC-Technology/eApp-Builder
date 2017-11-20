@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "75d877db-2378-4f3d-a94d-5816f02f349d", 
+        "Name": "btn_cont_2", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "proadmin-big-button rules-management", 
+        "designcolor": "9FFA5B", 
+        "footer": "0", 
+        "height": "80", 
+        "heightauto": "0", 
+        "hierarchy": "0", 
+        "left": "77", 
+        "lockposition": "0", 
+        "overflow": "0", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "", 
+        "titlewrap": "0", 
+        "top": "140", 
+        "visible": "1", 
+        "width": "170", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "0a876f41-e530-4ac8-bb39-5ad463adf774", 
+        "Name": "bar", 
+        "Type": "91a12281-c9a8-430a-8a2d-93903b4a264f"
+    }, 
+    "attributes": {
+        "color": "CFCBD1", 
+        "height": "1", 
+        "hierarchy": "0", 
+        "left": "11", 
+        "top": "42", 
+        "visible": "1", 
+        "width": "384", 
+        "zindex": "0"
+    }
+}

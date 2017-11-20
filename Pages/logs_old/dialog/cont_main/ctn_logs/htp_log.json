@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "ID": "86da1927-42ff-4536-9e4b-76430a67e9a8", 
+        "Name": "htp_log", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "height": "678", 
+        "hierarchy": "0", 
+        "htmlcode": "", 
+        "left": "0", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "860", 
+        "zindex": "0"
+    }
+}

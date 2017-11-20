@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "2698d327-3b16-4100-ac84-f2d349325ad8", 
+        "Name": "text_uninstall", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "bold", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "15", 
+        "textdecoration": "none", 
+        "top": "20", 
+        "value": "You are trying to uninstall this plugin. Are you sure?", 
+        "visible": "1", 
+        "width": "370", 
+        "zindex": "0"
+    }
+}

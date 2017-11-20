@@ -1,0 +1,12 @@
+{
+    "Active": "1", 
+    "Description": "Web application where user defines the general characteristics of the eApp, it also behaves as a backend for the IDE.", 
+    "Icon": "2778b8aa-c849-48b3-9815-714829f30e3e", 
+    "ID": "dbf4ed0c-969e-4235-98c9-b9b7c84e1b3f", 
+    "Index": "5474672f-354e-4b1a-ae51-1d718ce3a6f9", 
+    "Name": "eApp Builder", 
+    "Owner": "-", 
+    "ScriptingLanguage": "python", 
+    "Serverversion": "1.3.9258", 
+    "Version": "0.1"
+}

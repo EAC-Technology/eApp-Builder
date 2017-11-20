@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "f95d9c9d-d96f-42e3-93d1-3dbf8095fc5c", 
+        "Name": "btn_structure", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "btn btn-default", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "35", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "0", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Structure", 
+        "textdecoration": "none", 
+        "top": "0", 
+        "visible": "0", 
+        "width": "142", 
+        "zindex": "0"
+    }
+}

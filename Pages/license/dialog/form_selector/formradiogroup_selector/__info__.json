@@ -1,0 +1,16 @@
+{
+    "attrs": {
+        "ID": "4231d802-f6c5-478c-a60b-131323861985", 
+        "Name": "formradiogroup_selector", 
+        "Type": "5ec776c5-23f6-4098-a69d-600b08b220b0"
+    }, 
+    "attributes": {
+        "height": "57", 
+        "hierarchy": "0", 
+        "left": "5", 
+        "top": "32", 
+        "visible": "1", 
+        "width": "532", 
+        "zindex": "0"
+    }
+}

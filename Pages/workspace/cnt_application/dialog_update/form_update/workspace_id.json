@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        "ID": "50226711-86dd-4502-8680-b5904685b4ac", 
+        "Name": "workspace_id", 
+        "Type": "410ce9c6-5ae0-4c66-9c2b-80b7470e2927"
+    }, 
+    "attributes": {
+        "autocomplete": "1", 
+        "border": "1", 
+        "classname": "", 
+        "focused": "0", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "7", 
+        "mode": "0", 
+        "multiline": "0", 
+        "placeholder": "workspace_id", 
+        "tabindex": "0", 
+        "title": "", 
+        "top": "50", 
+        "value": "", 
+        "visible": "0", 
+        "width": "98", 
+        "zindex": "0"
+    }
+}

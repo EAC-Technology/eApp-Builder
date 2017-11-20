@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "f30c83e5-f716-4736-9888-7a33be9ced8f", 
+        "Name": "hpt_upload_update", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "41", 
+        "hierarchy": "0", 
+        "htmlcode": "<form class=\"upload-form\" id=\"resource-form-update\">\n\t<input id=\"image\" type=\"file\" name=\"res_file\" onchange=\"upload()\"/>\n</form>\n\n<script>\n\nvar form_orig = {};\n\nfunction getFormData($form){\n\tvar unindexed_array = $form.serializeArray();\n\tvar indexed_array = {};\n\n\t$.map(unindexed_array, function(n, i){\n\t\tindexed_array[n['name']] = n['value'];\n\t});\n\n\treturn indexed_array;\n}\n\nfunction upload() {\n\treturn new Promise(function(resolve, reject) {\n\t\tconsole.log(\"Promise\");\n\t\tvar frm = document.getElementById(\"resource-form-update\");\n\t\tform_orig = getFormData($('#o_eb0d4f78_c0d5_4a05_90f3_022ebda47964'));\n\t\tvar formData = new FormData(frm);\n\t\tvar xhr = new XMLHttpRequest();\n\t\txhr.open(\"POST\", \"upload.py\", true);\n\t\txhr.onload = function(event) {\n\t\t\tif (xhr.status == 200)\n\t\t\t\tresolve(xhr.responseText);\n\t\t\telse\n\t\t\t\treject(xhr);\n\t\t}\n\t\txhr.onerror = function(event) {\n\t\t\treject(event);\n\t\t}\n\t\txhr.send(formData);\n\t})\n\n\t.then(function(guid) {\n\t\tform_orig.res_file_id = guid.slice(0, -2);\n\t\texecEventBinded('eb0d4f78_c0d5_4a05_90f3_022ebda47964', 'submit', form_orig);\n\t})\n\n\t.catch(function(error) {\n\t\tconsole.log('error', error)\n\t})\n}\n\n</script>", 
+        "left": "0", 
+        "nostyle": "0", 
+        "overflow": "3", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "281", 
+        "zindex": "0"
+    }
+}

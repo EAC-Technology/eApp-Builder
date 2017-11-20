@@ -1,0 +1,10 @@
+[
+    "dialog_create", 
+    "dialog_update", 
+    "hpt_script_custom_create", 
+    "dialog_preview", 
+    "jsopacity", 
+    "eactimer", 
+    "keepalivetimer", 
+    "growl"
+]

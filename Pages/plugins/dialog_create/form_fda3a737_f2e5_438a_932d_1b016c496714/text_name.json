@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "b545ab74-1cb5-48f7-a09a-6e51c2fc1d95", 
+        "Name": "text_name", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "bold", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "15", 
+        "textdecoration": "none", 
+        "top": "15", 
+        "value": "Plugin name:", 
+        "visible": "1", 
+        "width": "91", 
+        "zindex": "0"
+    }
+}

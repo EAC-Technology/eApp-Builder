@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "30383541-1ce1-4aca-98a8-a968d448377c", 
+        "Name": "button_logout", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "27", 
+        "hierarchy": "0", 
+        "hint": "click to log out from ProSuite", 
+        "image": "#Res(dab6f022-0991-4f8e-96aa-d7fbbd154830)", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "476", 
+        "link": "", 
+        "rollover": "#Res(b91667d7-e7e2-4489-bdac-54aaaf7b4122)", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "", 
+        "textdecoration": "none", 
+        "top": "126", 
+        "visible": "0", 
+        "width": "27", 
+        "zindex": "9"
+    }
+}

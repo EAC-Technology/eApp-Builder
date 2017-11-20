@@ -1,0 +1,16 @@
+{
+    "clear_all.py": {
+        "ID": "149a093d-bae8-4812-89c7-216f27b305e4", 
+        "Left": "716", 
+        "Name": "clear_all", 
+        "State": "false", 
+        "Top": "228"
+    }, 
+    "onload.py": {
+        "ID": "1ae2c50c-4884-434c-a6aa-273249e7b6ba", 
+        "Left": "0", 
+        "Name": "onload", 
+        "State": "false", 
+        "Top": "0"
+    }
+}

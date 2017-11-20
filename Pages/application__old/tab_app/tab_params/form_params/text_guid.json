@@ -1,0 +1,28 @@
+{
+    "attrs": {
+        "ID": "258836c2-713a-40b0-bfd0-b70d9d612b92", 
+        "Name": "text_guid", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "left": "0", 
+        "textdecoration": "none", 
+        "top": "246", 
+        "value": "GUID", 
+        "visible": "1", 
+        "width": "155", 
+        "zindex": "0"
+    }
+}

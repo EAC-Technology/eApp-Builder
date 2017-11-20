@@ -1,0 +1,22 @@
+{
+    "onload.py": {
+        "ID": "735715d6-760f-4338-9e25-31c1b18c98a6", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "refresh_page.py": {
+        "ID": "5523f8f6-bbed-43ca-bb7e-bca48f676b1f", 
+        "Left": "614", 
+        "left": "627", 
+        "Name": "refresh_page", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "294", 
+        "top": "151"
+    }
+}

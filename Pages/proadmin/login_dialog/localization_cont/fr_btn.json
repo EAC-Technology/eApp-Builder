@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "718d84fa-6ddf-4cd4-b792-bef63530b131", 
+        "Name": "fr_btn", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "11", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "#Res(35418ae0-cc2f-44bd-8dc9-a7995c22d7d6)", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "0", 
+        "link": "?ln=fr", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "", 
+        "textdecoration": "none", 
+        "top": "15", 
+        "visible": "1", 
+        "width": "16", 
+        "zindex": "0"
+    }
+}

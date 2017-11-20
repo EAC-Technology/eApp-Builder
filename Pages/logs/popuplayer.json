@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "2203a3ed-976c-460f-aba7-3534e8eee437", 
+        "Name": "popuplayer", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "popupsensitive", 
+        "height": "60", 
+        "hierarchy": "0", 
+        "htmlcode": "", 
+        "left": "0", 
+        "nostyle": "0", 
+        "overflow": "3", 
+        "top": "0", 
+        "visible": "0", 
+        "width": "80", 
+        "zindex": "0"
+    }
+}

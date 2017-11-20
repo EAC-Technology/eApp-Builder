@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        "ID": "dec6235a-86fa-4e75-885f-18e6a0027e50", 
+        "Name": "command", 
+        "Type": "410ce9c6-5ae0-4c66-9c2b-80b7470e2927"
+    }, 
+    "attributes": {
+        "autocomplete": "1", 
+        "border": "1", 
+        "classname": "", 
+        "focused": "0", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "6", 
+        "mode": "0", 
+        "multiline": "0", 
+        "placeholder": "", 
+        "tabindex": "0", 
+        "title": "", 
+        "top": "49", 
+        "value": "create", 
+        "visible": "0", 
+        "width": "96", 
+        "zindex": "0"
+    }
+}

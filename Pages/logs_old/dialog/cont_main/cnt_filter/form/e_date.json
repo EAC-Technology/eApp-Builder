@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        "ID": "a08f4fa4-f089-4ae0-b4d4-f0dc89e3f3b5", 
+        "Name": "e_date", 
+        "Type": "9173329e-7000-1d18-f4c8-93a35421c8cf"
+    }, 
+    "attributes": {
+        "autocomplete": "0", 
+        "classname": "", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "inputmode": "1", 
+        "left": "167", 
+        "mode": "0", 
+        "regional": "vdom", 
+        "showbuttonpanel": "0", 
+        "tabindex": "0", 
+        "top": "105", 
+        "value": "", 
+        "visible": "1", 
+        "width": "130", 
+        "zindex": "0"
+    }
+}

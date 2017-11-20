@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "382f0c37-2b10-4f41-9f2a-39b9e65ca401", 
+        "Name": "hpt_scripts", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "75", 
+        "hierarchy": "0", 
+        "htmlcode": "Scripts list will be here", 
+        "left": "0", 
+        "nostyle": "0", 
+        "overflow": "3", 
+        "top": "68", 
+        "visible": "1", 
+        "width": "793", 
+        "zindex": "0"
+    }
+}

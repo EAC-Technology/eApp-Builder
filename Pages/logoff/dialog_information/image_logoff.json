@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        "ID": "2db52a3f-a283-40a3-861d-0fc9cd346647", 
+        "Name": "image_logoff", 
+        "Type": "0d36c35d-9508-440f-bfec-668f3db8cfeb"
+    }, 
+    "attributes": {
+        "externalurl": "", 
+        "height": "21", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "left": "254", 
+        "resource_cache": "", 
+        "tabindex": "0", 
+        "top": "28", 
+        "value": "#Res(55b2bee6-4063-4d54-ae48-43a920e85dd9)", 
+        "visible": "1", 
+        "width": "24", 
+        "zindex": "0"
+    }
+}

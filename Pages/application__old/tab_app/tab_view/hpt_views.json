@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "46a9300e-7f18-45b4-86b5-0a8f99e7761b", 
+        "Name": "hpt_views", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "75", 
+        "hierarchy": "0", 
+        "htmlcode": "Views list will be here", 
+        "left": "0", 
+        "nostyle": "0", 
+        "overflow": "3", 
+        "top": "68", 
+        "visible": "1", 
+        "width": "793", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        "ID": "422b33ce-c38a-4013-8e94-c44072166127", 
+        "Name": "input_layout_xml", 
+        "Type": "9a8f8e07-cb43-ff0f-7179-4a437911af23"
+    }, 
+    "attributes": {
+        "height": "311", 
+        "hierarchy": "0", 
+        "left": "12", 
+        "syntax": "xml", 
+        "top": "11", 
+        "value": "", 
+        "visible": "1", 
+        "width": "736", 
+        "zindex": "0"
+    }
+}

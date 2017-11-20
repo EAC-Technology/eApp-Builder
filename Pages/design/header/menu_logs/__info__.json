@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "ab47e992-5d36-4e04-9b89-534227549f23", 
+        "Name": "menu_logs", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "top-menu-item", 
+        "designcolor": "eeeeee", 
+        "footer": "0", 
+        "height": "69", 
+        "heightauto": "0", 
+        "hierarchy": "0", 
+        "left": "520", 
+        "lockposition": "0", 
+        "overflow": "1", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "", 
+        "titlewrap": "0", 
+        "top": "1", 
+        "visible": "1", 
+        "width": "95", 
+        "zindex": "0"
+    }
+}

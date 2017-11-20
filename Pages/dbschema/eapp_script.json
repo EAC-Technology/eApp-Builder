@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        "ID": "384520e1-8af1-4ac2-9b35-cf4acfbd9c88", 
+        "Name": "eapp_script", 
+        "Type": "92269b6e-4b6b-4882-852f-f7ef0e89c079"
+    }, 
+    "attributes": {
+        "data": "", 
+        "height": "196", 
+        "hierarchy": "0", 
+        "left": "927", 
+        "structure": "", 
+        "top": "197", 
+        "visible": "1", 
+        "width": "343", 
+        "zindex": "0"
+    }
+}

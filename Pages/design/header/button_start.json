@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "1af5e7c0-0d03-4313-a8e3-3793523a0e7e", 
+        "Name": "button_start", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "35", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "#Res(99fdf648-5b0d-4051-9888-5db9555bf21d)", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "20", 
+        "link": "", 
+        "rollover": "#Res(2c16c753-3247-4cb3-be69-369593d5310f)", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "", 
+        "textdecoration": "none", 
+        "top": "15", 
+        "visible": "1", 
+        "width": "180", 
+        "zindex": "50"
+    }
+}

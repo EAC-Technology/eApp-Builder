@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "dff5f5a6-6637-48c5-b724-326b8799805b", 
+        "Name": "hpt_datasource_custom_create", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "41", 
+        "hierarchy": "0", 
+        "htmlcode": "", 
+        "left": "0", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "124", 
+        "visible": "1", 
+        "width": "134", 
+        "zindex": "0"
+    }
+}

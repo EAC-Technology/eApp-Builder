@@ -1,0 +1,75 @@
+{
+    "actions": [
+        {
+            "ID": "CF0729EB-3097-4106-AD7C-CA1FDBC440FC", 
+            "Left": "255", 
+            "MethodName": "setClass", 
+            "ObjTgtID": "8535deb4-3cb6-451c-bdf8-666673acda5b", 
+            "ObjTgtName": "btn_cont_2", 
+            "Params": [
+                [
+                    "cssClass", 
+                    "'proadmin-big-button users-management proadmin-big-button-active'"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "251"
+        }, 
+        {
+            "ID": "EF8148DA-CBBD-46EF-B908-1F3BB6102401", 
+            "Left": "258", 
+            "MethodName": "setClass", 
+            "ObjTgtID": "b9512b7b-2ad9-4048-831b-d474a1424ca6", 
+            "ObjTgtName": "btn_cont_1", 
+            "Params": [
+                [
+                    "cssClass", 
+                    "'proadmin-big-button remote-scm proadmin-big-button-active'"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "383"
+        }
+    ], 
+    "events": [
+        {
+            "actions": [
+                "ace7c9cb-1ac6-40bb-b309-afce2244dd31"
+            ], 
+            "ContainerID": "4da5ae08-9b45-4be5-bb43-03e47f29d6db", 
+            "Left": "0", 
+            "Name": "submit", 
+            "ObjSrcID": "64985e7b-7d98-489c-9d79-64b93a1e7c84", 
+            "ObjSrcName": "login_form", 
+            "State": "true", 
+            "Top": "0", 
+            "TypeID": "34f6ee59-9c50-4503-97c1-86c4e86bd1b7"
+        }, 
+        {
+            "actions": [
+                "EF8148DA-CBBD-46EF-B908-1F3BB6102401"
+            ], 
+            "ContainerID": "4da5ae08-9b45-4be5-bb43-03e47f29d6db", 
+            "Left": "0", 
+            "Name": "click", 
+            "ObjSrcID": "9f037efa-3b7a-406d-873e-36d11e169ad7", 
+            "ObjSrcName": "sens_remote", 
+            "State": "true", 
+            "Top": "372", 
+            "TypeID": "7b39c919-de7f-4b77-b048-aae8bcf8edf5"
+        }, 
+        {
+            "actions": [
+                "CF0729EB-3097-4106-AD7C-CA1FDBC440FC"
+            ], 
+            "ContainerID": "4da5ae08-9b45-4be5-bb43-03e47f29d6db", 
+            "Left": "0", 
+            "Name": "click", 
+            "ObjSrcID": "f5581bc4-68d1-410e-a986-21b726822cef", 
+            "ObjSrcName": "sens_uag", 
+            "State": "true", 
+            "Top": "242", 
+            "TypeID": "7b39c919-de7f-4b77-b048-aae8bcf8edf5"
+        }
+    ]
+}

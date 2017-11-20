@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "ef79df1a-3689-44da-9f73-88e5978a91a3", 
+        "Name": "text_author", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "bold", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "240", 
+        "textdecoration": "none", 
+        "top": "15", 
+        "value": "Author:", 
+        "visible": "1", 
+        "width": "98", 
+        "zindex": "0"
+    }
+}

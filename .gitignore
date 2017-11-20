@@ -1,0 +1,7 @@
+
+.idea/
+build/
+backup_xml/
+unpackxml.sh
+/remote_unpack.confc
+/remote_unpack.conf

@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "f5da5371-24ee-4854-860d-3fe70772289d", 
+        "Name": "show_all_btn", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "16", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "#Res(f53a8947-e3e6-44d8-981c-5ac36664c9ec)", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "306", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "", 
+        "textdecoration": "none", 
+        "top": "32", 
+        "visible": "0", 
+        "width": "16", 
+        "zindex": "20"
+    }
+}

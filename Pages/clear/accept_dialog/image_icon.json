@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        "ID": "56eab436-d1ef-4e22-8e69-753dd7d6e9b9", 
+        "Name": "image_icon", 
+        "Type": "0d36c35d-9508-440f-bfec-668f3db8cfeb"
+    }, 
+    "attributes": {
+        "externalurl": "", 
+        "height": "79", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "left": "18", 
+        "resource_cache": "", 
+        "tabindex": "3", 
+        "top": "13", 
+        "value": "#Res(e8521bc6-40cd-4e86-a4b3-60b5f44b7899)", 
+        "visible": "1", 
+        "width": "80", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        "ID": "572b2e04-9747-49a0-806a-155383d511d5", 
+        "Name": "image_logo", 
+        "Type": "0d36c35d-9508-440f-bfec-668f3db8cfeb"
+    }, 
+    "attributes": {
+        "externalurl": "", 
+        "height": "37", 
+        "hierarchy": "0", 
+        "hint": "Logs logo", 
+        "left": "0", 
+        "resource_cache": "", 
+        "tabindex": "0", 
+        "top": "15", 
+        "value": "#Res(bd621338-26f4-4121-bb8c-88c3c759eafd)", 
+        "visible": "1", 
+        "width": "141", 
+        "zindex": "0"
+    }
+}

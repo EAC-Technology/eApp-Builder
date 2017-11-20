@@ -1,0 +1,52 @@
+{
+    "confirm_lisence.py": {
+        "ID": "493c612c-6366-41a2-b511-0bdd0d7eacee", 
+        "Left": "267", 
+        "left": "267", 
+        "Name": "confirm_lisence", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "10", 
+        "top": "10"
+    }, 
+    "go_to_remote_scheme.py": {
+        "ID": "6e52671a-6d01-4247-a5f6-8c2291e20f8d", 
+        "Left": "219", 
+        "left": "219", 
+        "Name": "go_to_remote_scheme", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "1058", 
+        "top": "1058"
+    }, 
+    "onload.py": {
+        "ID": "20506aa8-0ab4-4d50-a7b4-439ae00a90ba", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "save_local_scheme.py": {
+        "ID": "c8365e55-9b5a-489f-97af-72028686f1b3", 
+        "Left": "715", 
+        "left": "715", 
+        "Name": "save_local_scheme", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "952", 
+        "top": "952"
+    }, 
+    "save_remote_scheme.py": {
+        "ID": "26a37d1e-e113-43b4-b437-6ad76ab84395", 
+        "Left": "682", 
+        "left": "682", 
+        "Name": "save_remote_scheme", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "787", 
+        "top": "787"
+    }
+}

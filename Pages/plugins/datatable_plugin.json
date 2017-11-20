@@ -1,0 +1,30 @@
+{
+    "attrs": {
+        "ID": "71554cc5-8ea6-464e-b3f0-7c1259ca0169", 
+        "Name": "datatable_plugin", 
+        "Type": "a2240af9-66d1-8841-0c58-ff687f3d2b3c"
+    }, 
+    "attributes": {
+        "cssclass": "plugin-dt", 
+        "data": "", 
+        "draggable": "0", 
+        "header": "[ \"id\", \"Picture\", \"Plugin_info\", \"Update\", \"Export\", \"Open\", \"Delete\", \"MD5\", \"Config\"]", 
+        "height": "359", 
+        "hiddenfields": "[\"id\"]", 
+        "hierarchy": "0", 
+        "key": "id", 
+        "left": "16", 
+        "nocellclick": "", 
+        "rowactive": "", 
+        "selectedrows": "", 
+        "selectionmode": "0", 
+        "showheader": "0", 
+        "skin": "0", 
+        "style": "", 
+        "title": "", 
+        "top": "141", 
+        "visible": "1", 
+        "width": "684", 
+        "zindex": "9"
+    }
+}

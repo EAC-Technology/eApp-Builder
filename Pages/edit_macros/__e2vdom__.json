@@ -1,0 +1,102 @@
+{
+    "actions": [
+        {
+            "ID": "863D3BB9-4B6D-42F4-AFCA-F6335CCCECF9", 
+            "Left": "259", 
+            "MethodName": "show", 
+            "ObjTgtID": "29d42124-05b2-474e-b272-7782e3d9a697", 
+            "ObjTgtName": "dialog_delete", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "36"
+        }, 
+        {
+            "ID": "8DA22A0B-BC05-4225-A346-9206ADB95E7E", 
+            "Left": "264", 
+            "MethodName": "hide", 
+            "ObjTgtID": "29d42124-05b2-474e-b272-7782e3d9a697", 
+            "ObjTgtName": "dialog_delete", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "198"
+        }
+    ], 
+    "events": [
+        {
+            "actions": [
+                "8DA22A0B-BC05-4225-A346-9206ADB95E7E", 
+                "69fa6c68-76b2-419e-bcf3-f0c93d6454bc"
+            ], 
+            "ContainerID": "49e6fda0-c108-4135-a3c5-80b23c22abe1", 
+            "Left": "3", 
+            "Name": "click", 
+            "ObjSrcID": "6bf4aef7-fa4d-4639-a769-95428f956fc1", 
+            "ObjSrcName": "button_apply", 
+            "State": "true", 
+            "Top": "339", 
+            "TypeID": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+        }, 
+        {
+            "actions": [
+                "8DA22A0B-BC05-4225-A346-9206ADB95E7E"
+            ], 
+            "ContainerID": "49e6fda0-c108-4135-a3c5-80b23c22abe1", 
+            "Left": "0", 
+            "Name": "click", 
+            "ObjSrcID": "1b981ea9-aa82-4646-b32e-e51121387dd7", 
+            "ObjSrcName": "button_cancel", 
+            "State": "true", 
+            "Top": "158", 
+            "TypeID": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+        }, 
+        {
+            "actions": [
+                "db9d575f-b7b4-43c9-b779-61e2e282f5d7"
+            ], 
+            "ContainerID": "49e6fda0-c108-4135-a3c5-80b23c22abe1", 
+            "Left": "0", 
+            "Name": "change", 
+            "ObjSrcID": "312c3b21-ef60-4564-8ca1-793afa4fdfa1", 
+            "ObjSrcName": "formcheckbox_on_board", 
+            "State": "true", 
+            "Top": "655", 
+            "TypeID": "8077aa1c-6762-4719-a6ea-fdfb0bcfa0c2"
+        }, 
+        {
+            "actions": [
+                "863D3BB9-4B6D-42F4-AFCA-F6335CCCECF9"
+            ], 
+            "ContainerID": "49e6fda0-c108-4135-a3c5-80b23c22abe1", 
+            "Left": "0", 
+            "Name": "click", 
+            "ObjSrcID": "da717cfd-6ea4-410f-8737-c80e92dc1b73", 
+            "ObjSrcName": "formbutton_delete", 
+            "State": "true", 
+            "Top": "0", 
+            "TypeID": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+        }, 
+        {
+            "actions": [
+                "1a57253e-7a48-43bd-bf6b-97539e3aa69d"
+            ], 
+            "ContainerID": "49e6fda0-c108-4135-a3c5-80b23c22abe1", 
+            "Left": "0", 
+            "Name": "change", 
+            "ObjSrcID": "e660384d-2927-44f7-863b-4b337c38786e", 
+            "ObjSrcName": "formcheckbox_is_button", 
+            "State": "true", 
+            "Top": "514", 
+            "TypeID": "8077aa1c-6762-4719-a6ea-fdfb0bcfa0c2"
+        }
+    ]
+}

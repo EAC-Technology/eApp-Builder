@@ -1,0 +1,30 @@
+{
+    "attrs": {
+        "ID": "1ee20d5b-f0f2-485d-aff4-567dcb7b6b3e", 
+        "Name": "datatable_timer", 
+        "Type": "a2240af9-66d1-8841-0c58-ff687f3d2b3c"
+    }, 
+    "attributes": {
+        "cssclass": "plugin-dt macrolike-cont timer-cont", 
+        "data": "", 
+        "draggable": "0", 
+        "header": "[\"id\", \"Picture\", \"Name\", \"Edit\", \"Delete\"]", 
+        "height": "354", 
+        "hiddenfields": "[\"id\"]", 
+        "hierarchy": "0", 
+        "key": "id", 
+        "left": "81", 
+        "nocellclick": "", 
+        "rowactive": "", 
+        "selectedrows": "", 
+        "selectionmode": "0", 
+        "showheader": "0", 
+        "skin": "0", 
+        "style": "", 
+        "title": "", 
+        "top": "724", 
+        "visible": "1", 
+        "width": "685", 
+        "zindex": "9"
+    }
+}

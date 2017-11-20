@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "a3c2ad18-a3ed-43d3-8d04-562349cdfefa", 
+        "Name": "sens_remote", 
+        "Type": "7b39c919-de7f-4b77-b048-aae8bcf8edf5"
+    }, 
+    "attributes": {
+        "border": "0", 
+        "containerlink": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+        "height": "78", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "link": "", 
+        "target": "_self", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "169", 
+        "zindex": "0"
+    }
+}

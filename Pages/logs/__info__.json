@@ -1,0 +1,36 @@
+{
+    "attrs": {
+        "ID": "c68566b2-793e-4f7c-8630-93d3b0e0f09c", 
+        "Name": "logs", 
+        "Type": "2330fe83-8cd6-4ed5-907d-11874e7ebcf4"
+    }, 
+    "attributes": {
+        "activelinkcolor": "000000", 
+        "bgcolor": "FFFFFF", 
+        "bgrepeat": "repeat", 
+        "cookiewarning": "0", 
+        "cookiewarningtext": "En poursuivant votre navigation, vous acceptez le d\u00e9p\u00f4t de cookies tiers destin\u00e9s \u00e0 vous proposer des vid\u00e9os, des boutons de partage, des remont\u00e9es de contenus de plateformes sociales", 
+        "css": "", 
+        "cssclass": "", 
+        "customheaders": "", 
+        "deniedlink": "", 
+        "description": "", 
+        "hierarchy": "0", 
+        "image": "", 
+        "jqui": "1", 
+        "linkcolor": "000000", 
+        "metadescription": "", 
+        "metakeywords": "", 
+        "noscript": "", 
+        "position": "left", 
+        "securitycode": "", 
+        "style": "", 
+        "testClasses": "", 
+        "testFunc": "", 
+        "textcolor": "000000", 
+        "title": "page title", 
+        "visible": "1", 
+        "visitedlinkcolor": "000000", 
+        "zindex": "0"
+    }
+}

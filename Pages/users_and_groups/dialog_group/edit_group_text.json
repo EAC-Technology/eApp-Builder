@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "c8d032bb-34b8-4d2a-9c70-031e01e965e0", 
+        "Name": "edit_group_text", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontsize": "18", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "11", 
+        "textdecoration": "none", 
+        "top": "13", 
+        "value": "Edit group", 
+        "visible": "0", 
+        "width": "370", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        "ID": "76194901-7781-4d25-90bb-2b4548ce414b", 
+        "Name": "title", 
+        "Type": "82a69b02-9fba-47d0-b206-6fd1769b0ebd"
+    }, 
+    "attributes": {
+        "align": "", 
+        "classname": "", 
+        "color": "", 
+        "css": "", 
+        "font": "", 
+        "height": "0", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "overflow": "0", 
+        "strikethrough": "0", 
+        "top": "54", 
+        "underlined": "0", 
+        "value": "<p>Logs</p>", 
+        "visible": "1", 
+        "width": "95", 
+        "zindex": "0"
+    }
+}

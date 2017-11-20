@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        "ID": "92698af7-a536-4bd7-89e0-36004b839c20", 
+        "Name": "list_users", 
+        "Type": "2fa03ef7-5ebb-5d9a-6f49-ad4c87a673ab"
+    }, 
+    "attributes": {
+        "cssclass": "", 
+        "data": "", 
+        "dragdrop": "1", 
+        "height": "129", 
+        "hierarchy": "0", 
+        "layout": "1", 
+        "left": "0", 
+        "selecteditem": "", 
+        "selectedrows": "", 
+        "selectionmode": "0", 
+        "skin": "0", 
+        "style": "#%(id)s li.selected { background: #fdeeb5; } #%(id)s li.active { background: #fbdf75 !important; }", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "401", 
+        "zindex": "0"
+    }
+}

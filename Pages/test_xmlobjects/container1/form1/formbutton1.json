@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        "ID": "a08d4c5d-7084-4eaf-8021-7788bab37c9a", 
+        "Name": "formbutton1", 
+        "Type": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "47", 
+        "hierarchy": "0", 
+        "label": "load second widget", 
+        "left": "266", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "top": "62", 
+        "type": "2", 
+        "visible": "1", 
+        "width": "171", 
+        "zindex": "0"
+    }
+}

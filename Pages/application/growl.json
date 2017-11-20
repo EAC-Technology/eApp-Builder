@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "2b3e928c-8a97-460b-9e89-878a956b50fa", 
+        "Name": "growl", 
+        "Type": "cb5e0601-80f4-7011-11a2-4f41a3ec1e05"
+    }, 
+    "attributes": {
+        "active": "0", 
+        "height": "55", 
+        "hierarchy": "0", 
+        "left": "967", 
+        "sticky": "0", 
+        "style": "1", 
+        "text": "", 
+        "title": "", 
+        "top": "4", 
+        "userclass": "", 
+        "width": "90"
+    }
+}

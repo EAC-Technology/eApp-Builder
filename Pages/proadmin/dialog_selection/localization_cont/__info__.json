@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "aa64dfd1-445f-41d7-9e30-c1702c8e73d4", 
+        "Name": "localization_cont", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "", 
+        "designcolor": "EEEEEE", 
+        "footer": "0", 
+        "height": "39", 
+        "heightauto": "0", 
+        "hierarchy": "0", 
+        "left": "335", 
+        "lockposition": "0", 
+        "overflow": "0", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "", 
+        "titlewrap": "0", 
+        "top": "1", 
+        "visible": "1", 
+        "width": "101", 
+        "zindex": "10"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "3aa1e1c9-46c0-4ce8-b8fe-4038fe172fe0", 
+        "Name": "text_success", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "12", 
+        "textdecoration": "none", 
+        "top": "27", 
+        "value": "SSO works.", 
+        "visible": "1", 
+        "width": "278", 
+        "zindex": "0"
+    }
+}

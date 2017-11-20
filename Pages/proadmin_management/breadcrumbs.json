@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "ID": "ffdd9ffc-91db-4c67-9a20-1a509e10392b", 
+        "Name": "breadcrumbs", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "height": "27", 
+        "hierarchy": "0", 
+        "htmlcode": "<a href='/proadmin'>ProAdmin</a> -> ProAdmin management", 
+        "left": "18", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "50", 
+        "visible": "1", 
+        "width": "363", 
+        "zindex": "9"
+    }
+}

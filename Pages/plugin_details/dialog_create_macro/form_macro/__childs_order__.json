@@ -1,0 +1,10 @@
+[
+    "container_back", 
+    "formbutton_cancel", 
+    "formbutton_save", 
+    "formtext_id", 
+    "formtext_name", 
+    "formtextarea_description", 
+    "text_description", 
+    "text_macro_name"
+]

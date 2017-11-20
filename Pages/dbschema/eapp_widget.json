@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        "ID": "4d93dfd1-6e02-48c9-856b-e4812e902030", 
+        "Name": "eapp_widget", 
+        "Type": "92269b6e-4b6b-4882-852f-f7ef0e89c079"
+    }, 
+    "attributes": {
+        "data": "", 
+        "height": "170", 
+        "hierarchy": "0", 
+        "left": "273", 
+        "structure": "", 
+        "top": "196", 
+        "visible": "1", 
+        "width": "287", 
+        "zindex": "0"
+    }
+}

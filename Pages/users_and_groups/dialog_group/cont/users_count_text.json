@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "e20459a3-0a04-4396-99ea-2726753da149", 
+        "Name": "users_count_text", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "19", 
+        "textdecoration": "none", 
+        "top": "364", 
+        "value": "Users count:", 
+        "visible": "1", 
+        "width": "148", 
+        "zindex": "20"
+    }
+}

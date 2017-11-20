@@ -1,0 +1,42 @@
+{
+    "dialog_add_UG_add_subject.py": {
+        "ID": "8dc645ea-cd66-4997-9b33-1b81f84c2718", 
+        "Left": "232", 
+        "left": "232", 
+        "Name": "dialog_add_UG_add_subject", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "112", 
+        "top": "112"
+    }, 
+    "dialog_add_UG_search.py": {
+        "ID": "89cce182-e3aa-4a4e-bd92-10dc1e289df4", 
+        "Left": "222", 
+        "left": "222", 
+        "Name": "dialog_add_UG_search", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "10", 
+        "top": "10"
+    }, 
+    "dialog_add_UG_tabchanged.py": {
+        "ID": "0f53d097-04ad-4e9d-a2cf-9fca298bf0ae", 
+        "Left": "235", 
+        "left": "235", 
+        "Name": "dialog_add_UG_tabchanged", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "61", 
+        "top": "61"
+    }, 
+    "onload.py": {
+        "ID": "9cdc35df-f1ff-4819-85c9-c92b849e2ef9", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "0", 
+        "top": "0"
+    }
+}

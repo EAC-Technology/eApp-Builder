@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        "ID": "d7445356-72c0-42f4-a62e-ae44551bd4fa", 
+        "Name": "dov_view", 
+        "Type": "9e338259-29be-41d6-ac84-b44e2b294ffe"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "debugmode": "0", 
+        "handler": "", 
+        "height": "420", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "overflow": "2", 
+        "rendererrormsg": "", 
+        "top": "0", 
+        "vdomactions": "", 
+        "vdomxml": "", 
+        "visible": "1", 
+        "width": "771", 
+        "zindex": "0"
+    }
+}

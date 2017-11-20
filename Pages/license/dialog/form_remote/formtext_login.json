@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        "ID": "bf3612f2-b5dc-49fd-ab5d-f8b05bba12bf", 
+        "Name": "formtext_login", 
+        "Type": "410ce9c6-5ae0-4c66-9c2b-80b7470e2927"
+    }, 
+    "attributes": {
+        "autocomplete": "1", 
+        "border": "1", 
+        "classname": "", 
+        "focused": "0", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "70", 
+        "mode": "0", 
+        "multiline": "0", 
+        "placeholder": "", 
+        "tabindex": "2", 
+        "title": "", 
+        "top": "65", 
+        "value": "", 
+        "visible": "0", 
+        "width": "354", 
+        "zindex": "0"
+    }
+}

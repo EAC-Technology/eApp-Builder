@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "2a0185bc-6652-468c-a263-679a6a1d4a24", 
+        "Name": "hpt_upload_create", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "60", 
+        "hierarchy": "0", 
+        "htmlcode": "<form class=\"upload-form\" id=\"resource-form-create\">\n\t<input id=\"image\" type=\"file\" name=\"res_file\"/>\n</form>\n\n<script>\n\nvar form_guid = 'cf73a2c1_28c9_4373_a2f0_2769c4806e20';\nvar form_file_submit = {};\n\nfunction getFormData($form){\n\tvar indexed_array = {};\n\n\t$.map($form.serializeArray(), function(n, i){\n\t\tindexed_array[n['name']] = n['value'];\n\t});\n\n\treturn indexed_array;\n}\n\nfunction upload_file() {\n\treturn new Promise(function(resolve, reject) {\n\n\t\tform_file_submit = getFormData($('#o_'+form_guid));\n\t\tvar frm = document.getElementById(\"resource-form-create\");\n\t\tvar formData = new FormData(frm);\n\n\t\tvar xhr = new XMLHttpRequest();\n\t\txhr.open(\"POST\", \"upload.py\", true);\n\t\txhr.onload = function(event) {\n\t\t\tif (xhr.status == 200)\n\t\t\t\tresolve(xhr.responseText);\n\t\t\telse\n\t\t\t\treject(xhr);\n\t\t}\n\t\txhr.onerror = function(event) {\n\t\t\treject(event);\n\t\t}\n\t\txhr.send(formData);\n\n\t})\n\t.then(function(guid) {\n\t\tform_file_submit.res_file_id = guid.trim();\n\t\tconsole.log(form_file_submit);\n\t\texecEventBinded(form_guid, 'submit', form_file_submit);\n\t})\n\n\t.catch(function(error) {\n\t\tconsole.log('error', error)\n\t})\n}\n\n</script>", 
+        "left": "0", 
+        "nostyle": "0", 
+        "overflow": "3", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "282", 
+        "zindex": "0"
+    }
+}

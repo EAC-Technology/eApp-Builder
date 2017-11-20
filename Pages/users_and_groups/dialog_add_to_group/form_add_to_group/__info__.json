@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        "ID": "916d1e60-0c82-434e-a7b9-d31aa0ff560b", 
+        "Name": "form_add_to_group", 
+        "Type": "34f6ee59-9c50-4503-97c1-86c4e86bd1b7"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "enctype": "", 
+        "height": "240", 
+        "hierarchy": "0", 
+        "left": "1", 
+        "meth": "event", 
+        "overflow": "0", 
+        "submitonce": "0", 
+        "target": "", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "460", 
+        "zindex": "0"
+    }
+}

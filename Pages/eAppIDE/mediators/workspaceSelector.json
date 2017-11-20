@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "49fc72cb-8059-4771-9022-46cd9b84f34a", 
+        "Name": "workspaceSelector", 
+        "source_file_name": "workspaceSelector.json_source.js", 
+        "Type": "dd7a56de-7a14-4f0b-9370-c34d9aa5469b"
+    }, 
+    "attributes": {
+        "height": "30", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "80", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "attrs": {
+        "ID": "143ec014-566b-463d-b6ed-1c34165f82e1", 
+        "Name": "datatable_custom_event", 
+        "Type": "a2240af9-66d1-8841-0c58-ff687f3d2b3c"
+    }, 
+    "attributes": {
+        "cssclass": "plugin-dt macrolike-cont timer-cont", 
+        "data": "", 
+        "draggable": "0", 
+        "header": "[\"id\", \"Picture\", \"Name\", \"Edit\", \"Delete\"]", 
+        "height": "354", 
+        "hiddenfields": "[\"id\"]", 
+        "hierarchy": "0", 
+        "key": "id", 
+        "left": "79", 
+        "nocellclick": "", 
+        "rowactive": "", 
+        "selectedrows": "", 
+        "selectionmode": "0", 
+        "showheader": "0", 
+        "skin": "0", 
+        "style": "", 
+        "title": "", 
+        "top": "2072", 
+        "tristate": "0", 
+        "visible": "1", 
+        "width": "685", 
+        "zindex": "9"
+    }
+}

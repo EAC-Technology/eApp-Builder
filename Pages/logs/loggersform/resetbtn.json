@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        "ID": "fcb61f77-fc92-42f8-ba95-0485b6ad0f14", 
+        "Name": "resetbtn", 
+        "Type": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "25", 
+        "hierarchy": "0", 
+        "label": "Send", 
+        "left": "56", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "top": "168", 
+        "type": "1", 
+        "visible": "1", 
+        "width": "90", 
+        "zindex": "0"
+    }
+}

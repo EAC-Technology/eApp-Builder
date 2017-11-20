@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "4d81632e-d101-4a0e-ba41-18ba738975e8", 
+        "Name": "text_page_title", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "page-caption", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "521", 
+        "textdecoration": "none", 
+        "top": "110", 
+        "value": "Set scheme", 
+        "visible": "1", 
+        "width": "400", 
+        "zindex": "2"
+    }
+}

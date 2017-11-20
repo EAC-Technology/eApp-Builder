@@ -1,0 +1,20 @@
+[
+    "btn_add_to_group", 
+    "btn_create_group", 
+    "btn_create_user", 
+    "btn_delete_selected", 
+    "cont", 
+    "copy_header", 
+    "copy_width_maker", 
+    "css_ug", 
+    "dialog_add_to_group", 
+    "dialog_delete_user_group", 
+    "dialog_group", 
+    "dialog_user", 
+    "form", 
+    "growl", 
+    "js_functions", 
+    "page_title", 
+    "pager", 
+    "tabview1"
+]

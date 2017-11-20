@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "0fc9ff72-0b4d-42ae-8670-429e640bfb0e", 
+        "Name": "button_close", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "tahoma", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "30", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "334", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Close", 
+        "textdecoration": "none", 
+        "top": "321", 
+        "visible": "1", 
+        "width": "63", 
+        "zindex": "0"
+    }
+}

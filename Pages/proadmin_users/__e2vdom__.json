@@ -1,0 +1,44 @@
+{
+    "actions": [], 
+    "events": [
+        {
+            "actions": [
+                "150ec11d-78ce-4dc1-837c-000089b51bd2"
+            ], 
+            "ContainerID": "c071a209-b3b3-48d3-931e-35143e9653b3", 
+            "Left": "0", 
+            "Name": "cellclick", 
+            "ObjSrcID": "b96eb44a-2f09-4745-8167-6a5f3137975f", 
+            "ObjSrcName": "datatable_users", 
+            "State": "true", 
+            "Top": "0", 
+            "TypeID": "a2240af9-66d1-8841-0c58-ff687f3d2b3c"
+        }, 
+        {
+            "actions": [
+                "def038d5-2198-4cbe-a674-d719aeed0c88"
+            ], 
+            "ContainerID": "c071a209-b3b3-48d3-931e-35143e9653b3", 
+            "Left": "1", 
+            "Name": "click", 
+            "ObjSrcID": "30383541-1ce1-4aca-98a8-a968d448377c", 
+            "ObjSrcName": "button_logout", 
+            "State": "true", 
+            "Top": "169", 
+            "TypeID": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+        }, 
+        {
+            "actions": [
+                "dd3c756a-4194-49dd-b6e5-1ec0bc2e5262"
+            ], 
+            "ContainerID": "c071a209-b3b3-48d3-931e-35143e9653b3", 
+            "Left": "0", 
+            "Name": "pageSelected", 
+            "ObjSrcID": "bf6bf2f9-81bb-4f3f-800b-4d37f6b1e77e", 
+            "ObjSrcName": "pager", 
+            "State": "true", 
+            "Top": "304", 
+            "TypeID": "f2870944-8c3b-5c3f-5278-07826629b2aa"
+        }
+    ]
+}

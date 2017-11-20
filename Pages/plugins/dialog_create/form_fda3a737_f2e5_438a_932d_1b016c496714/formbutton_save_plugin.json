@@ -1,0 +1,22 @@
+{
+    "attrs": {
+        "ID": "3678ec40-a9da-4ea1-8181-ba123f7c87da", 
+        "Name": "formbutton_save_plugin", 
+        "Type": "5be544cb-3d6b-4b75-ae79-b071fbe46094"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "25", 
+        "hierarchy": "0", 
+        "label": "Save", 
+        "left": "353", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "top": "415", 
+        "type": "0", 
+        "visible": "1", 
+        "width": "90", 
+        "zindex": "0"
+    }
+}

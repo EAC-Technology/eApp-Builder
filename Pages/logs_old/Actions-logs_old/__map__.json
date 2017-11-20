@@ -1,0 +1,30 @@
+{
+    "apply_filter.py": {
+        "ID": "76cb23ad-120d-42aa-bb59-9e1fbc81d0ba", 
+        "Left": "254", 
+        "Name": "apply_filter", 
+        "State": "false", 
+        "Top": "630"
+    }, 
+    "clear_log.py": {
+        "ID": "2db8ad30-b2a7-4e9a-a9b4-2d2eb0fdefb8", 
+        "Left": "239", 
+        "Name": "clear_log", 
+        "State": "false", 
+        "Top": "526"
+    }, 
+    "onload.py": {
+        "ID": "655385d7-c181-40ee-930b-8196243db535", 
+        "Left": "0", 
+        "Name": "onload", 
+        "State": "true", 
+        "Top": "0"
+    }, 
+    "refresh_log.py": {
+        "ID": "4e34a1ac-8fa7-4af6-be97-b70260e7304b", 
+        "Left": "240", 
+        "Name": "refresh_log", 
+        "State": "false", 
+        "Top": "566"
+    }
+}

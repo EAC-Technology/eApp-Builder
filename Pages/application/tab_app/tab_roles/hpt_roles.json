@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "3143d84b-3c09-4dc2-951c-45504d4c0494", 
+        "Name": "hpt_roles", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "39", 
+        "hierarchy": "0", 
+        "htmlcode": "", 
+        "left": "0", 
+        "nostyle": "0", 
+        "overflow": "3", 
+        "top": "81", 
+        "visible": "1", 
+        "width": "796", 
+        "zindex": "1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "7ad23341-375e-4f8a-8d82-2849dd5c9673", 
+        "Name": "text_event", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "bold", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "226", 
+        "textdecoration": "none", 
+        "top": "15", 
+        "value": "Event:", 
+        "visible": "1", 
+        "width": "128", 
+        "zindex": "0"
+    }
+}

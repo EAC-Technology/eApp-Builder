@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "79a712e1-9a89-42eb-b69b-8cc0d2460dc3", 
+        "Name": "hpt_view_custom_update", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "30", 
+        "hierarchy": "0", 
+        "htmlcode": "", 
+        "left": "428", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "368", 
+        "visible": "1", 
+        "width": "74", 
+        "zindex": "0"
+    }
+}

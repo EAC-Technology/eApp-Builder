@@ -1,0 +1,13 @@
+{
+    "attrs": {
+        "ID": "f06be571-4479-46f7-9d7f-e34a33bdc5e2", 
+        "Name": "dbschema_test", 
+        "Type": "753ea72c-475d-4a29-96be-71c522ca2097"
+    }, 
+    "attributes": {
+        "description": "", 
+        "hierarchy": "0", 
+        "title": "", 
+        "visible": "0"
+    }
+}

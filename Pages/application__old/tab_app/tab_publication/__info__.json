@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "64197037-f792-47f5-b6c8-c8c72e67d9be", 
+        "Name": "tab_publication", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "", 
+        "designcolor": "EEEEEE", 
+        "footer": "0", 
+        "height": "575", 
+        "heightauto": "0", 
+        "hierarchy": "5", 
+        "left": "1", 
+        "lockposition": "1", 
+        "overflow": "0", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "Publication", 
+        "titlewrap": "1", 
+        "top": "20", 
+        "visible": "1", 
+        "width": "796", 
+        "zindex": "0"
+    }
+}

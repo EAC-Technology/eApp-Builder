@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "a67513ff-8fe7-4cc6-ab24-2613d9559366", 
+        "Name": "autosave", 
+        "Type": "d07ae2ab-62fe-ff98-682a-abc15eb17f9c"
+    }, 
+    "attributes": {
+        "active": "0", 
+        "height": "50", 
+        "hierarchy": "0", 
+        "interval": "300000", 
+        "left": "1285", 
+        "once": "0", 
+        "top": "0", 
+        "width": "50"
+    }
+}

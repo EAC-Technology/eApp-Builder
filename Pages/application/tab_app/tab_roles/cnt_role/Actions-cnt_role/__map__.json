@@ -1,0 +1,32 @@
+{
+    "onload.py": {
+        "ID": "8bc14c5a-6999-4f77-85fa-ca33eac472ca", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "role_dialog_fill.py": {
+        "ID": "0521f5ec-63f2-4f53-be35-12a6aaf03c52", 
+        "Left": "1304", 
+        "left": "844", 
+        "Name": "role_dialog_fill", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "631", 
+        "top": "554"
+    }, 
+    "role_update.py": {
+        "ID": "9d6e7ad9-6cb3-4ffd-b7d4-2c242e26afb5", 
+        "Left": "1196", 
+        "left": "597", 
+        "Name": "role_update", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "102", 
+        "top": "96"
+    }
+}

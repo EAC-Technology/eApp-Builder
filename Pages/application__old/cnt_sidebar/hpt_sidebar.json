@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "8e41dd61-ee57-4555-a24c-d84de21f4850", 
+        "Name": "hpt_sidebar", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "378", 
+        "hierarchy": "0", 
+        "htmlcode": "", 
+        "left": "0", 
+        "nostyle": "0", 
+        "overflow": "3", 
+        "top": "35", 
+        "visible": "1", 
+        "width": "142", 
+        "zindex": "0"
+    }
+}

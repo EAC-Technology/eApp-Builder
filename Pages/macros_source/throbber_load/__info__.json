@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "a8d534ad-5a6f-4bf8-9b06-549af98ac8b7", 
+        "Name": "throbber_load", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "throb-test", 
+        "designcolor": "EEEEEE", 
+        "footer": "0", 
+        "height": "22", 
+        "heightauto": "0", 
+        "hierarchy": "0", 
+        "left": "969", 
+        "lockposition": "0", 
+        "overflow": "1", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "", 
+        "titlewrap": "0", 
+        "top": "64", 
+        "visible": "1", 
+        "width": "22", 
+        "zindex": "9"
+    }
+}

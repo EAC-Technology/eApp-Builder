@@ -1,0 +1,20 @@
+{
+    "groups": [], 
+    "users": [
+        {
+            "Email": "prosuite@vdombox.ru", 
+            "FirstName": "ProSuite", 
+            "LastName": "ProSuite", 
+            "Login": "prosuite", 
+            "MemberOf": "", 
+            "Password": "prosuite", 
+            "Rights": [
+                {
+                    "Access": "6", 
+                    "Target": "5073ff75-da99-44fb-a5d7-e44e5ab28598"
+                }
+            ], 
+            "SecurityLevel": ""
+        }
+    ]
+}

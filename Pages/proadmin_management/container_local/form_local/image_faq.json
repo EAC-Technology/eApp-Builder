@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        "ID": "2cd6f52d-d158-45e9-b81f-32678d14083f", 
+        "Name": "image_faq", 
+        "Type": "0d36c35d-9508-440f-bfec-668f3db8cfeb"
+    }, 
+    "attributes": {
+        "externalurl": "", 
+        "height": "23", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "left": "420", 
+        "resource_cache": "", 
+        "tabindex": "0", 
+        "top": "12", 
+        "value": "#Res(6d2eb95e-4fe4-42e2-8aac-5bbfdbdedbd2)", 
+        "visible": "1", 
+        "width": "22", 
+        "zindex": "0"
+    }
+}

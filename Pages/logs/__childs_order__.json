@@ -1,0 +1,16 @@
+[
+    "autoupdate", 
+    "copy_header", 
+    "copy_width_maker", 
+    "dwnload_logs_dialog", 
+    "dwnloadlogs_btn", 
+    "growl", 
+    "js_colresize", 
+    "loggersform", 
+    "loglevelsform", 
+    "logs_cnt", 
+    "page_css", 
+    "page_js", 
+    "popuplayer", 
+    "update_timer"
+]

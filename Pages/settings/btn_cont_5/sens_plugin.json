@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "105d20a3-f6f0-4056-ad55-9f5b95dcc4d4", 
+        "Name": "sens_plugin", 
+        "Type": "7b39c919-de7f-4b77-b048-aae8bcf8edf5"
+    }, 
+    "attributes": {
+        "border": "0", 
+        "containerlink": "39a33860-2520-4900-bb6e-7c58fa4643d8", 
+        "height": "78", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "link": "", 
+        "target": "_self", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "169", 
+        "zindex": "0"
+    }
+}

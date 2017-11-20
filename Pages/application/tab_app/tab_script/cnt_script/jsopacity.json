@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "473efa05-29f7-40cb-b60b-eef062f99224", 
+        "Name": "jsopacity", 
+        "Type": "f08a1d8f-771d-1757-e89c-7b7980ee9990"
+    }, 
+    "attributes": {
+        "data": "", 
+        "datatype": "1", 
+        "height": "50", 
+        "hierarchy": "0", 
+        "left": "134", 
+        "nostyle": "2", 
+        "overflow": "1", 
+        "top": "399", 
+        "visible": "1", 
+        "width": "50", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "05794aaa-96d9-429d-89ef-3e0ac339f741", 
+        "Name": "tab_script", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "", 
+        "designcolor": "d4d2d2", 
+        "footer": "0", 
+        "height": "575", 
+        "heightauto": "0", 
+        "hierarchy": "4", 
+        "left": "1", 
+        "lockposition": "1", 
+        "overflow": "3", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "Scripts", 
+        "titlewrap": "1", 
+        "top": "19", 
+        "visible": "1", 
+        "width": "796", 
+        "zindex": "0"
+    }
+}

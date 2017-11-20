@@ -1,0 +1,16 @@
+{
+    "go_to_login.py": {
+        "ID": "7f77cbb6-9bc0-4379-a22a-289e56a3482d", 
+        "Left": "223", 
+        "Name": "go_to_login", 
+        "State": "true", 
+        "Top": "10"
+    }, 
+    "onload.py": {
+        "ID": "14ecbb30-38d0-46bd-83ed-4bb6fa0b7d48", 
+        "Left": "0", 
+        "Name": "onload", 
+        "State": "false", 
+        "Top": "0"
+    }
+}

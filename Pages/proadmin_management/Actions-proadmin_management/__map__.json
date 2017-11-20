@@ -1,0 +1,86 @@
+{
+    "onload.py": {
+        "ID": "4c5afef8-cbe2-411e-8d5d-907dd99e0606", 
+        "Left": "0", 
+        "Name": "onload", 
+        "State": "false", 
+        "Top": "0"
+    }, 
+    "open_proadmin_dialog.py": {
+        "ID": "b2521f5e-db52-4275-89a5-39e3260d0395", 
+        "Left": "1248", 
+        "Name": "open_proadmin_dialog", 
+        "State": "true", 
+        "Top": "1342"
+    }, 
+    "open_standalone_dialog.py": {
+        "ID": "c60cb0b9-e63a-4c14-ba4d-5123ee35568a", 
+        "Left": "1265", 
+        "Name": "open_standalone_dialog", 
+        "State": "true", 
+        "Top": "1226"
+    }, 
+    "refresh_proadmin_variable.py": {
+        "ID": "4a6fe404-2bd1-49d7-941a-6f089e5fbbdb", 
+        "Left": "231", 
+        "Name": "refresh_proadmin_variable", 
+        "State": "true", 
+        "Top": "1116"
+    }, 
+    "refresh_remote_log.py": {
+        "ID": "e3bd4810-8d76-4ed7-a98f-ff84a61c8f34", 
+        "Left": "240", 
+        "Name": "refresh_remote_log", 
+        "State": "true", 
+        "Top": "983"
+    }, 
+    "reset_settings.py": {
+        "ID": "5fa10449-001a-4763-8d66-6c3f842bce38", 
+        "Left": "201", 
+        "Name": "reset_settings", 
+        "State": "true", 
+        "Top": "1274"
+    }, 
+    "save_local_scheme.py": {
+        "ID": "1c4750d3-7c79-42e7-9b6f-659bafae0ceb", 
+        "Left": "249", 
+        "Name": "save_local_scheme", 
+        "State": "true", 
+        "Top": "868"
+    }, 
+    "save_remote_scheme.py": {
+        "ID": "d4f35f22-a9a0-450e-bc6d-28d14e1d1bec", 
+        "Left": "231", 
+        "Name": "save_remote_scheme", 
+        "State": "true", 
+        "Top": "734"
+    }, 
+    "test_connection.py": {
+        "ID": "bc240062-c1c8-4f72-ae0f-813e8d4dcc45", 
+        "Left": "816", 
+        "Name": "test_connection", 
+        "State": "true", 
+        "Top": "397"
+    }, 
+    "test_sso.py": {
+        "ID": "d2d3ee5f-a92e-4ee6-977e-4f1fed67aefe", 
+        "Left": "802", 
+        "Name": "test_sso", 
+        "State": "true", 
+        "Top": "676"
+    }, 
+    "unchecked_local.py": {
+        "ID": "c05e6b67-3480-453e-9f8f-3804e3a43d88", 
+        "Left": "238", 
+        "Name": "unchecked_local", 
+        "State": "true", 
+        "Top": "600"
+    }, 
+    "unchecked_remote.py": {
+        "ID": "c2c48e93-861c-4b74-8af9-6d6fae011bf8", 
+        "Left": "229", 
+        "Name": "unchecked_remote", 
+        "State": "true", 
+        "Top": "104"
+    }
+}

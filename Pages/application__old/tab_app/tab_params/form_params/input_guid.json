@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        "ID": "40c2a359-428c-4733-b20e-748ea4dad1c3", 
+        "Name": "input_guid", 
+        "Type": "410ce9c6-5ae0-4c66-9c2b-80b7470e2927"
+    }, 
+    "attributes": {
+        "autocomplete": "1", 
+        "border": "1", 
+        "classname": "form-control", 
+        "focused": "0", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "125", 
+        "mode": "2", 
+        "multiline": "0", 
+        "placeholder": "GUID", 
+        "tabindex": "0", 
+        "title": "GUID", 
+        "top": "243", 
+        "value": "", 
+        "visible": "1", 
+        "width": "282", 
+        "zindex": "0"
+    }
+}

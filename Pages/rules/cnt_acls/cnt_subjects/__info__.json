@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "e2cfe8af-ad7e-4055-907e-437f095bb2fc", 
+        "Name": "cnt_subjects", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "acl_container", 
+        "designcolor": "EEEF07", 
+        "footer": "0", 
+        "height": "602", 
+        "heightauto": "1", 
+        "hierarchy": "0", 
+        "left": "257", 
+        "lockposition": "0", 
+        "overflow": "3", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "<div style=\"padding-left: 30px;\" class=\"acl_container_title\">Users and Groups</div>", 
+        "titlewrap": "7", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "337", 
+        "zindex": "0"
+    }
+}

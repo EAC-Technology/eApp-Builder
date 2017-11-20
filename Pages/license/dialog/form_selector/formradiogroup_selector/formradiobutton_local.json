@@ -1,0 +1,23 @@
+{
+    "attrs": {
+        "ID": "9414d0f6-7592-44a4-9cf0-2c02ff8812e4", 
+        "Name": "formradiobutton_local", 
+        "Type": "213f1e8c-8a3e-452b-af33-4ca3139fe960"
+    }, 
+    "attributes": {
+        "align": "0", 
+        "classname": "", 
+        "disable": "0", 
+        "height": "18", 
+        "hierarchy": "0", 
+        "label": "Standalone", 
+        "left": "15", 
+        "state": "0", 
+        "tabindex": "0", 
+        "top": "8", 
+        "value": "1", 
+        "visible": "1", 
+        "width": "162", 
+        "zindex": "0"
+    }
+}

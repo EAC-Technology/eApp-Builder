@@ -1,0 +1,72 @@
+{
+    "apply_rules.py": {
+        "ID": "24c9aad6-2abf-4180-ad19-4318edf55a39", 
+        "Left": "467", 
+        "left": "467", 
+        "Name": "apply_rules", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "582", 
+        "top": "582"
+    }, 
+    "clicked_objects.py": {
+        "ID": "6676bf9d-4786-4e84-9496-b413b51a1c4e", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "clicked_objects", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "587", 
+        "top": "587"
+    }, 
+    "clicked_rules.py": {
+        "ID": "9dfe11fc-a71c-42fa-889e-e2bda147d7ac", 
+        "Left": "1357", 
+        "left": "1357", 
+        "Name": "clicked_rules", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "430", 
+        "top": "430"
+    }, 
+    "clicked_subjects.py": {
+        "ID": "bff13c39-8f4d-4dd4-9cfc-1ca63a9c0822", 
+        "Left": "231", 
+        "left": "231", 
+        "Name": "clicked_subjects", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "582", 
+        "top": "582"
+    }, 
+    "onload.py": {
+        "ID": "9439746e-9e1d-4e48-947a-508b6d616e47", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "reset_rules.py": {
+        "ID": "a57462cd-74d4-43d7-8305-544c28a15e01", 
+        "Left": "701", 
+        "left": "701", 
+        "Name": "reset_rules", 
+        "state": "false", 
+        "State": "false", 
+        "Top": "595", 
+        "top": "595"
+    }, 
+    "resize.py": {
+        "ID": "20b8278b-50b7-4a0c-83e1-2e49ff47d4e5", 
+        "Left": "308", 
+        "left": "308", 
+        "Name": "resize", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "650", 
+        "top": "650"
+    }
+}

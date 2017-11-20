@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "bb93197a-08bc-4449-9e45-d542b5a894ad", 
+        "Name": "hpt_res_create", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "41", 
+        "hierarchy": "0", 
+        "htmlcode": "", 
+        "left": "610", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "25", 
+        "visible": "1", 
+        "width": "46", 
+        "zindex": "0"
+    }
+}

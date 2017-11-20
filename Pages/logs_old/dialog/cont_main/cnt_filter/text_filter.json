@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "8ccff0dc-3c32-4264-aa3b-fd80eddaf04d", 
+        "Name": "text_filter", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontsize": "16", 
+        "fontstyle": "normal", 
+        "fontweight": "bold", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "14", 
+        "textdecoration": "none", 
+        "top": "4", 
+        "value": "Filter", 
+        "visible": "1", 
+        "width": "298", 
+        "zindex": "0"
+    }
+}

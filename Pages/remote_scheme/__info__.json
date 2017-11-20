@@ -1,0 +1,33 @@
+{
+    "attrs": {
+        "ID": "acb3894d-8aaf-405d-bd0e-2e62aa4cd68c", 
+        "Name": "remote_scheme", 
+        "Type": "2330fe83-8cd6-4ed5-907d-11874e7ebcf4"
+    }, 
+    "attributes": {
+        "activelinkcolor": "000000", 
+        "bgcolor": "FFFFFF", 
+        "bgrepeat": "repeat", 
+        "css": "", 
+        "cssclass": "no-subhead loading", 
+        "deniedlink": "", 
+        "description": "No description", 
+        "hierarchy": "0", 
+        "image": "", 
+        "jqui": "1", 
+        "linkcolor": "000000", 
+        "metadescription": "", 
+        "metakeywords": "", 
+        "noscript": "", 
+        "position": "center", 
+        "securitycode": "", 
+        "style": "", 
+        "testClasses": "", 
+        "testFunc": "", 
+        "textcolor": "000000", 
+        "title": "Remote Scheme", 
+        "visible": "1", 
+        "visitedlinkcolor": "000000", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "bb9bf18a-e1b2-4e3e-97ee-5bf13d074483", 
+        "Name": "btn_open", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "btn btn-default", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "\"Courier New\", \"Nimbus Mono L\", monospace", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "34", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "8", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Open &raquo;", 
+        "textdecoration": "none", 
+        "top": "62", 
+        "visible": "1", 
+        "width": "93", 
+        "zindex": "0"
+    }
+}

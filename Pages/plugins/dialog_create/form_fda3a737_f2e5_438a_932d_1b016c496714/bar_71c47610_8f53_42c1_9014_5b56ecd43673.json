@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "71c47610-8f53-42c1-9014-5b56ecd43673", 
+        "Name": "bar_71c47610_8f53_42c1_9014_5b56ecd43673", 
+        "Type": "91a12281-c9a8-430a-8a2d-93903b4a264f"
+    }, 
+    "attributes": {
+        "color": "F6F6F6", 
+        "height": "90", 
+        "hierarchy": "0", 
+        "left": "15", 
+        "top": "301", 
+        "visible": "1", 
+        "width": "427", 
+        "zindex": "0"
+    }
+}

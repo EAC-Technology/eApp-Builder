@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "11134155-a574-4923-8e72-0909008c5a28", 
+        "Name": "text1", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontsize": "16", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "5", 
+        "textdecoration": "none", 
+        "top": "10", 
+        "value": "Select the application operating mode:", 
+        "visible": "1", 
+        "width": "532", 
+        "zindex": "0"
+    }
+}

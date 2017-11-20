@@ -1,0 +1,19 @@
+{
+    "onload.py": {
+        "ID": "b396db04-2bd9-4685-98ec-62e921d5474f", 
+        "Left": "0", 
+        "left": "0", 
+        "Name": "onload", 
+        "state": "true", 
+        "State": "true", 
+        "Top": "0", 
+        "top": "0"
+    }, 
+    "widget_save.py": {
+        "ID": "256904bd-135e-49e1-adf0-b5b6be2eccc5", 
+        "Left": "421", 
+        "Name": "widget_save", 
+        "State": "true", 
+        "Top": "247"
+    }
+}

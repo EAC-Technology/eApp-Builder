@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        "ID": "9f8dea84-82d5-40ca-ad7b-f2a0ec07c633", 
+        "Name": "remote_settings", 
+        "Type": "92269b6e-4b6b-4882-852f-f7ef0e89c079"
+    }, 
+    "attributes": {
+        "data": "", 
+        "height": "140", 
+        "hierarchy": "0", 
+        "left": "254", 
+        "structure": "", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "228", 
+        "zindex": "0"
+    }
+}

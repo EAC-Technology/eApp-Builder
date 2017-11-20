@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "ID": "7de00a85-1951-49ae-9b1c-c017336ba710", 
+        "Name": "css", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "height": "60", 
+        "hierarchy": "0", 
+        "htmlcode": "<style>\n\n\t.proadmin-big-button\n\t{\n\t\tborder:1px solid #d4d4d4;\n\t\tborder-radius:8px;\n\t\t-moz-border-radius:8px;\n\t\t-webkit-border-radius:8px;\n\n\t}\n\n\t.proadmin-big-button:hover\n\t{\n\t\tborder-color:#FF0042;\n\t}\n\n\t.proadmin-big-button-active\n\t{\n\t\tborder-color:#BD202F !important;\n\t}\n\n\t.proadmin-big-button a span,.proadmin-big-button a\n\t{\n\t\tcolor:#000!important;\n\t\tfont-size:14px!important;\n\t\ttext-decoration:none!important;\n\t}\n\n\t.remote-scm\n\t{\n\t\tbackground:#fff url(/7268dd57-4bc2-448c-9bb2-06dedafeb8c2.res);\n\t\tbackground-repeat:repeat-x;\n\t\tbackground-position:bottom right;\n\t}\n\n\t.users-management\n\t{\n\t\tbackground:#fff url(/e5cdc6f3-cd0a-436b-91d9-1f897b29e8d9.res);\n\t\tbackground-repeat:repeat-x;\n\t\tbackground-position:bottom right;\n\t}\n\n</style>", 
+        "left": "10", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "133", 
+        "visible": "1", 
+        "width": "80", 
+        "zindex": "9"
+    }
+}

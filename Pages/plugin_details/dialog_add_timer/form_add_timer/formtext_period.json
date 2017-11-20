@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        "ID": "bf0a8718-001c-4a3e-afb7-2dd0d925a7bb", 
+        "Name": "formtext_period", 
+        "Type": "410ce9c6-5ae0-4c66-9c2b-80b7470e2927"
+    }, 
+    "attributes": {
+        "autocomplete": "1", 
+        "border": "1", 
+        "classname": "", 
+        "focused": "0", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "5", 
+        "mode": "0", 
+        "multiline": "0", 
+        "placeholder": "", 
+        "tabindex": "0", 
+        "title": "", 
+        "top": "84", 
+        "value": "", 
+        "visible": "1", 
+        "width": "204", 
+        "zindex": "0"
+    }
+}

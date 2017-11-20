@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "ID": "483f36d1-09cf-4f13-9442-6ab864459c78", 
+        "Name": "hpt", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "height": "114", 
+        "hierarchy": "0", 
+        "htmlcode": "What is standalone connection?", 
+        "left": "15", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "41", 
+        "visible": "1", 
+        "width": "347", 
+        "zindex": "0"
+    }
+}

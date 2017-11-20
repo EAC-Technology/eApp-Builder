@@ -1,0 +1,50 @@
+{
+    "actions": [
+        {
+            "ID": "3B908855-D632-F758-3442-441998A035FB", 
+            "Left": "392", 
+            "MethodName": "submit", 
+            "ObjTgtID": "b0858645-dd49-4e65-abae-faf0734f4751", 
+            "State": "true", 
+            "Top": "84"
+        }, 
+        {
+            "ID": "627ACD85-7CE4-74D3-7B6F-4408B687ABC4", 
+            "Left": "397", 
+            "MethodName": "goTo", 
+            "ObjTgtID": "32e2d69b-3215-4df7-abb5-9267a75b0029", 
+            "Params": [
+                [
+                    "url", 
+                    "console.log(evt_param);"
+                ]
+            ], 
+            "State": "true", 
+            "Top": "232"
+        }
+    ], 
+    "events": [
+        {
+            "actions": [
+                "627ACD85-7CE4-74D3-7B6F-4408B687ABC4"
+            ], 
+            "ContainerID": "b633fd72-ca48-4fbf-a76c-b07a0f443bb8", 
+            "Left": "97", 
+            "Name": "submit", 
+            "ObjSrcID": "b0858645-dd49-4e65-abae-faf0734f4751", 
+            "State": "true", 
+            "Top": "231"
+        }, 
+        {
+            "actions": [
+                "3B908855-D632-F758-3442-441998A035FB"
+            ], 
+            "ContainerID": "b633fd72-ca48-4fbf-a76c-b07a0f443bb8", 
+            "Left": "100", 
+            "Name": "click", 
+            "ObjSrcID": "1e6368bd-6068-4c18-bbfd-7e60d39cad43", 
+            "State": "true", 
+            "Top": "80"
+        }
+    ]
+}

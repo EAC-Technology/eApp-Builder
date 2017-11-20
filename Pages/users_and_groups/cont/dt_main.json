@@ -1,0 +1,30 @@
+{
+    "attrs": {
+        "ID": "7ed39757-4a4a-4da5-8493-57c144d2d1bb", 
+        "Name": "dt_main", 
+        "Type": "a2240af9-66d1-8841-0c58-ff687f3d2b3c"
+    }, 
+    "attributes": {
+        "cssclass": "admin-datatable", 
+        "data": "", 
+        "draggable": "0", 
+        "header": "", 
+        "height": "530", 
+        "hiddenfields": "", 
+        "hierarchy": "0", 
+        "key": "", 
+        "left": "0", 
+        "nocellclick": "", 
+        "rowactive": "", 
+        "selectedrows": "", 
+        "selectionmode": "1", 
+        "showheader": "1", 
+        "skin": "0", 
+        "style": "#%(id)s table\n{\n\theight:0!important;\n\tborder-collapse:collapse;\n\tborder:0;\n\tmargin-top:10px;\n\n}\n\n#%(id)s caption\n{\n\ttext-align:left;\n\tfont-size:18px;\n\tmargin-bottom:15px;\n}\n\n#%(id)s table .thead\n{\n\tbackground:#fff url(/168eab1b-d9e1-9d79-01ce-0211fc938fbf.png);\n\tbackground-repeat:repeat-x;\n\tbackground-position:bottom right;\n\tborder:0;\n\tborder-top:1px solid #ececec;\n\tborder-bottom:1px solid #ececec;\n\tborder-radius:4px;\n\t-moz-border-radius:4px;\n\t-webkit-border-radius:4px;\n}\n\n#%(id)s table .thead .th-cell\n{\n\tborder:0;\n\ttext-align:left;\n\n}\n\n#%(id)s table .thead .th-cell-0\n{\n\tborder:0;\n\tborder-left:1px solid #ececec;\n\tborder-radius:4px;\n\t-moz-border-radius:4px;\n\t-webkit-border-radius:4px;\n\twidth:32px;\n}\n\n\n#%(id)s table th.th-cell-1 {\n\twidth: 16px;\n\topacity: 0;\n\tpadding: 0;\n\tmargin: 1px;\n}\n\n#%(id)s table .thead .th-cell-3\n{\n\tborder:0;\n\tborder-right:1px solid #ececec;\n\tborder-radius:4px;\n\t-moz-border-radius:4px;\n\t-webkit-border-radius:4px;\n}\n\n#%(id)s table tr td\n{\n\tborder:0;\n\ttext-align:left;\n\tborder-bottom:1px dotted #bfbfbf;\n\tline-height:27px;\n\tcursor: default;\n}\n\n#%(id)s .row:hover {\n\tborder-bottom: \t1px solid #5CB1DD;\n\tborder-top: \t1px solid #5CB1DD !important;\n}\n\n#%(id)s .row {\n\tborder-bottom:\t1px dotted #bfbfbf;\n\tborder-top: \t1px dotted #bfbfbf;\n}\n\n#%(id)s .row_selected\n{\n\tborder-bottom: \t1px solid #7Cd1fD;\n\tborder-top: \t1px solid #7Ce1fD !important;\n}\n\n#%(id)s .row_selected:hover\n{\n\tborder-bottom: \t1px solid #5CB1DD;\n\tborder-top: \t1px solid #5CB1DD !important;\n\n}", 
+        "title": "", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "708", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "attrs": {
+        "ID": "050631eb-f114-4620-ae78-0498eb883492", 
+        "Name": "hpt", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "height": "0", 
+        "hierarchy": "0", 
+        "htmlcode": "<table class=\"tbl-resize\" id=\"logs-table\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n    <thead>\n        <tr>\n            <th width=\"140px\">{th_date}</th>\n            <th width=\"80px\" class=\"clickable level_filter\">{th_lvl}</th>\n            <th width=\"170px\" class=\"clickable logger_filter\">{th_name}</th>\n            <th>{th_msg}</th>\n        </tr>\n    </thead>\n    <tbody>\n        {table_body}\n    </tbody>\n</table>", 
+        "left": "0", 
+        "nostyle": "2", 
+        "overflow": "3", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "980", 
+        "zindex": "0"
+    }
+}

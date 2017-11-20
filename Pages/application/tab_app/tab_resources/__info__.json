@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "b7f61aba-8b2e-4299-b3f2-ce75aad98085", 
+        "Name": "tab_resources", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "", 
+        "designcolor": "EEEEEE", 
+        "footer": "0", 
+        "height": "575", 
+        "heightauto": "0", 
+        "hierarchy": "3", 
+        "left": "1", 
+        "lockposition": "1", 
+        "overflow": "3", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "Resources", 
+        "titlewrap": "1", 
+        "top": "20", 
+        "visible": "1", 
+        "width": "796", 
+        "zindex": "0"
+    }
+}

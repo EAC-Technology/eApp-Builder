@@ -1,0 +1,36 @@
+{
+    "attrs": {
+        "ID": "9dd1da0d-fc23-4549-9dc4-aa9e7b1a4943", 
+        "Name": "application__old", 
+        "Type": "2330fe83-8cd6-4ed5-907d-11874e7ebcf4"
+    }, 
+    "attributes": {
+        "activelinkcolor": "000000", 
+        "bgcolor": "ffffff", 
+        "bgrepeat": "repeat-x", 
+        "cookiewarning": "0", 
+        "cookiewarningtext": "En poursuivant votre navigation, vous acceptez le d\u00e9p\u00f4t de cookies tiers destin\u00e9s \u00e0 vous proposer des vid\u00e9os, des boutons de partage, des remont\u00e9es de contenus de plateformes sociales", 
+        "css": "", 
+        "cssclass": "no-subhead", 
+        "customheaders": "", 
+        "deniedlink": "", 
+        "description": "", 
+        "hierarchy": "0", 
+        "image": "92ede430-a533-41e9-9026-761603c3b7f8", 
+        "jqui": "1", 
+        "linkcolor": "000000", 
+        "metadescription": "", 
+        "metakeywords": "", 
+        "noscript": "", 
+        "position": "center", 
+        "securitycode": "", 
+        "style": "", 
+        "testClasses": "", 
+        "testFunc": "", 
+        "textcolor": "000000", 
+        "title": "Application", 
+        "visible": "1", 
+        "visitedlinkcolor": "000000", 
+        "zindex": "0"
+    }
+}

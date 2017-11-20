@@ -1,0 +1,17 @@
+{
+    "attrs": {
+        "ID": "d0834139-6d4f-4dba-bd44-072ac777a5ad", 
+        "Name": "WorkspaceSelectorDialog", 
+        "Type": "4a18fa5f-9355-43c1-970a-2c481a356e20"
+    }, 
+    "attributes": {
+        "height": "30", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "top": "0", 
+        "value": "<ui version=\"4.0\">\n <class>WorkspaceSelectorDialog</class>\n <widget class=\"QDialog\" name=\"WorkspaceSelectorDialog\">\n  <property name=\"geometry\">\n   <rect>\n    <x>0</x>\n    <y>0</y>\n    <width>358</width>\n    <height>101</height>\n   </rect>\n  </property>\n  <property name=\"windowTitle\">\n   <string>Select Workspace</string>\n  </property>\n  <layout class=\"QVBoxLayout\" name=\"verticalLayout\">\n   <item>\n    <widget class=\"QLabel\" name=\"label\">\n     <property name=\"text\">\n      <string>Select workspace from the list:</string>\n     </property>\n    </widget>\n   </item>\n   <item>\n    <widget class=\"QComboBox\" name=\"workspaceList\"/>\n   </item>\n   <item>\n    <widget class=\"QDialogButtonBox\" name=\"buttonBox\">\n     <property name=\"orientation\">\n      <enum>Qt::Horizontal</enum>\n     </property>\n     <property name=\"standardButtons\">\n      <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>\n     </property>\n    </widget>\n   </item>\n  </layout>\n </widget>\n <resources/>\n <connections>\n  <connection>\n   <sender>buttonBox</sender>\n   <signal>accepted()</signal>\n   <receiver>WorkspaceSelectorDialog</receiver>\n   <slot>accept()</slot>\n   <hints>\n    <hint type=\"sourcelabel\">\n     <x>248</x>\n     <y>254</y>\n    </hint>\n    <hint type=\"destinationlabel\">\n     <x>157</x>\n     <y>274</y>\n    </hint>\n   </hints>\n  </connection>\n  <connection>\n   <sender>buttonBox</sender>\n   <signal>rejected()</signal>\n   <receiver>WorkspaceSelectorDialog</receiver>\n   <slot>reject()</slot>\n   <hints>\n    <hint type=\"sourcelabel\">\n     <x>316</x>\n     <y>260</y>\n    </hint>\n    <hint type=\"destinationlabel\">\n     <x>286</x>\n     <y>274</y>\n    </hint>\n   </hints>\n  </connection>\n </connections>\n</ui>", 
+        "visible": "1", 
+        "width": "80", 
+        "zindex": "0"
+    }
+}

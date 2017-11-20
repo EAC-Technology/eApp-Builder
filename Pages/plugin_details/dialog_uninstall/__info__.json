@@ -1,0 +1,24 @@
+{
+    "attrs": {
+        "ID": "89340e1a-f6eb-4434-9284-9efaa82fd847", 
+        "Name": "dialog_uninstall", 
+        "Type": "5a70e041-f288-4905-3ea3-1a0fdfc40475"
+    }, 
+    "attributes": {
+        "classname": "", 
+        "draggable": "0", 
+        "height": "315", 
+        "hierarchy": "0", 
+        "left": "65", 
+        "minheight": "50", 
+        "minwidth": "50", 
+        "modal": "0", 
+        "show": "0", 
+        "skin": "3", 
+        "style": ".boxy-wrapper { position: absolute; }\n.boxy-wrapper.fixed { position: fixed; }\n.boxy-modal-blackout { position: absolute; background-color: black; left: 0; top: 0; }\n\n.boxy-wrapper .title-bar {\nposition: relative;\nbackground-color: #fff !important;\nmargin-left:12px !important;\nmargin-right:12px !important;\nmargin-top:8px !important;\npadding-bottom:8px !important;\ntext-align:left;\nfont-weight:normal;\nborder-bottom:1px solid #e5e5e5;\n\n}\n.boxy-wrapper .title-bar h2{\nfont-size:24px;\ntext-align:left;\nfont-weight:normal;\nmargin:0;\npadding:0;\n}\n\n.boxy-wrapper .title-bar a.close{\noutline: none;\nposition: absolute;\nbackground: url(\"/3938bd92-e009-2767-09e2-1da56035c24a.png\") -95px -128px;\nheight: 18px;\nwidth: 19px;\ntop: 6px;\nright: 6px;\ndisplay:none !important;\n}\n.boxy-wrapper .title-bar a.close:hover{\nborder: 1px inset #999999;\n}\n\n.boxy-inner {\nborder:0 !important;\nbackground-color:#fff !important;\nbox-shadow: 0 0 40px #000;\n-moz-box-shadow: 0 0 40px #000;\n-webkit-box-shadow: 0 0 40px #000;\nbackground: url(\"/ac84402d-b5d7-dcc7-fb33-357b0426918f.png\") left bottom repeat-x;\n}", 
+        "title": "Uninstall plugin", 
+        "top": "948", 
+        "width": "400", 
+        "zindex": "9"
+    }
+}

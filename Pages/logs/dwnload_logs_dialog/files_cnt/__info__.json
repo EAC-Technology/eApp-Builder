@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "90907933-b2a6-44d3-acf5-4b28c7331595", 
+        "Name": "files_cnt", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "", 
+        "designcolor": "EEEEEE", 
+        "footer": "0", 
+        "height": "285", 
+        "heightauto": "0", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "lockposition": "0", 
+        "overflow": "0", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "", 
+        "titlewrap": "0", 
+        "top": "0", 
+        "visible": "1", 
+        "width": "278", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "attrs": {
+        "ID": "6cd891a9-438a-4c41-9614-3260b6e9cf99", 
+        "Name": "text_description", 
+        "Type": "73a54f2e-4001-4676-93a0-804048a57081"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "alpha": "100", 
+        "classname": "", 
+        "color": "000000", 
+        "css": "", 
+        "fontfamily": "tahoma", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "bold", 
+        "height": "100", 
+        "hierarchy": "0", 
+        "left": "15", 
+        "textdecoration": "none", 
+        "top": "25", 
+        "value": "Plugin to update - %s", 
+        "visible": "1", 
+        "width": "352", 
+        "zindex": "0"
+    }
+}

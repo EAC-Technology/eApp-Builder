@@ -1,0 +1,18 @@
+{
+    "attrs": {
+        "ID": "7010c84c-65f4-4328-8608-dc9f248465d9", 
+        "Name": "xmldialog", 
+        "Type": "887e2a68-4cb0-e28a-6d7b-4dd41c35ca6a"
+    }, 
+    "attributes": {
+        "height": "300", 
+        "hierarchy": "0", 
+        "left": "0", 
+        "modal": "1", 
+        "show": "0", 
+        "title": "", 
+        "top": "1387", 
+        "width": "400", 
+        "xmldata": ""
+    }
+}

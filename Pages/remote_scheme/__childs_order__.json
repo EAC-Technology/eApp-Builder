@@ -1,0 +1,17 @@
+[
+    "button_license", 
+    "container_local", 
+    "container_local_state", 
+    "container_remote", 
+    "container_remote_state", 
+    "copy_header", 
+    "copy_width_maker", 
+    "dialog_proadmin", 
+    "dialog_sso_success", 
+    "dialog_standalone", 
+    "dialog_test_sso", 
+    "growl", 
+    "text_current_scheme", 
+    "text_page_title", 
+    "throbber"
+]

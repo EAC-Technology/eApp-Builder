@@ -1,0 +1,1468 @@
+{
+    "actions": [
+        {
+            "ID": "028D0CEC-10FB-5D83-2D72-52F696A72D25", 
+            "Left": "245", 
+            "MethodName": "hide", 
+            "ObjTgtID": "9e1ed421-4d1b-4267-833f-3bf74c6d749b", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "0"
+        }, 
+        {
+            "ID": "0599E177-532C-CAB7-2BBA-6321E9ED0853", 
+            "Left": "1291", 
+            "MethodName": "show", 
+            "ObjTgtID": "d3155529-4108-429f-a25e-941dd0109374", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "195"
+        }, 
+        {
+            "ID": "060975B8-252A-7CFD-A8D5-5456694B61DC", 
+            "Left": "799", 
+            "MethodName": "setFocus", 
+            "ObjTgtID": "b6d71b57-1dd6-4918-92d2-61dacddbe930", 
+            "State": "false", 
+            "Top": "799"
+        }, 
+        {
+            "ID": "08E55BC3-A61E-8FDF-BAE0-5453CC88F9C2", 
+            "Left": "799", 
+            "MethodName": "hide", 
+            "ObjTgtID": "f5da5371-24ee-4854-860d-3fe70772289d", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "701"
+        }, 
+        {
+            "ID": "0AC7C92E-C723-D44E-797B-5454CA4DDC05", 
+            "Left": "537", 
+            "MethodName": "custom", 
+            "ObjTgtID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Params": [
+                [
+                    "custom", 
+                    "setSharedVariables({obj_guid:null,obj_type:\"group\"})"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "753"
+        }, 
+        {
+            "ID": "0E52339D-8EFB-6751-0EEC-5490326799A2", 
+            "Left": "993", 
+            "MethodName": "hide", 
+            "ObjTgtID": "8241d65c-3c55-4731-a92f-1cb55fcebf6c", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "638"
+        }, 
+        {
+            "ID": "0F076426-5A1F-B504-3DA0-534E23381509", 
+            "Left": "1447", 
+            "MethodName": "setSharedVariable", 
+            "ObjTgtID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Params": [
+                [
+                    "key", 
+                    "'selectedRows'"
+                ], 
+                [
+                    "value", 
+                    "evt_param(\"keyList\")"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "866"
+        }, 
+        {
+            "ID": "14DDC226-9845-03DE-9879-5317BC327943", 
+            "Left": "784", 
+            "MethodName": "show", 
+            "ObjTgtID": "2d9b8268-794c-4c3a-82b3-e75a1e45143c", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "0"
+        }, 
+        {
+            "ID": "19C8FB80-A310-1D0F-C25A-5455DFFFFDB1", 
+            "Left": "775", 
+            "MethodName": "hide", 
+            "ObjTgtID": "94d9f57e-e684-45ee-8e74-7d0515d47b87", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "387"
+        }, 
+        {
+            "ID": "1C6CD7BD-242C-9F32-922F-5477383EFD94", 
+            "Left": "837", 
+            "MethodName": "setValue", 
+            "ObjTgtID": "dbdc791e-92a1-4de5-8375-fa13f121dd8b", 
+            "Params": [
+                [
+                    "value", 
+                    "\"\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "884"
+        }, 
+        {
+            "ID": "1FA4C493-E659-C6A2-7A6D-5319818106F9", 
+            "Left": "1054", 
+            "MethodName": "setValue", 
+            "ObjTgtID": "9f340316-b911-4af5-b625-fc0f6955757f", 
+            "Params": [
+                [
+                    "value", 
+                    "\"0\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "302"
+        }, 
+        {
+            "ID": "2232DD3A-BDDD-21A9-E506-6321D3E82370", 
+            "Left": "1294", 
+            "MethodName": "hide", 
+            "ObjTgtID": "dbd896d8-ce12-47fc-ac2a-5702f3f4bee9", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "159"
+        }, 
+        {
+            "ID": "2A488902-EA16-784F-3CA3-53021F8BD6CB", 
+            "Left": "241", 
+            "MethodName": "custom", 
+            "ObjTgtID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Params": [
+                [
+                    "custom", 
+                    "setContinueFlag(false)"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "410"
+        }, 
+        {
+            "ID": "2EA48551-A8A7-7DC8-24A7-530217720101", 
+            "Left": "236", 
+            "MethodName": "custom", 
+            "ObjTgtID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Params": [
+                [
+                    "custom", 
+                    "setContinueFlag(true)"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "308"
+        }, 
+        {
+            "ID": "330A2D36-D64A-F37D-F596-5318D4449324", 
+            "Left": "543", 
+            "MethodName": "show", 
+            "ObjTgtID": "c30a9b03-6ec1-4879-9599-86fc54566b2d", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "116"
+        }, 
+        {
+            "ID": "39585C67-DAA1-A642-67B8-5489BAE46582", 
+            "Left": "992", 
+            "MethodName": "show", 
+            "ObjTgtID": "0b38d14e-e61a-46c3-9fed-928a049598f6", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "670"
+        }, 
+        {
+            "ID": "3B38644F-F161-635C-5905-54541E3F1F3A", 
+            "Left": "537", 
+            "MethodName": "hide", 
+            "ObjTgtID": "5c5c85b5-0acf-48ad-97fb-384b669fa65a", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "715"
+        }, 
+        {
+            "ID": "3CA0538B-5B47-3893-DE77-530EC48F60A7", 
+            "Left": "250", 
+            "MethodName": "hide", 
+            "ObjTgtID": "e34eee2c-d2c4-49f2-957b-d527089a1c6d", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "751"
+        }, 
+        {
+            "ID": "3D1CBA45-168A-8F7A-F98E-52F6ED7394A8", 
+            "Left": "248", 
+            "MethodName": "hide", 
+            "ObjTgtID": "b9410e3d-61af-4837-837d-c5cd9415f7c4", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "124"
+        }, 
+        {
+            "ID": "3F69FB96-9F77-6D8A-0EF7-5358D76FE7CF", 
+            "Left": "1381", 
+            "MethodName": "hide", 
+            "ObjTgtID": "cacf21f1-f607-448b-bf17-0d98776ece8c", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "969"
+        }, 
+        {
+            "ID": "3F9B3A9B-EF6F-1F01-05BA-5454025852A0", 
+            "Left": "535", 
+            "MethodName": "show", 
+            "ObjTgtID": "d924d783-d843-4548-a62b-180cb08b1cc1", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "676"
+        }, 
+        {
+            "ID": "46B5D39F-CFD9-07EB-9980-531C2E843B41", 
+            "Left": "774", 
+            "MethodName": "hide", 
+            "ObjTgtID": "2d9b8268-794c-4c3a-82b3-e75a1e45143c", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "316"
+        }, 
+        {
+            "ID": "46E404F9-E8BE-B92B-7778-52F765811D79", 
+            "Left": "250", 
+            "MethodName": "custom", 
+            "ObjTgtID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Params": [
+                [
+                    "custom", 
+                    "generatePassword()"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "74"
+        }, 
+        {
+            "ID": "4779F184-2BD9-97A1-7A5E-5485B7BABD16", 
+            "Left": "421", 
+            "MethodName": "hide", 
+            "ObjTgtID": "8241d65c-3c55-4731-a92f-1cb55fcebf6c", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "919"
+        }, 
+        {
+            "ID": "489DDD72-02C7-5B45-7782-5318A90FB0C3", 
+            "Left": "542", 
+            "MethodName": "hide", 
+            "ObjTgtID": "f0c5061e-4731-4175-97e0-7dc9bb6c1c7e", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "82"
+        }, 
+        {
+            "ID": "4B2F48C5-0951-8639-E457-5485ADBA2498", 
+            "Left": "423", 
+            "MethodName": "hide", 
+            "ObjTgtID": "6c41a7c9-2f32-4b63-820e-6d03ab2551dc", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "889"
+        }, 
+        {
+            "ID": "4BA42C1E-76EB-1754-E124-5394ECA661F8", 
+            "Left": "0", 
+            "MethodName": "hide", 
+            "ObjTgtID": "848a5e02-2246-4567-a0c4-78b858fd14e0", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "1043"
+        }, 
+        {
+            "ID": "506B2691-DCA2-4463-35D2-545B24814BB4", 
+            "Left": "1076", 
+            "MethodName": "submit", 
+            "ObjTgtID": "7d0942ba-19f6-4b04-86d7-fd2866a954cc", 
+            "State": "false", 
+            "Top": "575"
+        }, 
+        {
+            "ID": "639BF3D1-B950-6038-AF8B-54517B3BE720", 
+            "Left": "761", 
+            "MethodName": "setText", 
+            "ObjTgtID": "c65c818f-9a6a-4aef-bae2-57e231240fe7", 
+            "Params": [
+                [
+                    "text", 
+                    "e2vdomSV['selectedObjects'].length"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "466"
+        }, 
+        {
+            "ID": "65F55A1B-4CA7-E764-B10A-530E5F3F327B", 
+            "Left": "251", 
+            "MethodName": "show", 
+            "ObjTgtID": "51092c09-fe86-4903-b7e5-9aa12334019b", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "719"
+        }, 
+        {
+            "ID": "66690201-AD6E-CA56-D23E-531B5BA07490", 
+            "Left": "1053", 
+            "MethodName": "setValue", 
+            "ObjTgtID": "11bd24ac-c723-47da-aad1-df14861ab47a", 
+            "Params": [
+                [
+                    "value", 
+                    "\"\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "200"
+        }, 
+        {
+            "ID": "67F86FA2-F801-E2DF-E55A-531A1DE5741C", 
+            "Left": "783", 
+            "MethodName": "hide", 
+            "ObjTgtID": "b9410e3d-61af-4837-837d-c5cd9415f7c4", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "176"
+        }, 
+        {
+            "ID": "69B294E1-6E1D-2DE1-E73E-531B82A6DFCE", 
+            "Left": "1057", 
+            "MethodName": "setValue", 
+            "ObjTgtID": "560cff46-50ad-4a17-b546-053fb45acd29", 
+            "Params": [
+                [
+                    "value", 
+                    "\"\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "167"
+        }, 
+        {
+            "ID": "6CE117F4-C4CC-20EE-E444-53186C5D8F1F", 
+            "Left": "782", 
+            "MethodName": "show", 
+            "ObjTgtID": "dfb9e7fe-e124-4204-8c54-7309c481db47", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "109"
+        }, 
+        {
+            "ID": "6DC7F313-BE94-87DA-64FE-6321C4CEB298", 
+            "Left": "1291", 
+            "MethodName": "hide", 
+            "ObjTgtID": "6c0b5e39-62a9-4284-b833-80ed8c885538", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "123"
+        }, 
+        {
+            "ID": "6F64282A-DBDC-6D69-8140-5405D8C0DBF6", 
+            "Left": "765", 
+            "MethodName": "setText", 
+            "ObjTgtID": "50609e4c-7979-4be8-86c3-8f54907583a0", 
+            "Params": [
+                [
+                    "text", 
+                    "e2vdomSV['selectedObjects'].length"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "542"
+        }, 
+        {
+            "ID": "709DB7AD-51FA-6629-88E2-53188B00D961", 
+            "Left": "544", 
+            "MethodName": "show", 
+            "ObjTgtID": "25158d20-fc8a-4bbc-8378-2a0bbdf2e5ac", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "45"
+        }, 
+        {
+            "ID": "70F4F1DD-A766-6F33-3F25-531F949C4A42", 
+            "Left": "778", 
+            "MethodName": "custom", 
+            "ObjTgtID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Params": [
+                [
+                    "custom", 
+                    "clearSharedVariables([\"obj_guid\",\"obj_type\",\"selectedObjects\",\"displayedObjects\"])"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "350"
+        }, 
+        {
+            "ID": "71934490-B3DB-C9E2-C196-530DE4AA5577", 
+            "Left": "248", 
+            "MethodName": "show", 
+            "ObjTgtID": "e344c965-bb94-4f00-94cb-dbd6f0c7a608", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "541"
+        }, 
+        {
+            "ID": "71B95E7B-D631-A460-22B9-531810E68AA1", 
+            "Left": "784", 
+            "MethodName": "hide", 
+            "ObjTgtID": "51092c09-fe86-4903-b7e5-9aa12334019b", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "35"
+        }, 
+        {
+            "ID": "7340BF9D-324E-BAFA-4B5F-531AF308F873", 
+            "Left": "1057", 
+            "MethodName": "setValue", 
+            "ObjTgtID": "a782d252-b239-4e39-9ec6-bf093b50fcd6", 
+            "Params": [
+                [
+                    "value", 
+                    "\"\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "99"
+        }, 
+        {
+            "ID": "73E146C0-E858-F164-E77A-534473BB8DF8", 
+            "Left": "211", 
+            "MethodName": "selectItem", 
+            "ObjTgtID": "394d8bac-9d98-4d97-9386-fedc167ddaf2", 
+            "Params": [
+                [
+                    "itemId", 
+                    "\"10\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "1063"
+        }, 
+        {
+            "ID": "778B8483-EDEF-2113-A94A-548FBDED1F38", 
+            "Left": "993", 
+            "MethodName": "hide", 
+            "ObjTgtID": "6c41a7c9-2f32-4b63-820e-6d03ab2551dc", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "701"
+        }, 
+        {
+            "ID": "7B89BC0E-510F-043A-9373-52F708E93A20", 
+            "Left": "246", 
+            "MethodName": "show", 
+            "ObjTgtID": "9e1ed421-4d1b-4267-833f-3bf74c6d749b", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "157"
+        }, 
+        {
+            "ID": "7E8265B2-E376-2A8F-D329-54539D68B5E9", 
+            "Left": "794", 
+            "MethodName": "setText", 
+            "ObjTgtID": "c65c818f-9a6a-4aef-bae2-57e231240fe7", 
+            "Params": [
+                [
+                    "text", 
+                    "\"0\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "668"
+        }, 
+        {
+            "ID": "863901AA-778B-A77C-6D3A-52F728F30177", 
+            "Left": "247", 
+            "MethodName": "setFocus", 
+            "ObjTgtID": "9e1ed421-4d1b-4267-833f-3bf74c6d749b", 
+            "State": "false", 
+            "Top": "190"
+        }, 
+        {
+            "ID": "8787B049-A773-651E-F1C0-54060745E87F", 
+            "Left": "760", 
+            "MethodName": "custom", 
+            "ObjTgtID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Params": [
+                [
+                    "custom", 
+                    "setSelectedObjects(evt_param('keyList'))"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "504"
+        }, 
+        {
+            "ID": "88F7B7A6-E5DA-8F73-3A03-5359E522C12E", 
+            "Left": "1380", 
+            "MethodName": "custom", 
+            "ObjTgtID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Params": [
+                [
+                    "custom", 
+                    "showOrHideInputGroupName(evt_param(\"itemValue\"))"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "1010"
+        }, 
+        {
+            "ID": "9176CEDB-E45C-40E6-4A52-53193C9E98D3", 
+            "Left": "546", 
+            "MethodName": "hide", 
+            "ObjTgtID": "0f53171e-3052-47eb-a166-06f37f68c9c4", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "217"
+        }, 
+        {
+            "ID": "92053C23-310F-D307-1A1C-5318F1CA5115", 
+            "Left": "546", 
+            "MethodName": "hide", 
+            "ObjTgtID": "401ea229-b1e7-4d48-a958-3abe390ffa09", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "149"
+        }, 
+        {
+            "ID": "97568B5A-E71D-1992-6B34-530DCAA50144", 
+            "Left": "251", 
+            "MethodName": "show", 
+            "ObjTgtID": "0f53171e-3052-47eb-a166-06f37f68c9c4", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "652"
+        }, 
+        {
+            "ID": "A881AB69-F24E-23E6-E412-5485C3EC2CBB", 
+            "Left": "424", 
+            "MethodName": "show", 
+            "ObjTgtID": "0b38d14e-e61a-46c3-9fed-928a049598f6", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "858"
+        }, 
+        {
+            "ID": "AAED0B17-14F5-2438-577A-531AA92831FD", 
+            "Left": "1056", 
+            "MethodName": "setValue", 
+            "ObjTgtID": "9e1ed421-4d1b-4267-833f-3bf74c6d749b", 
+            "Params": [
+                [
+                    "value", 
+                    "\"\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "33"
+        }, 
+        {
+            "ID": "ABFA6942-2AF8-C1FB-B282-53182C532027", 
+            "Left": "783", 
+            "MethodName": "show", 
+            "ObjTgtID": "e34eee2c-d2c4-49f2-957b-d527089a1c6d", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "72"
+        }, 
+        {
+            "ID": "AC8A174D-FA15-A61F-8CDC-5319ED493B53", 
+            "Left": "784", 
+            "MethodName": "show", 
+            "ObjTgtID": "9e1ed421-4d1b-4267-833f-3bf74c6d749b", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "142"
+        }, 
+        {
+            "ID": "AE0E0BF7-7F41-6AE2-9A50-54770F232487", 
+            "Left": "836", 
+            "MethodName": "submit", 
+            "ObjTgtID": "c631ae0b-c1f8-451d-8ec4-a814db3b254e", 
+            "State": "false", 
+            "Top": "852"
+        }, 
+        {
+            "ID": "AFF1E856-3AE7-8C77-71DF-531B6A2FA212", 
+            "Left": "1050", 
+            "MethodName": "setValue", 
+            "ObjTgtID": "001a472e-d5d1-4fb8-8621-cc3f23e78f51", 
+            "Params": [
+                [
+                    "value", 
+                    "\"\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "266"
+        }, 
+        {
+            "ID": "BB7631BD-C59E-B34D-978B-53EBF0A3F19B", 
+            "Left": "788", 
+            "MethodName": "setText", 
+            "ObjTgtID": "50609e4c-7979-4be8-86c3-8f54907583a0", 
+            "Params": [
+                [
+                    "text", 
+                    "\"0\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "212"
+        }, 
+        {
+            "ID": "BC6EDF69-FC05-0ADB-6AB8-530DCE77A264", 
+            "Left": "250", 
+            "MethodName": "hide", 
+            "ObjTgtID": "0f53171e-3052-47eb-a166-06f37f68c9c4", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "506"
+        }, 
+        {
+            "ID": "BE9DD2F3-22D7-84A9-A875-53446A3C934F", 
+            "Left": "211", 
+            "MethodName": "selectItem", 
+            "ObjTgtID": "848a5e02-2246-4567-a0c4-78b858fd14e0", 
+            "Params": [
+                [
+                    "itemId", 
+                    "\"all\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "1019"
+        }, 
+        {
+            "ID": "C3572FF0-515C-86B9-C70F-531B3607B107", 
+            "Left": "1057", 
+            "MethodName": "selectItem", 
+            "ObjTgtID": "c5f519ab-d5e3-4ca7-a1e3-1d103a9a3a0a", 
+            "Params": [
+                [
+                    "itemId", 
+                    "16"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "135"
+        }, 
+        {
+            "ID": "CCB31C72-FE1F-855B-8CD1-5319200FB5AC", 
+            "Left": "547", 
+            "MethodName": "show", 
+            "ObjTgtID": "e344c965-bb94-4f00-94cb-dbd6f0c7a608", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "183"
+        }, 
+        {
+            "ID": "CD5F575C-292B-BE00-1980-52F6AFC23B51", 
+            "Left": "246", 
+            "MethodName": "show", 
+            "ObjTgtID": "b9410e3d-61af-4837-837d-c5cd9415f7c4", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "36"
+        }, 
+        {
+            "ID": "D67042E8-29E2-956A-B452-531AB6CA40D5", 
+            "Left": "1058", 
+            "MethodName": "setValue", 
+            "ObjTgtID": "b9410e3d-61af-4837-837d-c5cd9415f7c4", 
+            "Params": [
+                [
+                    "value", 
+                    "\"\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "66"
+        }, 
+        {
+            "ID": "D6A4F9F7-A2DA-53D2-7428-530E7A78037E", 
+            "Left": "250", 
+            "MethodName": "show", 
+            "ObjTgtID": "e34eee2c-d2c4-49f2-957b-d527089a1c6d", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "573"
+        }, 
+        {
+            "ID": "DF25400F-01D4-DC75-0272-531A7E38A4FE", 
+            "Left": "1057", 
+            "MethodName": "setValue", 
+            "ObjTgtID": "ecbe95a3-db27-4f9b-ac02-29b97ff904e2", 
+            "Params": [
+                [
+                    "value", 
+                    "\"\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "0"
+        }, 
+        {
+            "ID": "DF8B9989-67B8-CE15-F01F-54551BD559E7", 
+            "Left": "797", 
+            "MethodName": "setValue", 
+            "ObjTgtID": "b6d71b57-1dd6-4918-92d2-61dacddbe930", 
+            "Params": [
+                [
+                    "value", 
+                    "\"\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "735"
+        }, 
+        {
+            "ID": "E091E623-07BB-3912-4448-54533E4F31C8", 
+            "Left": "792", 
+            "MethodName": "show", 
+            "ObjTgtID": "94d9f57e-e684-45ee-8e74-7d0515d47b87", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "636"
+        }, 
+        {
+            "ID": "E24BEBD4-2573-5F40-8702-632234C336B1", 
+            "Left": "1293", 
+            "MethodName": "setFocus", 
+            "ObjTgtID": "a782d252-b239-4e39-9ec6-bf093b50fcd6", 
+            "State": "false", 
+            "Top": "231"
+        }, 
+        {
+            "ID": "E66D3C1A-9F78-D5B9-B35B-530ED4A940BF", 
+            "Left": "247", 
+            "MethodName": "hide", 
+            "ObjTgtID": "51092c09-fe86-4903-b7e5-9aa12334019b", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "608"
+        }, 
+        {
+            "ID": "E7268B65-6186-ACE5-AB91-538BFA922F59", 
+            "Left": "860", 
+            "MethodName": "hide", 
+            "ObjTgtID": "4610629e-ba07-416f-88f4-278255145525", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "1127"
+        }, 
+        {
+            "ID": "E8C673B8-9524-5E5F-6A4F-530DE7E77556", 
+            "Left": "249", 
+            "MethodName": "hide", 
+            "ObjTgtID": "e344c965-bb94-4f00-94cb-dbd6f0c7a608", 
+            "Params": [
+                [
+                    "fade", 
+                    "0"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "686"
+        }, 
+        {
+            "ID": "F02A3252-E874-4EB8-A7F5-53F2C54D1D71", 
+            "Left": "1301", 
+            "MethodName": "custom", 
+            "ObjTgtID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Params": [
+                [
+                    "custom", 
+                    "setSharedVariables({obj_guid:null,obj_type:\"user\"})"
+                ]
+            ], 
+            "State": "false", 
+            "Top": "51"
+        }, 
+        {
+            "ID": "F5E66D18-B233-C814-A7BC-54556F845E87", 
+            "Left": "797", 
+            "MethodName": "setValue", 
+            "ObjTgtID": "dbdc791e-92a1-4de5-8375-fa13f121dd8b", 
+            "Params": [
+                [
+                    "value", 
+                    "\"\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "771"
+        }, 
+        {
+            "ID": "F8EF074B-15E9-FF03-0B02-531B74E741A5", 
+            "Left": "1051", 
+            "MethodName": "setValue", 
+            "ObjTgtID": "504800f3-28dd-4de5-b603-ed9b2231f3b9", 
+            "Params": [
+                [
+                    "value", 
+                    "\"\""
+                ]
+            ], 
+            "State": "false", 
+            "Top": "233"
+        }
+    ], 
+    "events": [
+        {
+            "actions": [
+                "AE0E0BF7-7F41-6AE2-9A50-54770F232487"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "635", 
+            "Name": "click", 
+            "ObjSrcID": "dfeb1cb0-62a1-49c3-9e31-e3ae2905ddbb", 
+            "State": "false", 
+            "Top": "851"
+        }, 
+        {
+            "actions": [
+                "3D1CBA45-168A-8F7A-F98E-52F6ED7394A8", 
+                "7B89BC0E-510F-043A-9373-52F708E93A20", 
+                "863901AA-778B-A77C-6D3A-52F728F30177"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "0", 
+            "Name": "click", 
+            "ObjSrcID": "b9410e3d-61af-4837-837d-c5cd9415f7c4", 
+            "State": "false", 
+            "Top": "152"
+        }, 
+        {
+            "actions": [
+                "672bb6c8-c3f7-46ee-bc03-857df7a2610d"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "602", 
+            "Name": "click", 
+            "ObjSrcID": "977ea03f-af4b-4b11-a07d-033c70fcfe93", 
+            "State": "false", 
+            "Top": "1060"
+        }, 
+        {
+            "actions": [
+                "8787B049-A773-651E-F1C0-54060745E87F", 
+                "6F64282A-DBDC-6D69-8140-5405D8C0DBF6"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "554", 
+            "Name": "rowsselected", 
+            "ObjSrcID": "6c0b5e39-62a9-4284-b833-80ed8c885538", 
+            "State": "false", 
+            "Top": "523"
+        }, 
+        {
+            "actions": [
+                "0F076426-5A1F-B504-3DA0-534E23381509"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "1228", 
+            "Name": "rowsselected", 
+            "ObjSrcID": "7ed39757-4a4a-4da5-8493-57c144d2d1bb", 
+            "State": "false", 
+            "Top": "866"
+        }, 
+        {
+            "actions": [
+                "5f947b2a-56f3-484f-a23f-bbbd4299f1ad"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "1224", 
+            "Name": "headerselected", 
+            "ObjSrcID": "7ed39757-4a4a-4da5-8493-57c144d2d1bb", 
+            "State": "false", 
+            "Top": "823"
+        }, 
+        {
+            "actions": [
+                "599b2a32-84b2-4a17-89fa-fe174fd0876c"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "1213", 
+            "Name": "cellclick", 
+            "ObjSrcID": "7ed39757-4a4a-4da5-8493-57c144d2d1bb", 
+            "State": "false", 
+            "Top": "776"
+        }, 
+        {
+            "actions": [
+                "988e2629-f334-4e80-9b19-aefdd6698331", 
+                "BE9DD2F3-22D7-84A9-A875-53446A3C934F", 
+                "73E146C0-E858-F164-E77A-534473BB8DF8", 
+                "4BA42C1E-76EB-1754-E124-5394ECA661F8"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "1", 
+            "Name": "tabchanged", 
+            "ObjSrcID": "405bf0b4-b94b-4e46-827f-5a5170642595", 
+            "State": "false", 
+            "Top": "971"
+        }, 
+        {
+            "actions": [
+                "333b8e9c-4be3-44cb-adb8-ad26872adfa8"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "0", 
+            "Name": "valuechange", 
+            "ObjSrcID": "394d8bac-9d98-4d97-9386-fedc167ddaf2", 
+            "State": "false", 
+            "Top": "911"
+        }, 
+        {
+            "actions": [
+                "f0d050b9-ff0e-4af0-8a67-6798046085b2"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "1155", 
+            "Name": "click", 
+            "ObjSrcID": "9ae7fb33-f6ba-46ec-b3ea-ead7e61a9632", 
+            "State": "false", 
+            "Top": "933"
+        }, 
+        {
+            "actions": [
+                "2A488902-EA16-784F-3CA3-53021F8BD6CB"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "0", 
+            "Name": "click", 
+            "ObjSrcID": "f0c5061e-4731-4175-97e0-7dc9bb6c1c7e", 
+            "State": "false", 
+            "Top": "431"
+        }, 
+        {
+            "actions": [
+                "46B5D39F-CFD9-07EB-9980-531C2E843B41", 
+                "70F4F1DD-A766-6F33-3F25-531F949C4A42"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "539", 
+            "Name": "click", 
+            "ObjSrcID": "88953d91-fc2a-4b2a-99da-52b857980b24", 
+            "State": "false", 
+            "Top": "313"
+        }, 
+        {
+            "actions": [
+                "6fd8a180-ff96-45b9-acae-5bf12839f605"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "1133", 
+            "Name": "submit", 
+            "ObjSrcID": "e34eee2c-d2c4-49f2-957b-d527089a1c6d", 
+            "State": "false", 
+            "Top": "441"
+        }, 
+        {
+            "actions": [
+                "2A488902-EA16-784F-3CA3-53021F8BD6CB"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "0", 
+            "Name": "click", 
+            "ObjSrcID": "25158d20-fc8a-4bbc-8378-2a0bbdf2e5ac", 
+            "State": "false", 
+            "Top": "396"
+        }, 
+        {
+            "actions": [
+                "E091E623-07BB-3912-4448-54533E4F31C8", 
+                "7E8265B2-E376-2A8F-D329-54539D68B5E9", 
+                "08E55BC3-A61E-8FDF-BAE0-5453CC88F9C2", 
+                "3F9B3A9B-EF6F-1F01-05BA-5454025852A0", 
+                "3B38644F-F161-635C-5905-54541E3F1F3A", 
+                "0AC7C92E-C723-D44E-797B-5454CA4DDC05", 
+                "DF8B9989-67B8-CE15-F01F-54551BD559E7", 
+                "F5E66D18-B233-C814-A7BC-54556F845E87", 
+                "060975B8-252A-7CFD-A8D5-5456694B61DC", 
+                "6e5ba064-3fc8-4c2f-8023-92c363e5fbb2", 
+                "39585C67-DAA1-A642-67B8-5489BAE46582", 
+                "778B8483-EDEF-2113-A94A-548FBDED1F38", 
+                "0E52339D-8EFB-6751-0EEC-5490326799A2"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "534", 
+            "Name": "click", 
+            "ObjSrcID": "95f3a057-b020-4913-9b0a-da91f62b38b0", 
+            "State": "false", 
+            "Top": "628"
+        }, 
+        {
+            "actions": [
+                "028D0CEC-10FB-5D83-2D72-52F696A72D25", 
+                "CD5F575C-292B-BE00-1980-52F6AFC23B51", 
+                "46E404F9-E8BE-B92B-7778-52F765811D79"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "0", 
+            "Name": "click", 
+            "ObjSrcID": "ac14c2c0-0451-488e-8153-d81d5803f4e3", 
+            "State": "false", 
+            "Top": "0"
+        }, 
+        {
+            "actions": [
+                "3136bbf7-1245-46a0-99af-f443a5db269c"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "1161", 
+            "Name": "submit", 
+            "ObjSrcID": "916d1e60-0c82-434e-a7b9-d31aa0ff560b", 
+            "State": "false", 
+            "Top": "1048"
+        }, 
+        {
+            "actions": [
+                "3F69FB96-9F77-6D8A-0EF7-5358D76FE7CF"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "1156", 
+            "Name": "click", 
+            "ObjSrcID": "b0e7650d-a6cf-4bcd-ac7d-532530f35f64", 
+            "State": "false", 
+            "Top": "968"
+        }, 
+        {
+            "actions": [
+                "d5863609-43bb-4a2f-9777-25444b3c3e83", 
+                "4779F184-2BD9-97A1-7A5E-5485B7BABD16", 
+                "4B2F48C5-0951-8639-E457-5485ADBA2498", 
+                "A881AB69-F24E-23E6-E412-5485C3EC2CBB"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "635", 
+            "Name": "submit", 
+            "ObjSrcID": "c631ae0b-c1f8-451d-8ec4-a814db3b254e", 
+            "State": "false", 
+            "Top": "918"
+        }, 
+        {
+            "actions": [
+                "7652dbc9-b81b-4d6f-af9d-b18851f02559"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "0", 
+            "Name": "valuechange", 
+            "ObjSrcID": "848a5e02-2246-4567-a0c4-78b858fd14e0", 
+            "State": "false", 
+            "Top": "866"
+        }, 
+        {
+            "actions": [
+                "E7268B65-6186-ACE5-AB91-538BFA922F59"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "602", 
+            "Name": "click", 
+            "ObjSrcID": "ace4ad98-b0c8-4c1f-95b9-6350175a9423", 
+            "State": "false", 
+            "Top": "1130"
+        }, 
+        {
+            "actions": [
+                "6fd8a180-ff96-45b9-acae-5bf12839f605"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "1131", 
+            "Name": "submit", 
+            "ObjSrcID": "7d0942ba-19f6-4b04-86d7-fd2866a954cc", 
+            "State": "false", 
+            "Top": "405"
+        }, 
+        {
+            "actions": [
+                "88F7B7A6-E5DA-8F73-3A03-5359E522C12E"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "1159", 
+            "Name": "valuechange", 
+            "ObjSrcID": "703fa589-962c-451b-b184-7f6bfdd4772f", 
+            "State": "false", 
+            "Top": "1009"
+        }, 
+        {
+            "actions": [
+                "d5863609-43bb-4a2f-9777-25444b3c3e83", 
+                "1C6CD7BD-242C-9F32-922F-5477383EFD94", 
+                "A881AB69-F24E-23E6-E412-5485C3EC2CBB", 
+                "4B2F48C5-0951-8639-E457-5485ADBA2498", 
+                "4779F184-2BD9-97A1-7A5E-5485B7BABD16"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "631", 
+            "Name": "click", 
+            "ObjSrcID": "f5da5371-24ee-4854-860d-3fe70772289d", 
+            "State": "false", 
+            "Top": "884"
+        }, 
+        {
+            "actions": [
+                "70F4F1DD-A766-6F33-3F25-531F949C4A42", 
+                "19C8FB80-A310-1D0F-C25A-5455DFFFFDB1"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "548", 
+            "Name": "click", 
+            "ObjSrcID": "8bff7a12-17c1-4c1d-bd77-cd0806be0f18", 
+            "State": "false", 
+            "Top": "384"
+        }, 
+        {
+            "actions": [
+                "65b7d464-53ce-4df6-9e0f-af74852a4a76"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "0", 
+            "Name": "pageSelected", 
+            "ObjSrcID": "a9ed23ab-9176-4bcd-86dc-6e6346043215", 
+            "State": "false", 
+            "Top": "1117"
+        }, 
+        {
+            "actions": [
+                "7cc35d39-fb87-4042-9741-0ead589425e5"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "601", 
+            "Name": "click", 
+            "ObjSrcID": "e43ad780-9b01-4db9-bf29-ca07511a780d", 
+            "State": "false", 
+            "Top": "1091"
+        }, 
+        {
+            "actions": [
+                "BC6EDF69-FC05-0ADB-6AB8-530DCE77A264", 
+                "71934490-B3DB-C9E2-C196-530DE4AA5577", 
+                "D6A4F9F7-A2DA-53D2-7428-530E7A78037E", 
+                "E66D3C1A-9F78-D5B9-B35B-530ED4A940BF"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "3", 
+            "Name": "click", 
+            "ObjSrcID": "0f53171e-3052-47eb-a166-06f37f68c9c4", 
+            "State": "false", 
+            "Top": "520"
+        }, 
+        {
+            "actions": [
+                "506B2691-DCA2-4463-35D2-545B24814BB4"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "1295", 
+            "Name": "click", 
+            "ObjSrcID": "d924d783-d843-4548-a62b-180cb08b1cc1", 
+            "State": "false", 
+            "Top": "558"
+        }, 
+        {
+            "actions": [
+                "97568B5A-E71D-1992-6B34-530DCAA50144", 
+                "E8C673B8-9524-5E5F-6A4F-530DE7E77556", 
+                "65F55A1B-4CA7-E764-B10A-530E5F3F327B", 
+                "3CA0538B-5B47-3893-DE77-530EC48F60A7"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "3", 
+            "Name": "click", 
+            "ObjSrcID": "e344c965-bb94-4f00-94cb-dbd6f0c7a608", 
+            "State": "false", 
+            "Top": "654"
+        }, 
+        {
+            "actions": [
+                "2EA48551-A8A7-7DC8-24A7-530217720101"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "0", 
+            "Name": "click", 
+            "ObjSrcID": "dfb9e7fe-e124-4204-8c54-7309c481db47", 
+            "State": "false", 
+            "Top": "306"
+        }, 
+        {
+            "actions": [
+                "14DDC226-9845-03DE-9879-5317BC327943", 
+                "71B95E7B-D631-A460-22B9-531810E68AA1", 
+                "ABFA6942-2AF8-C1FB-B282-53182C532027", 
+                "6CE117F4-C4CC-20EE-E444-53186C5D8F1F", 
+                "709DB7AD-51FA-6629-88E2-53188B00D961", 
+                "489DDD72-02C7-5B45-7782-5318A90FB0C3", 
+                "330A2D36-D64A-F37D-F596-5318D4449324", 
+                "92053C23-310F-D307-1A1C-5318F1CA5115", 
+                "CCB31C72-FE1F-855B-8CD1-5319200FB5AC", 
+                "9176CEDB-E45C-40E6-4A52-53193C9E98D3", 
+                "1FA4C493-E659-C6A2-7A6D-5319818106F9", 
+                "AC8A174D-FA15-A61F-8CDC-5319ED493B53", 
+                "67F86FA2-F801-E2DF-E55A-531A1DE5741C", 
+                "DF25400F-01D4-DC75-0272-531A7E38A4FE", 
+                "AAED0B17-14F5-2438-577A-531AA92831FD", 
+                "D67042E8-29E2-956A-B452-531AB6CA40D5", 
+                "7340BF9D-324E-BAFA-4B5F-531AF308F873", 
+                "C3572FF0-515C-86B9-C70F-531B3607B107", 
+                "69B294E1-6E1D-2DE1-E73E-531B82A6DFCE", 
+                "66690201-AD6E-CA56-D23E-531B5BA07490", 
+                "F8EF074B-15E9-FF03-0B02-531B74E741A5", 
+                "AFF1E856-3AE7-8C77-71DF-531B6A2FA212", 
+                "BB7631BD-C59E-B34D-978B-53EBF0A3F19B", 
+                "F02A3252-E874-4EB8-A7F5-53F2C54D1D71", 
+                "6e5ba064-3fc8-4c2f-8023-92c363e5fbb2", 
+                "6DC7F313-BE94-87DA-64FE-6321C4CEB298", 
+                "2232DD3A-BDDD-21A9-E506-6321D3E82370", 
+                "0599E177-532C-CAB7-2BBA-6321E9ED0853", 
+                "E24BEBD4-2573-5F40-8702-632234C336B1"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "546", 
+            "Name": "click", 
+            "ObjSrcID": "5ba6082b-bb18-4cd8-b7d6-a1cdef9a6885", 
+            "State": "false", 
+            "Top": "2"
+        }, 
+        {
+            "actions": [
+                "8787B049-A773-651E-F1C0-54060745E87F", 
+                "639BF3D1-B950-6038-AF8B-54517B3BE720"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "1009", 
+            "Name": "rowsselected", 
+            "ObjSrcID": "6c41a7c9-2f32-4b63-820e-6d03ab2551dc", 
+            "State": "false", 
+            "Top": "508"
+        }, 
+        {
+            "actions": [
+                "506B2691-DCA2-4463-35D2-545B24814BB4"
+            ], 
+            "ContainerID": "6814366b-48fe-4b51-9b54-0d8c4c830dbd", 
+            "Left": "1297", 
+            "Name": "click", 
+            "ObjSrcID": "5c5c85b5-0acf-48ad-97fb-384b669fa65a", 
+            "State": "false", 
+            "Top": "601"
+        }
+    ]
+}

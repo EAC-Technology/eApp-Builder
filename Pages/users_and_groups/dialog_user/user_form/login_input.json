@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        "ID": "a782d252-b239-4e39-9ec6-bf093b50fcd6", 
+        "Name": "login_input", 
+        "Type": "410ce9c6-5ae0-4c66-9c2b-80b7470e2927"
+    }, 
+    "attributes": {
+        "autocomplete": "1", 
+        "border": "1", 
+        "classname": "", 
+        "focused": "0", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "19", 
+        "mode": "0", 
+        "multiline": "0", 
+        "placeholder": "", 
+        "tabindex": "1", 
+        "title": "", 
+        "top": "22", 
+        "value": "", 
+        "visible": "1", 
+        "width": "338", 
+        "zindex": "0"
+    }
+}

@@ -1,0 +1,13 @@
+from template_workspace import WorkspaceTemplateCollection
+from template_application import ApplicationTemplateCollection
+from template_widget import WidgetTemplateCollection
+from template_data_source import DataSourceTemplateCollection
+from template_view import ViewTemplateCollection
+from template_breadcrumb import BreadcrumbTemplate
+from template_sidebar import SidebarTemplate
+from template_role import RoleTemplateCollection, RightTemplateCollection
+from template_acls import (ACLViewTemplateCollection, ACLRoleTemplateCollection,
+						   ACLRightTemplateCollection, ACLTableCollection)
+from template_resource import ResourceListTemplate
+from template_script import ScriptTemplateCollection
+

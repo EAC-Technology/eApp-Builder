@@ -1,0 +1,26 @@
+{
+    "attrs": {
+        "ID": "06dbeeff-b1bd-4649-9ce2-3828791e23bc", 
+        "Name": "login", 
+        "Type": "410ce9c6-5ae0-4c66-9c2b-80b7470e2927"
+    }, 
+    "attributes": {
+        "autocomplete": "1", 
+        "border": "1", 
+        "classname": "", 
+        "focused": "0", 
+        "height": "22", 
+        "hierarchy": "0", 
+        "left": "121", 
+        "mode": "0", 
+        "multiline": "0", 
+        "placeholder": "", 
+        "tabindex": "2", 
+        "title": "", 
+        "top": "43", 
+        "value": "", 
+        "visible": "1", 
+        "width": "220", 
+        "zindex": "0"
+    }
+}

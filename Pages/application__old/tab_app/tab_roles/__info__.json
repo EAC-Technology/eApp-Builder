@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "7dd7b912-733f-4b0e-b726-5fecfd669d79", 
+        "Name": "tab_roles", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "", 
+        "designcolor": "EEEEEE", 
+        "footer": "0", 
+        "height": "575", 
+        "heightauto": "0", 
+        "hierarchy": "7", 
+        "left": "1", 
+        "lockposition": "1", 
+        "overflow": "3", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "Roles & Rights", 
+        "titlewrap": "1", 
+        "top": "20", 
+        "visible": "1", 
+        "width": "796", 
+        "zindex": "0"
+    }
+}

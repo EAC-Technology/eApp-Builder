@@ -1,0 +1,21 @@
+[
+    "app_settings", 
+    "class_acl_user", 
+    "class_license", 
+    "class_macro", 
+    "config", 
+    "localization", 
+    "models", 
+    "ProAdmin", 
+    "proadmin_remote_settings", 
+    "proadmin_sso", 
+    "templates", 
+    "urls", 
+    "utilities", 
+    "vdom_debug", 
+    "vdom_trace", 
+    "VEE_vmacro_dispatcher", 
+    "widget_localization", 
+    "widget_macros_datatable", 
+    "widget_user_group_dialog"
+]

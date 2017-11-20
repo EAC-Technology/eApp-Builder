@@ -1,0 +1,39 @@
+{
+    "attrs": {
+        "ID": "8ba0ed36-d9d0-446b-b9b9-e6fff34bb067", 
+        "Name": "button_config", 
+        "Type": "315381b8-f3f1-496c-92be-b65ebdd6b8a1"
+    }, 
+    "attributes": {
+        "align": "left", 
+        "border": "0", 
+        "classname": "blue config", 
+        "color": "000000", 
+        "containerlink": "", 
+        "disabled": "0", 
+        "disabledimg": "", 
+        "fontfamily": "Tahoma, \"Geneva CY\", geneva, sans-serif", 
+        "fontshift": "0", 
+        "fontsize": "12", 
+        "fontstyle": "normal", 
+        "fontweight": "normal", 
+        "height": "21", 
+        "hierarchy": "0", 
+        "hint": "", 
+        "image": "", 
+        "ishover": "0", 
+        "ispressed": "0", 
+        "left": "340", 
+        "link": "", 
+        "rollover": "", 
+        "skin": "0", 
+        "style": "", 
+        "tabindex": "0", 
+        "text": "Configure Plugin", 
+        "textdecoration": "none", 
+        "top": "190", 
+        "visible": "0", 
+        "width": "128", 
+        "zindex": "9"
+    }
+}

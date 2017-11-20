@@ -1,0 +1,29 @@
+{
+    "attrs": {
+        "ID": "29117b87-4af2-4e5f-80f5-672a0a9a51d4", 
+        "Name": "container_group", 
+        "Type": "81d947af-1548-4a96-a1e0-d8a4c67c6ec2"
+    }, 
+    "attributes": {
+        "backgroundcolor": "", 
+        "backgroundimage": "", 
+        "backgroundrepeat": "0", 
+        "classname": "", 
+        "designcolor": "EE7F69", 
+        "footer": "0", 
+        "height": "10", 
+        "heightauto": "0", 
+        "hierarchy": "1", 
+        "left": "1", 
+        "lockposition": "1", 
+        "overflow": "0", 
+        "resource_cache": "", 
+        "securitycode": "", 
+        "title": "Add Group", 
+        "titlewrap": "0", 
+        "top": "103", 
+        "visible": "1", 
+        "width": "314", 
+        "zindex": "0"
+    }
+}

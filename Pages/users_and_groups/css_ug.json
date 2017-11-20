@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "ID": "725ba681-7f43-41b4-9412-ba044cbeaa5c", 
+        "Name": "css_ug", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "height": "60", 
+        "hierarchy": "0", 
+        "htmlcode": "<style type=\"text/css\">\n.solid-border{\nborder: 1px solid #dcdcdc !important;\noverflow-x:hidden !important;\noverflow-y:auto !important;\n}\n\n.add-to-group-button {\nbackground: url(\"/88baa487-f2ee-478a-b6dc-357c382eceae.png\");\nbackground-repeat:no-repeat;\nbackground-position:top center;\npadding-top:20px;\ntext-align:center;\nfont-size:10px !important;\ntext-decoration:none;\n}\n\n.ug-dt caption {\ndisplay:none !important;\n}\n\n.ug-dt table {\nmargin: 0px !important;\npadding: 0px !important;\n}\n\n.ug-dt table tr td {\nborder-bottom: 0px !important;\nline-height: 1 !important;\n}\n\n.ug-dt .cell-0 {\nwidth:22px;\n}\n\n.ug-switch {\nbackground:#f9c501 url(\"/4c63ffa9-2931-4e2f-97fb-e17a20d138e0.png\") no-repeat top right !important;\nline-height:22px;\ntext-indent: -10px;\n}\n\n.ug_subject_edit {\nbackground:url(\"/49f03bb5-8169-4d64-8ea5-6f792e74272c.png\") left 75% no-repeat;\nwidth:16px;\nheight:16px;\ncursor:pointer;\n}\n.ug_header_sorted_down {\nbackground:url(\"/e9f587bd-ee07-42e4-8767-dd8d08cc28e9.png\") right 75% no-repeat;\npadding-right:10px;\ncursor:pointer\n}\n.ug_header_sorted_up {\nbackground:url(\"/c133f416-225b-4420-bdc3-5f50fb33e51b.png\") right 75% no-repeat;\npadding-right:10px;\ncursor:pointer !important;\n}\n.ug_datatable_title {\nborder-bottom:1px dashed #3da3d8;\ncolor:#3da3d8;\ncursor:pointer !important;\n}\n</style>", 
+        "left": "875", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "403", 
+        "visible": "1", 
+        "width": "80", 
+        "zindex": "10"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "ID": "e6498513-db45-4750-a11b-6009e4113256", 
+        "Name": "css", 
+        "Type": "7085bd26-e653-490b-908f-61208c260a86"
+    }, 
+    "attributes": {
+        "height": "30", 
+        "hierarchy": "0", 
+        "htmlcode": "<style>\n.cnt-logs {\n  border: 2px solid black;\n}\n.cnt-filter {\n  border: 2px solid silver;\n}\n</style>", 
+        "left": "734", 
+        "nostyle": "0", 
+        "overflow": "0", 
+        "top": "0", 
+        "visible": "0", 
+        "width": "80", 
+        "zindex": "0"
+    }
+}
